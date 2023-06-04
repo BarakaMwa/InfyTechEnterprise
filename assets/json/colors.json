@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "red": { "type": "string" },
+        "orange": { "type": "string" },
+        "yellow": { "type": "string" },
+        "green": { "type": "string" },
+        "blue": { "type": "string" },
+        "indigo": { "type": "string" },
+        "violet": { "type": "string" }
+    },
+    "required": ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+}
