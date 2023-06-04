@@ -1115,7 +1115,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/9rwvo4g613w7gz8fpxv1-1-2000x11000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/9rwvo4g613w7gz8fpxv1-1-2000x11001.jpg",
             "bgColor": "#3d8eb9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1478,7 +1478,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/9rwvo4g613w7gz8fpxv1-1-2000x11000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/9rwvo4g613w7gz8fpxv1-1-2000x11001.jpg",
             "bgColor": "#3d8eb9",
             "bgColorRadio": false,
             "bgVideo": {
