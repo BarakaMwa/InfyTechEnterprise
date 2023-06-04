@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
 
 
@@ -538,6 +537,7 @@ h6,
 
 
 
+
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -610,6 +610,7 @@ h6,
 }
 #msg-box8-6 .lead P {
   text-align: left;
+  font-family: 'Roboto', sans-serif;
 }
 #msg-box5-f P {
   text-align: left;
@@ -617,18 +618,18 @@ h6,
 #msg-box5-f B {
   color: #2969b0;
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lora', serif;
 }
 #content6-g P {
   color: #ffffff;
   text-align: left;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Lora', serif;
 }
 #content2-j BLOCKQUOTE {
   color: #ffffff;
 }
 #content2-j B {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lora', serif;
 }
 #header3-k .mbr-section-title,
 #header3-k .mbr-section-subtitle {
@@ -641,18 +642,10 @@ h6,
 #header3-k SMALL {
   color: #3d8eb9;
 }
-#header3-l .mbr-section-title,
-#header3-l .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-l H3 {
-  text-align: right;
+#testimonials1-o .mbr-section-title {
   color: #ffffff;
 }
-#header3-l SMALL {
-  color: #3d8eb9;
-}
-#header3-l B {
+#testimonials1-o .mbr-section-subtitle {
   color: #ffffff;
 }
 #contacts5-i p,
