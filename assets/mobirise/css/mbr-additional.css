@@ -484,11 +484,11 @@ section.form .container {
   color: #ffffff;
 }
 #ext_menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -592,6 +592,9 @@ section.form .container {
 }
 #content2-12 DIV {
   color: #3d8eb9;
+}
+#content2-12 I {
+  font-size: 24px;
 }
 #content1-14 DIV {
   color: #ffffff;
