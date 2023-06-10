@@ -1,22 +1,24 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 
 
-
-
+.subtitleFont {
+  font-family: 'Lora', serif;
+  font-style: normal;
+}
 body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: undefined;
+  font-family: 'Rubik', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: undefined;
+  font-family: 'Rubik', sans-serif;
 }
 .btn,
 .alert,
@@ -70,12 +72,14 @@ h6,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
   font-family: 'Lora', serif;
+  font-style: normal;
 }
 .mbr-author-name {
   font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Lora', serif;
+  font-style: normal;
 }
 .mbr-plan-title {
   font-family: 'Montserrat', sans-serif;
@@ -83,6 +87,7 @@ h6,
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
   font-family: 'Lora', serif;
+  font-style: normal;
 }
 .bg-primary {
   background-color: #2b0680 !important;
@@ -418,6 +423,49 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #2b0680;
 }
+.form-control {
+  padding: 0.9rem;
+}
+.align-center {
+  text-align: center;
+}
+.col,
+.col-12,
+.col-auto {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+}
+.col-auto {
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  width: auto;
+  max-width: none;
+}
+form a.btn {
+  margin: 0;
+}
+.mx-auto {
+  margin: 0 auto;
+}
+section.custom-form .container,
+section.form .container {
+  display: flex;
+}
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -490,6 +538,32 @@ h6,
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
 }
+#header3-x .mbr-section-title,
+#header3-x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-x H3 {
+  text-align: right;
+  color: #ffffff;
+}
+#header3-x .mbr-section-title {
+  text-align: left;
+}
+#features1-y .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2969b0;
+}
+#features1-y .mbr-cards-col:nth-child(even) .card-title {
+  color: #2969b0;
+}
+#features1-10 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-10 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #2969b0;
+}
+#features1-10 .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+}
 #msg-box6-w h3,
 #msg-box6-w p {
   color: #fff;
@@ -499,22 +573,28 @@ h6,
   font-size: 36px;
 }
 #msg-box6-w P {
-  color: #2969b0;
+  color: #ffffff;
 }
 #msg-box6-w B {
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
 }
-#header3-x .mbr-section-title,
-#header3-x .mbr-section-subtitle {
+#header3-z .mbr-section-title,
+#header3-z .mbr-section-subtitle {
   text-align: center;
 }
-#header3-x H3 {
+#header3-z H3 {
   text-align: right;
   color: #ffffff;
 }
-#features1-y .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2969b0;
+#header3-z .mbr-section-title {
+  text-align: left;
+}
+#content2-12 DIV {
+  color: #3d8eb9;
+}
+#content1-14 DIV {
+  color: #ffffff;
 }
 #contacts5-i p,
 #contacts5-i .list-group-text,
@@ -706,7 +786,6 @@ h6,
 
 
 
-
 #ext_menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -810,11 +889,16 @@ h6,
 #msg-box5-v B {
   font-family: 'Roboto', sans-serif;
 }
-#features3-q P {
-  font-family: 'Montserrat', sans-serif;
+#header3-11 .mbr-section-title,
+#header3-11 .mbr-section-subtitle {
+  text-align: center;
 }
-#features1-r .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2969b0;
+#header3-11 H3 {
+  text-align: right;
+  color: #ffffff;
+}
+#header3-11 .mbr-section-title {
+  text-align: left;
 }
 #features7-s .card-subtitle {
   color: #bcbcbc;
