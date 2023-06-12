@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Infy Tech Enterprises",
-    "currentPage": "services.html",
+    "currentPage": "web_hosting_pricing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3309,7 +3309,7 @@
         }
       ]
     },
-    "web-hosting-pricing.html": {
+    "web_hosting_pricing.html": {
       "settings": {
         "title": "Web Hosting Prices",
         "meta_descr": "",
