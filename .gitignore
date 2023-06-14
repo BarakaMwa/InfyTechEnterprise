@@ -19,3 +19,4 @@
 [branch "3-services-page"]
 	remote = origin
 	merge = refs/heads/3-services-page
+hosting-services/
