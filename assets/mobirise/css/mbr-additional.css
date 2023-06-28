@@ -556,7 +556,7 @@ section.form .container {
   color: #2969b0;
 }
 #features1-10 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #cccccc;
+  background-color: #ffffff;
 }
 #features1-10 .mbr-cards-col:nth-child(odd) .card-title {
   color: #2969b0;
@@ -570,7 +570,7 @@ section.form .container {
 }
 #msg-box6-w H3 {
   color: #ffffff;
-  font-size: 36px;
+  font-size: 32px;
 }
 #msg-box6-w P {
   color: #ffffff;
@@ -792,6 +792,9 @@ section.form .container {
 
 
 
+
+
+
 #ext_menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -869,6 +872,7 @@ section.form .container {
 #msg-box5-t H3 {
   text-align: left;
   color: #2969b0;
+  font-size: 30px;
 }
 #msg-box5-t P {
   text-align: left;
@@ -879,6 +883,7 @@ section.form .container {
 }
 #msg-box5-u H3 {
   color: #ffffff;
+  font-size: 30px;
 }
 #msg-box5-u P {
   font-family: 'Roboto', sans-serif;
@@ -887,6 +892,7 @@ section.form .container {
 #msg-box5-v H3 {
   text-align: left;
   color: #2969b0;
+  font-size: 30px;
 }
 #msg-box5-v P {
   text-align: left;
@@ -897,6 +903,7 @@ section.form .container {
 }
 #msg-box5-15 H3 {
   color: #ffffff;
+  font-size: 30px;
 }
 #msg-box5-15 P {
   font-family: 'Roboto', sans-serif;
@@ -905,6 +912,7 @@ section.form .container {
 #msg-box5-16 H3 {
   text-align: left;
   color: #2969b0;
+  font-size: 30px;
 }
 #msg-box5-16 P {
   text-align: left;
@@ -915,8 +923,29 @@ section.form .container {
 }
 #msg-box5-1j H3 {
   color: #ffffff;
+  font-size: 30px;
 }
 #msg-box5-1j P {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+}
+#msg-box5-22 H3 {
+  text-align: left;
+  color: #2969b0;
+  font-size: 30px;
+}
+#msg-box5-22 P {
+  text-align: left;
+  color: #2969b0;
+}
+#msg-box5-22 B {
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box5-23 H3 {
+  color: #ffffff;
+  font-size: 30px;
+}
+#msg-box5-23 P {
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
 }
@@ -930,6 +959,13 @@ section.form .container {
 }
 #header3-11 .mbr-section-title {
   text-align: left;
+  color: #2969b0;
+}
+#content2-24 DIV {
+  color: #2969b0;
+}
+#content2-24 B {
+  font-family: 'Montserrat', sans-serif;
 }
 #features7-s .card-subtitle {
   color: #bcbcbc;
@@ -937,6 +973,12 @@ section.form .container {
 #features7-s .iconbox {
   background-color: #2b0680;
   border-color: #2b0680;
+}
+#features7-s H4 {
+  color: #2969b0;
+}
+#features7-s P {
+  color: #2969b0;
 }
 #contacts5-i p,
 #contacts5-i .list-group-text,
