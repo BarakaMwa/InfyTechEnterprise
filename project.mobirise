@@ -1,13 +1,13 @@
 {
   "settings": {
     "name": "Infy Tech Enterprises",
-    "currentPage": "services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#2b0680",
-        "secondaryColor": "#2969b0",
+        "secondaryColor": "#ffffff",
         "successColor": "#3d8eb9",
         "infoColor": "#41a85f",
         "warningColor": "#f7da64",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 77,
+    "uniqCompNum": 82,
     "versionPublish": "5.7.12",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -168,13 +168,31 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "etdzhfxbg4",
-    "robotsSwitcher": false,
+    "mbrsiteDomain": "ogqufluizm",
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#ffffff",
+      "colorButton": "#2b0680",
+      "rejectColor": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacityOverlay": "1",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "GOT IT",
+      "rejectText": "REJECT"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
@@ -254,7 +272,7 @@
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -353,7 +371,8 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "32px"
             }
           },
           "_tags": [
@@ -558,7 +577,7 @@
           "title1": "Graphic Design<br> and<br>Video Editing",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"services.html#msg-box5-1j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/kindpng-600x363.png",
@@ -590,7 +609,7 @@
           "title3": "Computer Hardware <br>and<br>Software Maintenance",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/qazbybsise-500x500.png",
@@ -606,7 +625,7 @@
           "title4": "Search Engine\n<div>Optimization\n</div><div>Management</div>",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/qazbybsise-500x500.png",
@@ -994,7 +1013,7 @@
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -1421,13 +1440,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#7e9b9f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#7e9b9f"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#7e9b9f"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -1448,7 +1467,7 @@
               "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#7e9b9f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1474,7 +1493,7 @@
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -1540,6 +1559,25 @@
           "title": "Services",
           "text": "<p><b><i>Our Tech Solutions Services.</i></b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9"
+          },
+          "text": "<p><b>We offer a wide range of services to meet your technology needs. Whether you're a small business looking to establish an online presence or an individual seeking assistance with software development, we have the expertise to support you. Our team of skilled professionals is dedicated to delivering high-quality solutions that drive success for our clients. Explore our service offerings below:</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content1-25",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -1608,7 +1646,7 @@
           },
           "title": "Web Hosting",
           "text": "<b>Here at Infy Enterprises, we offer reliable and high-performance web hosting solutions tailored to meet your specific needs. Whether you're a small business owner, a startup, or a large enterprise, our robust hosting infrastructure ensures that your website remains accessible and runs smoothly. With our state-of-the-art servers, advanced security measures, and 24/7 monitoring, you can trust us to keep your website online and secure.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"web_hosting_pricing.html\" data-toolbar=\"-mbrBtnMove\">Prices List</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Prices List</a>"
         },
         {
           "_tags": [
@@ -1633,7 +1671,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "50",
+            "imageSize": "45",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -1672,7 +1710,7 @@
           },
           "title": "Database Hosting",
           "text": "<b>Our comprehensive database hosting services provide you with a secure and efficient platform to store and manage your valuable data. We offer scalable and flexible hosting solutions that can handle your growing data needs. Whether you require MySQL, MongoDB, or any other database management system, our expert team will ensure optimal performance and reliability.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
         },
         {
           "_tags": [
@@ -1701,7 +1739,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "43",
+            "imageSize": "34",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1740,7 +1778,7 @@
           },
           "title": "Email Services",
           "text": "<b>Communicate effectively and professionally with our secure and customizable email server solutions. We understand the importance of reliable email services for businesses, which is why we offer robust email servers that ensure seamless communication and enhanced productivity. Our solutions include spam filtering, encryption, and mobile access, providing you with a complete email management system.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
         },
         {
           "_params": {
@@ -1748,7 +1786,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "47",
+            "imageSize": "36",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1788,7 +1826,7 @@
           },
           "title": "Web Design and Development",
           "text": "<b>Make a lasting impression with our professional web design and development services. Our experienced team of designers and developers will work closely with you to create a visually appealing and user-friendly website that aligns with your brand identity and business goals. From responsive design to intuitive navigation, we focus on delivering a seamless browsing experience for your visitors.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Price List</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>",
           "_tags": [
             "Theme"
           ],
@@ -1853,7 +1891,7 @@
           },
           "title": "Mobile and Software<br>Application Development",
           "text": "<b>Empower your business with custom software solutions designed to streamline your operations and boost productivity. Our skilled software development team specializes in creating tailored applications and systems that address your unique requirements. From concept to deployment, we ensure a collaborative and iterative approach to deliver high-quality software that aligns perfectly with your business processes.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Price List</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>",
           "_tags": [
             "Theme"
           ],
@@ -1882,7 +1920,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "47",
+            "imageSize": "40",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": true,
@@ -1945,9 +1983,9 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
-            "imageSize": "43",
+            "imageSize": "38",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1987,7 +2025,7 @@
           },
           "title": "Computer Hardware and Software Maintenance",
           "text": "<b>Ensure your systems are running smoothly with our PC hardware and software maintenance services. Our technicians can assist with troubleshooting, upgrades, installations, and general maintenance to keep your computers and software optimized for performance and security.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>",
           "_tags": [
             "Theme"
           ],
@@ -2014,9 +2052,9 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
-            "imageSize": "47",
+            "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -2056,7 +2094,7 @@
           },
           "title": "Search Engine Optimization (SEO)",
           "text": "<b>Boost your online visibility and drive organic traffic to your website with our search engine optimization services. Our SEO experts employ proven strategies to improve your website's search engine rankings, increase its visibility in search results, and attract more potential customers to your business.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>",
           "_tags": [
             "Theme"
           ],
@@ -2180,9 +2218,10 @@
               "name": "setting3",
               "family": "mobirise-icons-bold",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title1": "Expertise",
@@ -2196,9 +2235,10 @@
               "name": "like",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title2": "Reliability",
@@ -2212,9 +2252,10 @@
               "name": "growing-chart",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title3": "Scalability",
@@ -2228,9 +2269,10 @@
               "name": "cash",
               "family": "mobirise-icons-bold",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title4": "Competitive Pricing",
@@ -2244,9 +2286,10 @@
               "name": "users",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title5": "Customer Support",
@@ -2531,7 +2574,7 @@
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2855,7 +2898,7 @@
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3563,7 +3606,7 @@
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3614,7 +3657,7 @@
             "paddingTop": "5",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaperflare.com-wallpaper-6-2000x1333.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20230505-wa0036-1836x3264.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#3d8eb9",
@@ -3631,358 +3674,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-1l"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showSubTitle": false,
-            "labelsColor": "#2969b0",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "form": {
-            "action": "baraka.mwangamba@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_sourceTheme": "mobirise3",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#2969b0"
-            }
-          },
-          "_anchor": "form1-1m"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2969b0"
-          },
-          "title": "Our Social",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "header3-1n"
-        },
-        {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
-            }
-          },
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "whatsapp",
-              "family": "socicon",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#41a85f"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "mail",
-              "family": "socicon",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#b8312f"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "phone",
-              "family": "Mobirise2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#553982"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title1": "WhatsApp",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Email",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Call:<br>Call:",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features4",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "features4-1o"
-        },
-        {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
-            }
-          },
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "telegram",
-              "family": "socicon",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#3d8eb9"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "help",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#00a885"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "socicon",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#2969b0"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title1": "Telegram",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "SMS",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Facebook",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features4",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "features4-1p"
         },
         {
           "alias": "facebook-feed/components",
@@ -4023,37 +3714,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "facebook": true,
-            "twitter": false,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_sourceTheme": "mobirise3",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#2969b0"
-            }
-          },
-          "_anchor": "social-buttons1-1r"
         },
         {
           "_inherit": "contacts3",
@@ -4272,7 +3932,7 @@
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
