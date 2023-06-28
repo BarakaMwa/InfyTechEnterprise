@@ -484,11 +484,11 @@ section.form .container {
   color: #ffffff;
 }
 #ext_menu-0 .link {
-  font-size: 0.6rem;
+  font-size: 0.8rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.866rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -556,7 +556,7 @@ section.form .container {
   color: #2969b0;
 }
 #features1-10 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 #features1-10 .mbr-cards-col:nth-child(odd) .card-title {
   color: #2969b0;
@@ -707,7 +707,7 @@ section.form .container {
 #msg-box8-6 .mbr-section-title {
   text-align: left;
   color: #ffffff;
-  font-size: 72px;
+  font-size: 60px;
 }
 #msg-box8-6 .lead P {
   text-align: left;
@@ -860,7 +860,7 @@ section.form .container {
 #msg-box8-p .mbr-section-title {
   text-align: left;
   color: #ffffff;
-  font-size: 72px;
+  font-size: 60px;
 }
 #msg-box8-p .lead P {
   text-align: left;
@@ -982,7 +982,7 @@ section.form .container {
 #msg-box8-n .mbr-section-title {
   text-align: left;
   color: #ffffff;
-  font-size: 72px;
+  font-size: 60px;
 }
 #msg-box8-n .lead P {
   text-align: left;
@@ -1187,7 +1187,7 @@ section.form .container {
 #msg-box8-m .mbr-section-title {
   text-align: left;
   color: #ffffff;
-  font-size: 72px;
+  font-size: 60px;
 }
 #msg-box8-m .lead P {
   text-align: left;
@@ -1357,7 +1357,7 @@ section.form .container {
 #msg-box8-1l .mbr-section-title {
   text-align: left;
   color: #ffffff;
-  font-size: 72px;
+  font-size: 60px;
 }
 #msg-box8-1l .lead P {
   text-align: left;
