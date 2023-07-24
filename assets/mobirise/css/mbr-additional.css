@@ -1299,3 +1299,149 @@ section.form .container {
 #contacts5-2t B {
   font-family: 'Roboto', sans-serif;
 }
+
+
+
+#msg-box8-30 .mbr-section-title,
+#msg-box8-30 p {
+  color: #fff;
+}
+#msg-box8-30 .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+  font-size: 60px;
+}
+#msg-box8-30 .lead P {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-31 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-31 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-31 .navbar-toggler {
+  color: #7e9b9f;
+}
+#ext_menu-31 .close-icon::before,
+#ext_menu-31 .close-icon::after {
+  background-color: #7e9b9f;
+}
+#ext_menu-31 .link,
+#ext_menu-31 .dropdown-item {
+  color: #7e9b9f;
+}
+#ext_menu-31 .link {
+  font-size: 0.8rem;
+}
+#ext_menu-31 .dropdown-item,
+#ext_menu-31 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-31 .link:hover,
+#ext_menu-31 .dropdown-item:hover,
+#ext_menu-31 .link:focus,
+#ext_menu-31 .dropdown-item:focus {
+  color: #2b0680;
+}
+#ext_menu-31 .link[aria-expanded="true"],
+#ext_menu-31 .dropdown-menu {
+  background: #1f5087;
+}
+#ext_menu-31 .nav-dropdown-sm .link:focus,
+#ext_menu-31 .nav-dropdown-sm .link:hover,
+#ext_menu-31 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-31 .nav-dropdown-sm .dropdown-item:hover {
+  background: #2662a4!important;
+}
+#ext_menu-31 .navbar,
+#ext_menu-31 .nav-dropdown-sm,
+#ext_menu-31 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-31 .nav-dropdown-sm .dropdown-menu {
+  background: #2969b0;
+}
+#ext_menu-31 .bg-color.transparent .link {
+  color: #7e9b9f;
+  transition: none;
+}
+#ext_menu-31 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-31 .bg-color.transparent.opened .link:hover,
+#ext_menu-31 .bg-color.transparent.opened .link:focus {
+  color: #2b0680;
+}
+#ext_menu-31 .link[aria-expanded="true"],
+#ext_menu-31 .dropdown-item[aria-expanded="true"] {
+  color: #2b0680!important;
+}
+#contacts5-32 p,
+#contacts5-32 .list-group-text,
+#contacts5-32 .form-control-label {
+  color: #000;
+}
+#contacts5-32 strong,
+#contacts5-32 h4 {
+  color: #7e9b9f;
+}
+#contacts5-32 form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-32 .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-32 .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-32 P {
+  color: #2969b0;
+}
+#contacts5-32 H4 {
+  color: #553982;
+}
+#contacts5-32 STRONG {
+  color: #553982;
+}
+#contacts5-32 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#contacts5-32 B {
+  font-family: 'Roboto', sans-serif;
+}
+#pricing-table2-34 .mbr-plan-header,
+#pricing-table2-34 .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-34 ul,
+#pricing-table2-34 .mbr-plan-title,
+#pricing-table2-34 .mbr-price-value,
+#pricing-table2-34 .mbr-price-figure,
+#pricing-table2-34 .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-34 .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-34 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-34 .mbr-plan-subtitle {
+  color: #cccccc;
+}
+#pricing-table2-34 .mbr-plan-title {
+  color: #cccccc;
+}
+#pricing-table2-34 .mbr-plan-label {
+  font-size: 9px;
+}
+#pricing-table2-34 .mbr-plan-price-desc {
+  color: #cccccc;
+}
+#pricing-table2-34 .mbr-section__container .mbr-section-subtitle {
+  color: #ffffff;
+}
+#pricing-table2-34 .mbr-section__container .mbr-section-title {
+  color: #ffffff;
+}
