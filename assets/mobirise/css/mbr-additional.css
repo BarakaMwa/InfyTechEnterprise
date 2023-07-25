@@ -1315,6 +1315,41 @@ section.form .container {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
 }
+#pricing-table2-34 .mbr-plan-header,
+#pricing-table2-34 .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-34 ul,
+#pricing-table2-34 .mbr-plan-title,
+#pricing-table2-34 .mbr-price-value,
+#pricing-table2-34 .mbr-price-figure,
+#pricing-table2-34 .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-34 .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-34 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-34 .mbr-plan-subtitle {
+  color: #c1c1c1;
+}
+#pricing-table2-34 .mbr-plan-title {
+  color: #cccccc;
+}
+#pricing-table2-34 .mbr-plan-label {
+  font-size: 9px;
+}
+#pricing-table2-34 .mbr-plan-price-desc {
+  color: #cccccc;
+}
+#pricing-table2-34 .mbr-section__container .mbr-section-subtitle {
+  color: #ffffff;
+}
+#pricing-table2-34 .mbr-section__container .mbr-section-title {
+  color: #ffffff;
+}
 #ext_menu-31 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1409,39 +1444,4 @@ section.form .container {
 }
 #contacts5-32 B {
   font-family: 'Roboto', sans-serif;
-}
-#pricing-table2-34 .mbr-plan-header,
-#pricing-table2-34 .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-34 ul,
-#pricing-table2-34 .mbr-plan-title,
-#pricing-table2-34 .mbr-price-value,
-#pricing-table2-34 .mbr-price-figure,
-#pricing-table2-34 .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-34 .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-34 .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#pricing-table2-34 .mbr-plan-subtitle {
-  color: #cccccc;
-}
-#pricing-table2-34 .mbr-plan-title {
-  color: #cccccc;
-}
-#pricing-table2-34 .mbr-plan-label {
-  font-size: 9px;
-}
-#pricing-table2-34 .mbr-plan-price-desc {
-  color: #cccccc;
-}
-#pricing-table2-34 .mbr-section__container .mbr-section-subtitle {
-  color: #ffffff;
-}
-#pricing-table2-34 .mbr-section__container .mbr-section-title {
-  color: #ffffff;
 }
