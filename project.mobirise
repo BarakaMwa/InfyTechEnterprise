@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Infy Tech Enterprises",
-    "currentPage": "services.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 113,
+    "uniqCompNum": 137,
     "versionPublish": "5.7.12",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -192,10 +192,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
-    "publishFtpPath": "public_html"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
@@ -1556,8 +1553,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "title": "Services",
           "text": "<p><b><i>Our Tech Solutions Services.</i></b></p>",
@@ -1848,7 +1845,7 @@
           },
           "title": "Email Services",
           "text": "<b>Communicate effectively and professionally with our secure and customizable email server solutions. We understand the importance of reliable email services for businesses, which is why we offer robust email servers that ensure seamless communication and enhanced productivity. Our solutions include spam filtering, encryption, and mobile access, providing you with a complete email management system.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
         },
         {
           "_tags": [
@@ -1917,7 +1914,7 @@
           },
           "title": "Mobile and Software<br>Application Development",
           "text": "<b>Empower your business with custom software solutions designed to streamline your operations and boost productivity. Our skilled software development team specializes in creating tailored applications and systems that address your unique requirements. From concept to deployment, we ensure a collaborative and iterative approach to deliver high-quality software that aligns perfectly with your business processes.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
         },
         {
           "_tags": [
@@ -1982,7 +1979,7 @@
           },
           "title": "Graphic Design",
           "text": "<b>Make a lasting impression with visually captivating designs. Our graphic design team combines creativity and expertise to deliver stunning visuals that align with your brand identity. Whether you need a logo, marketing materials, or engaging social media graphics, we've got you covered.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
         },
         {
           "_tags": [
@@ -2103,13 +2100,14 @@
             }
           },
           "title": "These Include are going at 50 Kwacha Each",
-          "text": "<b>Anti Virus </b><font color=\"#2969b0\"><b>Installation</b></font><b>&nbsp;/ Updates / Scanning</b><br><b>Office Installation / Update / Activation</b><br><b>Hard Drive Replacements</b><br><b>Machine Blowing</b><br><b>Operating System </b><font color=\"#2969b0\"><b>Installation</b></font><b>&nbsp;/ Update / Activation</b><br>",
+          "text": "<b>Anti Virus </b><font color=\"#2969b0\"><b>Installation</b></font><b>&nbsp;/ Updates / Scanning</b><br><b>Office Installation / Update / Activation</b><br><b>Hard Drive Replacements (Plus Cost Of Hard Drive)</b><br><b>Machine Blowing</b><br><b>Operating System </b><font color=\"#2969b0\"><b>Installation</b></font><b>&nbsp;/ Update / Activation</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
               "text-align": "left",
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#2969b0"
             },
             "H3": {
               "text-align": "left",
@@ -2165,7 +2163,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/qazbybsise-500x500.png",
+              "src": "@PROJECT_PATH@/assets/images/seo-2-700x800.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2562,12 +2560,12 @@
           "_anchor": "msg-box8-n",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/et5athtrpf4cbjgpbnf4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/project%20header-2000x1500.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#3d8eb9",
@@ -2580,7 +2578,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Projects",
-          "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available.</b></p>",
+          "text": "<p><b>Here at Infy Enterprises, we take immense pride in the diverse range of technology projects we have successfully delivered to our clients. Our team of skilled professionals works diligently to bring your ideas to life and create impactful solutions tailored to your unique requirements. Explore some of our featured projects below:</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2681,7 +2679,8 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "24px"
             }
           },
           "_tags": [
@@ -2764,125 +2763,7 @@
           },
           "title": "<a href=\"https://www.zbecks.net/\" target=\"_blank\">Zbecks Online Services</a>",
           "text": "<b>Connecting Businesses to the World. We are an online service provider inspired by systematic online transactions. We have different systems that people will use on our platform.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.zbecks.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "header3-18",
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2969b0"
-          },
-          "title": "Mobile Applications",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "header3-19",
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2969b0"
-          },
-          "title": "Graphic Gallery",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "1",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "filterBgColor": true,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "_anchor": "gallery3-2v",
-          "articleLayout": false,
-          "allItem": "All",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.zbecks.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -3061,7 +2942,7 @@
           "_anchor": "msg-box8-2o",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -3079,7 +2960,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Contact Us",
-          "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available.</b></p>",
+          "text": "<p><b>Thank you for considering our tech services. If you have any questions, inquiries, or need assistance, our team is here to help. Feel free to reach out to us through any of the following contact methods:</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -3169,6 +3050,467 @@
           },
           "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy <br>Enterprises</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact-us.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Contact Information:",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-38",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "tel:+260976503727",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "mail",
+              "family": "socicon",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#2969b0",
+              "border-color": "#2969b0"
+            }
+          },
+          "title1": "Phone",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "+<b><a href=\"tel:+26096503727\" class=\"text-primary\">260976503727</a></b>",
+          "title2": "Email",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>info@infyenterprise.com</b>",
+          "title3": "Address",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<b>Location</b>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "features7-37"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Business Hours:",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-39",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Location:",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3i",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Munali, Chudleigh, Lusaka, Zambia",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "map1-3b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Get in Touch:",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3e",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Please don't hesitate to contact us using the information provided above. You can reach out to us via phone or email, and we'll be happy to assist you. Additionally, you can use the contact form below to submit your inquiries directly through our website. Our team will promptly respond to your messages and ensure you receive the information you need.</b></p>",
+          "text2": "<p><b>At Infy Enterprises, we value our customers and prioritize excellent customer service. Your satisfaction is our top priority, and we look forward to assisting you on your technological journey. Whether you are a small business owner, entrepreneur, or individual seeking tech solutions, we are here to support you every step of the way.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            ".lead": {
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "content6-3q",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Schedule a Meeting:",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3l",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>To schedule a meeting, simply reach out to us through any of the contact methods provided below. You can call us at +260976503727 or email us at info@infyenterprise.com. Let us know your preferred date, time, and location, and our team will promptly get back to you to confirm the details.</b></p>",
+          "text2": "<p><b>Whether you wish to discuss web hosting services, database hosting solutions, email servers, web design and development, mobile application and software development, graphic design, PC hardware and software maintenance, or search engine optimization, we are excited to meet you in person and provide personalized solutions to meet your specific needs.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content6-3o",
+          "_styles": {
+            ".lead": {
+              "color": "#2969b0"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>At Infy Enterprises, we believe in the power of face-to-face interactions and the value they bring to understanding your technological requirements better. Our team of experts is prepared to ensure that your meeting is productive and informative, guiding you through the process of achieving your tech-related goal</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "content1-3s",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Thank you for considering our services, and we look forward to hearing from you soon!</b></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content2-3r",
+          "_styles": {
+            "DIV": {
+              "color": "#2969b0"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Contact Form:",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3g",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubTitle": false,
+            "labelsColor": "#2969b0",
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "baraka.mwangamba@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "form1-3h",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#2969b0"
+            }
+          }
         },
         {
           "_inherit": "contacts3",
@@ -3311,9 +3653,9 @@
         }
       ]
     },
-    "web-services-price-list.html": {
+    "services-price-list.html": {
       "settings": {
-        "title": "Web Design, Development and Hosting Prices | Infy Enterprises Zambia",
+        "title": "Service Prices | Infy Enterprises Zambia",
         "meta_descr": "Contact Us, Here at Infy Tech Enterprises Zambia, For businesses that need database hosting, we provide a range of solutions tailored to your needs. Our database hosting services are designed to be flexible, reliable, and scalable, so you can focus on what matters most: growing your business.",
         "header_custom": "",
         "footer_custom": "",
@@ -3347,8 +3689,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/et5athtrpf4cbjgpbnf4-2000x1333.jpg",
             "parallax": true,
@@ -3362,10 +3704,108 @@
             "overlayColor": "#2969b0",
             "overlayOpacity": "0.2"
           },
-          "title": "Web Design, Development and Hosting Prices",
+          "title": "Service Prices",
           "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available. At affordable rates.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_anchor": "msg-box8-30"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#efefef"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#2969b0"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-price-value": {
+              "color": "#2969b0"
+            },
+            ".mbr-price-figure": {
+              "color": "#2969b0"
+            },
+            ".mbr-price-term": {
+              "color": "#2969b0"
+            },
+            ".mbr-plan-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-plan-list .list-group-item": {
+              "color": "#2969b0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Email Hosting Services",
+          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
+          "title1": "Small Standard Park",
+          "title2": "Medium Business Pack",
+          "title3": "Large Premium Pack",
+          "title4": "Four Years",
+          "subtitle1": "<b>Students and Small Businesses</b>",
+          "subtitle2": "<b>Medium Sized Businesses</b>",
+          "subtitle3": "<b>For Growing Needs</b>",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "<b>K</b>",
+          "currency2": "K",
+          "currency3": "<b>K</b>",
+          "currency4": "K",
+          "price1": "<b>440</b>",
+          "price2": "<b>740</b>",
+          "price3": "<b>840</b>",
+          "price4": "700",
+          "period1": "/<b>yr</b>",
+          "period2": "",
+          "period3": "",
+          "period4": "/yr",
+          "description1": "<b>Once Of and<br> Short Term</b>",
+          "description2": "<b>Great For Websites <br>with User Data</b>",
+          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b>",
+          "description4": "More Value For Your Money<br>In it for the Long Haul",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>10 Accounts</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>100 Accounts</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>Unlimited Accounts</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-35",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "pricing-table1",
@@ -3383,34 +3823,37 @@
               "border-color": "#cfcfcf"
             },
             ".mbr-plan-subtitle": {
-              "color": "#c1c1c1"
+              "color": "#00a885"
             },
             ".mbr-plan-title": {
-              "color": "#cccccc"
+              "color": "#000000"
             },
             ".mbr-plan-label": {
               "font-size": "9px"
             },
             ".mbr-plan-price-desc": {
-              "color": "#cccccc"
+              "color": "#41a85f"
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#ffffff"
             },
             ".mbr-section__container .mbr-section-title": {
               "color": "#ffffff"
+            },
+            ".mbr-plan-list .list-group-item": {
+              "color": "#00a885"
             }
           },
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "firstType": "",
             "secondType": "bg-primary",
             "thirdType": "",
             "fourthType": "",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "showButtons": false,
+            "showButtons": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -3424,14 +3867,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "description1": "<b>Hosting and Domain Renewable at </b><br><b>K 1.5k/yr </b><br><b>Includes Free Maintenance</b><b><br></b>",
+          "description1": "<b>Hosting and Domain Renewable at </b><br><b>K 1k/yr </b><br><b>Includes Free Maintenance</b><b><br></b>",
           "description2": "<b>Hosting and Domain Renewable at <br>K 1.5k/yr<br>Includes Free Maintenance</b><br>",
-          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2k/yr<br>Includes Free Maintenance</b><br>",
+          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2.5k/yr<br>Includes Free Maintenance</b><br>",
           "description4": "<b>Development Of Extra feature<br>Website Or Management<br> System</b>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
           "_tags": [
             "Theme"
           ],
@@ -3444,7 +3887,7 @@
           "subtitle1": "<b>Web Site Development</b>",
           "subtitle2": "<b>Integrated User Management</b>",
           "subtitle3": "<b>Task and User Management</b>",
-          "subtitle4": "<b>Extra feature</b>",
+          "subtitle4": "<b>Features Not In Initial&nbsp;Scope</b>",
           "label1": "HOT!",
           "label2": "HOT!",
           "label3": "HOT!",
@@ -3463,8 +3906,8 @@
           "period4": "<b>/feat.</b>",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>&nbsp;One year hosting</b></li><li class=\"list-group-item\"><b>Free 50 emails</b></li><li class=\"list-group-item\"><b>Maximum 5 pages</b></li><li class=\"list-group-item\"><b>&nbsp;domain registration &amp; SEO</b></li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Free 100 emails</b></li><li class=\"list-group-item\"><b>User Dashboard</b></li><li class=\"list-group-item\"><b>15 GB bandwidth</b></li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Task Dashboards</b></li><li class=\"list-group-item\"><b>User Management</b></li><li class=\"list-group-item\"><b>Task Assignment</b></li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Dashboard Feature</b></li><li class=\"list-group-item\"><b>Feature Management</b></li><li class=\"list-group-item\"><b>Process Development</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Dashboards</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Management</b></li><li class=\"list-group-item\"><b>UNLIMITED EMAILS</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Feature Dashboard&nbsp;</b></li><li class=\"list-group-item\"><b>Feature Management</b></li><li class=\"list-group-item\"><b>Process Development</b></li></ul>",
           "_name": "pricing-table2",
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table2-34"
@@ -3556,6 +3999,104 @@
           "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy <br>Enterprises</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact-us.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>",
           "_anchor": "ext_menu-31"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#efefef"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#2969b0"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-price-value": {
+              "color": "#2969b0"
+            },
+            ".mbr-price-figure": {
+              "color": "#2969b0"
+            },
+            ".mbr-price-term": {
+              "color": "#2969b0"
+            },
+            ".mbr-plan-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-plan-list .list-group-item": {
+              "color": "#2969b0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Database Hosting Services",
+          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
+          "title1": "Small Standard Park",
+          "title2": "Medium Business Pack",
+          "title3": "Large Premium Pack",
+          "title4": "Four Years",
+          "subtitle1": "<b>Students and Small Businesses</b>",
+          "subtitle2": "<b>Medium Sized Businesses</b>",
+          "subtitle3": "<b>For Growing Needs</b>",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "<b>K</b>",
+          "currency2": "K",
+          "currency3": "<b>K</b>",
+          "currency4": "K",
+          "price1": "<b>340</b>",
+          "price2": "<b>540</b>",
+          "price3": "<b>640</b>",
+          "price4": "700",
+          "period1": "",
+          "period2": "",
+          "period3": "",
+          "period4": "/yr",
+          "description1": "<b>Once Of and<br> Short Term</b>",
+          "description2": "<b>Great For Websites <br>with User Data</b>",
+          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b>",
+          "description4": "More Value For Your Money<br>In it for the Long Haul",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Database Account</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>1 Database</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 10 Accounts</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>10 Databases</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 50 Accounts</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>50 Databases</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-36",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "contacts3",
