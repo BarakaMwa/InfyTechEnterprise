@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Infy Tech Enterprises",
-    "currentPage": "services-price-list.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 145,
+    "uniqCompNum": 137,
     "versionPublish": "5.7.12",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -192,9 +192,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
@@ -1388,7 +1386,7 @@
           "text6": "<strong>Contacts</strong><br><b>Email:<a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">&nbsp;</a>info@infyenterprise.com<br>Cell: <a href=\"tel:+260 976503727\">+260 976503727</a><br>Cell: <a href=\"tel:+260 950046478\">+260 950046478</a></b><br><b>WhatsApp: <a href=\"https://wa.me/260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>Telegram</b>: <b><a href=\"tg://resolve?domain=+260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>SMS: <a href=\"sms:+260976503727\" class=\"text-primary\">+260 950046478</a></b><br><br><br><strong>Address</strong><br><b>1234 Street Name<br>City, AA 99999</b>",
           "form": {
             "title": "MESSAGE",
-            "action": "info@infyenterprise.com",
+            "action": "baraka.mwangamba@gmail.com",
             "alerts": {
               "success": "Thanks for Contacting Us"
             },
@@ -3089,12 +3087,12 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": false,
             "iconsBgColor": "#2969b0",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "4",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -3127,9 +3125,10 @@
               "name": "mail",
               "family": "socicon",
               "active": true,
-              "link": "mailto:info@infyenterprise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": true
             }
           },
           "media3": {
@@ -3147,14 +3146,13 @@
           },
           "media4": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "cust-feedback",
-              "family": "Mobirise2",
               "active": true,
-              "link": "sms:+260976503727",
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://infyenterprise.com",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "family": "et-line"
             }
           },
           "media5": {
@@ -3193,14 +3191,14 @@
           },
           "title1": "Phone",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>+<a href=\"tel:+26096503727\" class=\"text-primary\">260976503727</a></b>",
+          "caption1": "+<b><a href=\"tel:+26096503727\" class=\"text-primary\">260976503727</a></b>",
           "title2": "Email",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b><a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">info@infyenterprise.com</a></b>",
+          "caption2": "<b>info@infyenterprise.com</b>",
           "title3": "Address",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<b>Location</b>",
-          "title4": "Text US",
+          "title4": "Unlimited Sites",
           "subtitle4": "Infy Enterprise gives you the freedom to develop",
           "caption4": "Infy Enterprise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -3516,203 +3514,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2969b0"
-          },
-          "title": "Our Social:",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3u",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#cccccc",
-              "border-color": "#cccccc"
-            }
-          },
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "iconsBgColor": "#cccccc",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "whatsapp",
-              "family": "socicon",
-              "active": true,
-              "link": "https://wa.me/260950046478",
-              "size": 0,
-              "color": "#41a85f"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "socicon",
-              "active": true,
-              "link": "https://web.facebook.com/profile.php?id=100088560471365",
-              "size": 0,
-              "color": "#2969b0",
-              "newWindow": false
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "telegram",
-              "family": "socicon",
-              "active": true,
-              "link": "tel:+260950046478",
-              "size": 0,
-              "color": "#3d8eb9"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title1": "<a href=\"https://wa.me/260950046478\" class=\"text-primary\">WhatsApp</a>",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<a href=\"https://web.facebook.com/profile.php?id=100088560471365\" class=\"text-primary\">Facebook</a>",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<a href=\"tg://resolve?domain=+260950046478\" class=\"text-primary\">Telegram</a>",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features4",
-          "_anchor": "features4-3v",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "alias": "facebook-feed/components",
-          "_isSecondary": true,
-          "typeCompatible": "!isAMP",
-          "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "background-color": "@bgColor",
-            ".fb-page, span, iframe": {
-              "width": "(@width * 1px)",
-              "height": "(@height * 1px)"
-            },
-            "blockquote": {
-              "display": "none"
-            },
-            ".fb-page": {
-              "background-color": "#1877f2",
-              "border-radius": "4px",
-              "background-size": "contain",
-              "background-repeat": "no-repeat",
-              "color": "#fff",
-              "background-image": "url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 262 266.895'><path id='path3087' fill='%23fff' d='M182.409,262.307v-99.803h33.499l5.016-38.895h-38.515V98.777c0-11.261,3.127-18.935,19.275-18.935 l20.596-0.009V45.045c-3.562-0.474-15.788-1.533-30.012-1.533c-29.695,0-50.025,18.126-50.025,51.413v28.684h-33.585v38.895h33.585 v99.803H182.409z'></path></svg>\")"
-            }
-          },
-          "_name": "facebook-page",
-          "_sourceTheme": "mobirise3",
-          "_customHTML": "<section class=\"facebook-page\" plugins=\"facebook-page-plugin\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"width\" title=\"Width\" step=\"10\" min=\"180\" max=\"500\" value=\"500\">\n        <input type=\"range\" name=\"height\" title=\"Height\" step=\"50\" min=\"70\" max=\"1000\" value=\"600\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" name=\"showTitle\" title=\"Title\" checked>\n        <input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\">\n        <input type=\"checkbox\" name=\"showText\" title=\"Text\">\n        <header>Feed</header>\n        <input type=\"text\" name=\"url\" title=\"Facebook Page\" value=\"https://web.facebook.com/profile.php?id=100088560471365\">\n        <input type=\"checkbox\" name=\"cover\" title=\"Cover\" checked>\n        <input type=\"checkbox\" name=\"smallheader\" title=\"Small Header\">\n        <input type=\"checkbox\" name=\"ctabtn\" title=\"Call To Action\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div class=\"container\">\n        <div class=\"mbr-section-head\" mbr-if=\"showTitle || showSubtitle\">\n            <h4 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>Our Facebook Page Feed</b></h4>\n            <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Enter you Facebook Page URL in Block\n                Parameters</h5>\n            <p class=\"mbr-text mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Facebook Page Feed Text</p>\n        </div>\n        <div class=\"row justify-content-center mt-4\">\n            <iframe src=\"https://www.facebook.com/plugins/page.php?href={{url}}&tabs=timeline,events,messages&width={{width}}&height={{height}}&small_header={{smallheader}}&adapt_container_width=true&hide_cover={{!cover}}&hide_cta={{ctabtn}}&appId=2773163886047820\" width=\"340\" height=\"500\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n        </div>\n    </div>\n</section>",
-          "_cid": "tLqSwOP2Ro",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "facebook-page-3w"
-        },
-        {
           "_inherit": "contacts3",
           "_styles": {
             "p, .list-group-text, .form-control-label": {
@@ -3850,92 +3651,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#2969b0"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#efefef"
-            },
-            ".mbr-plan-price-desc": {
-              "color": "#ffffff"
-            },
-            ".mbr-plan-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-plan-list .list-group-item": {
-              "color": "#2969b0"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "bg-primary",
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "showButtons": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Web Hosting",
-          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
-          "title1": "One Year",
-          "title2": "Two Years",
-          "title3": "Three Years",
-          "title4": "Four Years",
-          "subtitle1": "Description",
-          "subtitle2": "Description",
-          "subtitle3": "Description",
-          "subtitle4": "Description",
-          "label1": "HOT!",
-          "label2": "HOT!",
-          "label3": "HOT!",
-          "label4": "HOT!",
-          "currency1": "K",
-          "currency2": "K",
-          "currency3": "K",
-          "currency4": "K",
-          "price1": "500",
-          "price2": "450",
-          "price3": "400",
-          "price4": "350",
-          "period1": "/yr",
-          "period2": "/yr",
-          "period3": "/yr",
-          "period4": "/yr",
-          "description1": "Once Of and<br> Short Term",
-          "description2": "Great For Websites <br>with User Data",
-          "description3": "This Package Best Suited for your Media Level",
-          "description4": "More Value For Your Money<br>In it for the Long Haul",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-3y",
-          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -4074,9 +3789,9 @@
           "period2": "",
           "period3": "",
           "period4": "/yr",
-          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At K500/yr</b>",
-          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable&nbsp;At K800/2yrs</b>",
-          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At K1000/3yrs</b>",
+          "description1": "<b>Once Of and<br> Short Term</b>",
+          "description2": "<b>Great For Websites <br>with User Data</b>",
+          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b>",
           "description4": "More Value For Your Money<br>In it for the Long Haul",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>10 Accounts</b></li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>100 Accounts</b></li></ul>",
@@ -4154,8 +3869,8 @@
             "overlayOpacity": 0.5
           },
           "description1": "<b>Hosting and Domain Renewable at </b><br><b>K 1k/yr </b><br><b>Includes Free Maintenance</b><b><br></b>",
-          "description2": "<b>Hosting and Domain Renewable at <br>K 1k/yr<br>Includes Free Maintenance</b><br>",
-          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2k/yr<br>Includes Free Maintenance</b><br>",
+          "description2": "<b>Hosting and Domain Renewable at <br>K 1.5k/yr<br>Includes Free Maintenance</b><br>",
+          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2.5k/yr<br>Includes Free Maintenance</b><br>",
           "description4": "<b>Development Of Extra feature<br>Website Or Management<br> System</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
@@ -4182,10 +3897,10 @@
           "currency2": "<b>K</b>",
           "currency3": "<b>K</b>",
           "currency4": "<b>K</b>",
-          "price1": "<b>3k</b>",
-          "price2": "<b>5k</b>",
+          "price1": "<b>2k</b>",
+          "price2": "<b>4k</b>",
           "price3": "<b>9k</b>",
-          "price4": "<b>500</b>",
+          "price4": "<b>1k</b>",
           "period1": "<b>/yr.</b>",
           "period2": "<b>/yr.</b>",
           "period3": "<b>/yr.</b>",
@@ -4193,7 +3908,7 @@
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>&nbsp;One year hosting</b></li><li class=\"list-group-item\"><b>Free 50 emails</b></li><li class=\"list-group-item\"><b>Maximum 5 pages</b></li><li class=\"list-group-item\"><b>&nbsp;domain registration &amp; SEO</b></li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Free 100 emails</b></li><li class=\"list-group-item\"><b>User Dashboard</b></li><li class=\"list-group-item\"><b>15 GB bandwidth</b></li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Dashboards</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Management</b></li><li class=\"list-group-item\"><b>UNLIMITED EMAILS</b></li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Feature Dashboard&nbsp;</b></li><li class=\"list-group-item\"><b>Feature Management</b></li><li class=\"list-group-item\"><b>Payment Feature</b></li><li class=\"list-group-item\"><b>Process Development</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Feature Dashboard&nbsp;</b></li><li class=\"list-group-item\"><b>Feature Management</b></li><li class=\"list-group-item\"><b>Process Development</b></li></ul>",
           "_name": "pricing-table2",
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table2-34"
@@ -4365,9 +4080,9 @@
           "period2": "",
           "period3": "",
           "period4": "/yr",
-          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At 400/yr</b>",
-          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable At 600/2yrs</b>",
-          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At 900/3yrs</b>",
+          "description1": "<b>Once Of and<br> Short Term</b>",
+          "description2": "<b>Great For Websites <br>with User Data</b>",
+          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b>",
           "description4": "More Value For Your Money<br>In it for the Long Haul",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Database Account</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>1 Database</b></li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 10 Accounts</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>10 Databases</b></li></ul>",
@@ -4383,95 +4098,6 @@
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-36",
           "_sourceTheme": "mobirise3"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2969b0"
-          },
-          "title": "Promotions:",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-40",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Web Site <br>Promotion<br>(1/8/2023 - 30/11/2012)",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box5-3z",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px",
-              "color": "#2969b0"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
         },
         {
           "_inherit": "contacts3",

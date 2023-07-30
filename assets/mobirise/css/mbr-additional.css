@@ -1341,6 +1341,47 @@ section.form .container {
 #form1-3h .form-control-label {
   color: #2969b0;
 }
+#header3-3u .mbr-section-title,
+#header3-3u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3u H3 {
+  text-align: right;
+  color: #ffffff;
+}
+#header3-3u .mbr-section-title {
+  text-align: left;
+  font-size: 24px;
+}
+#features4-3v .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-3v .iconbox {
+  background-color: #cccccc;
+  border-color: #cccccc;
+}
+.cid-tLqSwOP2Ro {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tLqSwOP2Ro .fb-page,
+.cid-tLqSwOP2Ro span,
+.cid-tLqSwOP2Ro iframe {
+  width: 500px;
+  height: 620px;
+}
+.cid-tLqSwOP2Ro blockquote {
+  display: none;
+}
+.cid-tLqSwOP2Ro .fb-page {
+  background-color: #1877f2;
+  border-radius: 4px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: #fff;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 262 266.895'><path id='path3087' fill='%23fff' d='M182.409,262.307v-99.803h33.499l5.016-38.895h-38.515V98.777c0-11.261,3.127-18.935,19.275-18.935 l20.596-0.009V45.045c-3.562-0.474-15.788-1.533-30.012-1.533c-29.695,0-50.025,18.126-50.025,51.413v28.684h-33.585v38.895h33.585 v99.803H182.409z'></path></svg>");
+}
 #contacts5-2t p,
 #contacts5-2t .list-group-text,
 #contacts5-2t .form-control-label {
@@ -1374,6 +1415,21 @@ section.form .container {
 }
 #contacts5-2t B {
   font-family: 'Roboto', sans-serif;
+}
+#pricing-table1-3y .mbr-section__container .mbr-section-title {
+  color: #2969b0;
+}
+#pricing-table1-3y .mbr-section__container .mbr-section-subtitle {
+  color: #efefef;
+}
+#pricing-table1-3y .mbr-plan-price-desc {
+  color: #ffffff;
+}
+#pricing-table1-3y .mbr-plan-subtitle {
+  color: #ffffff;
+}
+#pricing-table1-3y .mbr-plan-list .list-group-item {
+  color: #2969b0;
 }
 
 
@@ -1543,6 +1599,26 @@ section.form .container {
 }
 #pricing-table1-36 .mbr-plan-list .list-group-item {
   color: #2969b0;
+}
+#header3-40 .mbr-section-title,
+#header3-40 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-40 H3 {
+  text-align: right;
+  color: #ffffff;
+}
+#header3-40 .mbr-section-title {
+  text-align: left;
+  font-size: 24px;
+}
+#msg-box5-3z H3 {
+  text-align: left;
+  font-size: 36px;
+  color: #2969b0;
+}
+#msg-box5-3z P {
+  text-align: left;
 }
 #contacts5-32 p,
 #contacts5-32 .list-group-text,
