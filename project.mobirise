@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "Infy Tech Enterprises",
-    "currentPage": "services-price-list.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise3",
-      "title": "Infy Enterprises 3",
+      "title": "Infy Enterprise 3",
       "styling": {
         "primaryColor": "#2b0680",
         "secondaryColor": "#2969b0",
@@ -192,9 +192,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
@@ -2913,7 +2911,7 @@
     "contact-us.html": {
       "settings": {
         "title": "Contact Us | Infy Enterprises Zambia",
-        "meta_descr": "Contact Us, Here at Infy Tech Enterprises Zambia, For businesses that need database hosting, we provide a range of solutions tailored to your needs. Our database hosting services are designed to be flexible, reliable, and scalable, so you can focus on what matters most: growing your business.",
+        "meta_descr": "At Infy Enterprises Zambia, we value every interaction with our customers and stakeholders. This Contact Us page is your gateway to connect with us directly, whether you have inquiries, feedback, or require assistance with any of our products or services. Our dedicated team is here to ensure your experience with us is smooth, informative, and rewarding.\n\nContact Options:\nWe offer multiple ways for you to get in touch with us, catering to your preferred communication style. You can reach us through our convenient contact form, where you can provide specific details about your inquiry or feedback. Additionally, you'll find our email address and phone number for direct communication with our support team. Whichever method you choose, rest assured that we are committed to responding promptly and addressing your needs effectively.\n\nPrompt Response:\nAt Infy Enterprises Zambia, we understand that timely assistance is crucial. Our customer support team is on standby to respond to your queries and messages with utmost efficiency. Whether you have questions about our products, need technical support, or seek information on our services, we aim to provide you with comprehensive and timely responses, allowing you to make informed decisions.\n\nExpert Assistance:\nOur team of knowledgeable and friendly professionals is dedicated to helping you find solutions that best suit your requirements. Whether you are a new customer seeking information about our offerings or an existing client with specific needs, our experts will guide you through the process and ensure you have a satisfying experience with Infy Enterprises Zambia.\n\nFeedback and Suggestions:\nYour feedback is invaluable to us as it helps us improve and better serve you. We encourage you to share your thoughts, suggestions, and experiences with us through this platform. By actively listening to our customers, we can continuously enhance our products, services, and overall customer experience to meet and exceed your expectations.\n\nPrivacy and Security:\nInfy Enterprises Zambia takes your privacy and security seriously. Rest assured that any information you share with us through this page will be treated with the utmost confidentiality. We adhere to strict data protection practices, ensuring that your personal information remains secure and is used only for the purpose of addressing your inquiries and providing support.\n\nCollaborate with Us:\nIf you are interested in exploring potential partnerships, collaborations, or business opportunities with Infy Enterprises Zambia, this page is an ideal starting point. Get in touch with our business development team to discuss possibilities and synergies that could lead to mutual growth and success.\n\nWe look forward to hearing from you and assisting you in any way we can. Your satisfaction is our priority, and we are excited to be a part of your journey towards achieving your business goals. Contact us today, and let's embark on this meaningful collaboration together!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3649,16 +3647,16 @@
           },
           "title1": "<a href=\"https://wa.me/260950046478\" class=\"text-primary\">WhatsApp</a>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Infy Enterprisehas been equipped to develop websites using this framework.",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Infy Enterprise has been equipped to develop websites using this framework.",
           "title2": "<a href=\"https://web.facebook.com/profile.php?id=100088560471365\" class=\"text-primary\">Facebook</a>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Infy Enterprisemakes effective use of this by generating highly responsive website for you.",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Infy Enterprise makes effective use of this by generating highly responsive website for you.",
           "title3": "<a href=\"tg://resolve?domain=+260950046478\" class=\"text-primary\">Telegram</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Infy Enterprisemakes it easy for you to use them on your website easily and freely.",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Infy Enterprise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
-          "subtitle4": "Infy Enterprisegives you the freedom to develop",
-          "caption4": "Infy Enterprisegives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "Infy Enterprise gives you the freedom to develop",
+          "caption4": "Infy Enterprise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -3706,11 +3704,11 @@
           "_sourceTheme": "mobirise3",
           "_customHTML": "<section class=\"facebook-page\" plugins=\"facebook-page-plugin\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"width\" title=\"Width\" step=\"10\" min=\"180\" max=\"500\" value=\"500\">\n        <input type=\"range\" name=\"height\" title=\"Height\" step=\"50\" min=\"70\" max=\"1000\" value=\"600\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" name=\"showTitle\" title=\"Title\" checked>\n        <input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\">\n        <input type=\"checkbox\" name=\"showText\" title=\"Text\">\n        <header>Feed</header>\n        <input type=\"text\" name=\"url\" title=\"Facebook Page\" value=\"https://web.facebook.com/profile.php?id=100088560471365\">\n        <input type=\"checkbox\" name=\"cover\" title=\"Cover\" checked>\n        <input type=\"checkbox\" name=\"smallheader\" title=\"Small Header\">\n        <input type=\"checkbox\" name=\"ctabtn\" title=\"Call To Action\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div class=\"container\">\n        <div class=\"mbr-section-head\" mbr-if=\"showTitle || showSubtitle\">\n            <h4 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>Our Facebook Page Feed</b></h4>\n            <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Enter you Facebook Page URL in Block\n                Parameters</h5>\n            <p class=\"mbr-text mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Facebook Page Feed Text</p>\n        </div>\n        <div class=\"row justify-content-center mt-4\">\n            <iframe src=\"https://www.facebook.com/plugins/page.php?href={{url}}&tabs=timeline,events,messages&width={{width}}&height={{height}}&small_header={{smallheader}}&adapt_container_width=true&hide_cover={{!cover}}&hide_cta={{ctabtn}}&appId=2773163886047820\" width=\"340\" height=\"500\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n        </div>\n    </div>\n</section>",
           "_cid": "tLqSwOP2Ro",
+          "_anchor": "facebook-page-3w",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "facebook-page-3w"
+          "_params": {}
         },
         {
           "_inherit": "contacts3",
@@ -3942,7 +3940,7 @@
     "services-price-list.html": {
       "settings": {
         "title": "Service Prices | Infy Enterprises Zambia",
-        "meta_descr": "Contact Us, Here at Infy Tech Enterprises Zambia, For businesses that need database hosting, we provide a range of solutions tailored to your needs. Our database hosting services are designed to be flexible, reliable, and scalable, so you can focus on what matters most: growing your business.",
+        "meta_descr": "Welcome to the Pricing Page of Infy Enterprises Zambia!\n\nAt Infy Enterprises Zambia, we pride ourselves on offering innovative solutions to meet the diverse needs of our valued customers. Our Pricing Page is designed to provide you with transparent and flexible options, ensuring you have access to top-notch products and services tailored to your specific requirements.\n\nExplore our Pricing Plans:\nWe offer a range of carefully curated pricing plans, each designed to cater to businesses of all sizes. Whether you are a startup, a growing enterprise, or an established industry leader, we have a plan that suits your unique needs. Our plans come with detailed features and benefits, making it easy for you to choose the one that aligns perfectly with your business goals.\n\nCustomizable Solutions:\nWe understand that every business is unique, and one-size-fits-all solutions may not always work. That's why we offer the flexibility to customize our pricing plans to match your exact requirements. We believe in a customer-centric approach, and our team of experts is always ready to assist you in creating a personalized plan that maximizes the value for your investment.\n\nTransparent Pricing:\nAt Infy Enterprises Zambia, transparency is one of our core values. We believe in building trust with our customers by providing clear and straightforward pricing information. There are no hidden fees or surprises—what you see is what you get. Our transparent pricing ensures you can make informed decisions, confidently knowing that you are getting the best value for your money.\n\nCompetitive Advantage:\nWith our competitive pricing, you can expect cost-effective solutions without compromising on quality. We regularly analyze market trends and competitor offerings to ensure that our prices remain competitive and fair. Infy Enterprises Zambia strives to be your reliable partner, and our pricing reflects our commitment to delivering exceptional value.\n\nEasy Sign-up and Billing Process:\nGetting started with Infy Enterprises Zambia is hassle-free. Our user-friendly sign-up process allows you to subscribe to your chosen plan swiftly. Additionally, our streamlined billing process ensures that you receive accurate and timely invoices, enabling you to manage your expenses efficiently.\n\n24/7 Customer Support:\nWe take pride in our top-notch customer support team, available 24/7 to address any questions or concerns you may have. Our dedicated support staff is committed to ensuring a smooth experience for our customers, guaranteeing that your journey with Infy Enterprises Zambia is nothing short of exceptional.\n\nTake the next step towards unlocking the full potential of your business with Infy Enterprises Zambia's competitive and customizable pricing plans. Reach out to our sales team to learn more or sign up today! We look forward to empowering your business to thrive in the digital landscape.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -4420,8 +4418,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -4439,7 +4437,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/website-hosting-addvert-proposal-1400x892.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -4453,8 +4454,8 @@
               "size": 0
             }
           },
-          "title": "Web Site <br>Promotion<br>(1/8/2023 - 30/11/2012)",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "title": "Web Site <br>Promotion<br>(15/8/2023 - 30/11/2023)",
+          "text": "<b>For a limited time Website Prices are reduced.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.infyenterprise.com/\">MORE</a>",
           "_tags": [
             "Theme"
@@ -4469,7 +4470,8 @@
               "color": "#2969b0"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#2969b0"
             }
           }
         },
