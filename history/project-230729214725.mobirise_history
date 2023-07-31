@@ -3595,7 +3595,7 @@
               "name": "facebook",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://www.infyenterprise.com/",
               "size": 0,
               "color": "#2969b0"
             }
@@ -3607,7 +3607,7 @@
               "name": "telegram",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://www.infyenterprise.com/",
               "size": 0,
               "color": "#3d8eb9"
             }
@@ -3617,7 +3617,7 @@
               "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
               "name": "linegraph",
-              "link": "https://mobirise.com",
+              "link": "https://www.infyenterprise.com/",
               "size": 0,
               "color": "black",
               "family": "et-line"
@@ -3628,7 +3628,7 @@
               "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
               "name": "briefcase",
-              "link": "https://mobirise.com",
+              "link": "https://www.infyenterprise.com/",
               "size": 0,
               "color": "black",
               "family": "et-line"
@@ -3639,7 +3639,7 @@
               "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
               "name": "linegraph",
-              "link": "https://mobirise.com",
+              "link": "https://www.infyenterprise.com/",
               "size": 0,
               "color": "black",
               "family": "et-line"
@@ -3663,12 +3663,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
