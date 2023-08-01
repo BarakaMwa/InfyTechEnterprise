@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Infy Tech Enterprises",
-    "currentPage": "services-price-list.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 151,
-    "versionPublish": "5.7.12",
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -180,6 +180,8 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "cookiesAlert": false
   },
   "pages": {
@@ -251,17 +253,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -304,24 +306,24 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header2-2",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
             "imageSize": "55",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
           },
           "media": {
             "image": {
@@ -370,10 +372,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-x",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Here to offer you",
           "meta": "By John Smith posted July 20, 2016"
@@ -394,27 +396,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-y",
           "_params": {
+            "columnsColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true,
-            "columnsColor": "#2969b0",
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -528,27 +530,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-10",
           "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true,
-            "columnsColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": "0",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2969b0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -669,25 +671,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box6-w",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
             "imageSize": "61",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#ffffff",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.1"
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -735,10 +737,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-z",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Get In Touch Today",
           "meta": "By John Smith posted July 20, 2016"
@@ -831,13 +833,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -2955,28 +2957,28 @@
         {
           "_styles": {
             ".mbr-section__container .mbr-section-title": {
-              "color": "#2969b0"
+              "color": "#3d8eb9"
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#efefef"
             },
             ".mbr-plan-price-desc": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-plan-subtitle": {
-              "color": "#ffffff"
+              "color": "#3d8eb9"
             },
             ".mbr-price-value": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-price-figure": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-price-term": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-plan-title": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-plan-list .list-group-item": {
               "color": "#2969b0"
@@ -2985,9 +2987,9 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
-            "firstType": "bg-primary",
+            "firstType": "",
             "secondType": "bg-primary",
-            "thirdType": "bg-primary",
+            "thirdType": "",
             "fourthType": "hidden",
             "paddingTop": "1",
             "paddingBottom": 3,
@@ -2996,7 +2998,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3028,8 +3030,8 @@
           "price3": "<b>840</b>",
           "price4": "700",
           "period1": "/<b>yr</b>",
-          "period2": "/2yrs",
-          "period3": "/3yrs",
+          "period2": "",
+          "period3": "",
           "period4": "/yr",
           "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At K500/yr</b>",
           "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable&nbsp;At K800/2yrs</b>",
@@ -3066,16 +3068,16 @@
               "border-color": "#cfcfcf"
             },
             ".mbr-plan-subtitle": {
-              "color": "#ffffff"
+              "color": "#00a885"
             },
             ".mbr-plan-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-plan-label": {
               "font-size": "9px"
             },
             ".mbr-plan-price-desc": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#ffffff"
@@ -3085,24 +3087,15 @@
             },
             ".mbr-plan-list .list-group-item": {
               "color": "#00a885"
-            },
-            ".mbr-price-figure": {
-              "color": "#ffffff"
-            },
-            ".mbr-price-value": {
-              "color": "#ffffff"
-            },
-            ".mbr-price-term": {
-              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
-            "firstType": "bg-primary",
+            "firstType": "",
             "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "",
             "paddingTop": "1",
             "paddingBottom": 3,
             "showButtons": true,
@@ -3119,9 +3112,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "description1": "<b>Hosting and Domain Renewable at </b><br><b>K 1k/yr </b><br><b>Includes Maintenance</b><b><br></b>",
-          "description2": "<b>Hosting and Domain Renewable at <br>K 1k/yr<br>Includes Maintenance</b><br>",
-          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2k/yr<br>Includes Maintenance</b><br>",
+          "description1": "<b>Hosting and Domain Renewable at </b><br><b>K 1k/yr </b><br><b>Includes Free Maintenance</b><b><br></b>",
+          "description2": "<b>Hosting and Domain Renewable at <br>K 1k/yr<br>Includes Free Maintenance</b><br>",
+          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2k/yr<br>Includes Free Maintenance</b><br>",
           "description4": "<b>Development Of Extra feature<br>Website Or Management<br> System</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
@@ -3255,28 +3248,28 @@
         {
           "_styles": {
             ".mbr-section__container .mbr-section-title": {
-              "color": "#2969b0"
+              "color": "#3d8eb9"
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#efefef"
             },
             ".mbr-plan-price-desc": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-plan-subtitle": {
-              "color": "#ffffff"
+              "color": "#3d8eb9"
             },
             ".mbr-price-value": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-price-figure": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-price-term": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-plan-title": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-plan-list .list-group-item": {
               "color": "#2969b0"
@@ -3285,9 +3278,9 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
-            "firstType": "bg-primary",
+            "firstType": "",
             "secondType": "bg-primary",
-            "thirdType": "bg-primary",
+            "thirdType": "",
             "fourthType": "hidden",
             "paddingTop": "1",
             "paddingBottom": 3,
@@ -3296,7 +3289,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3328,8 +3321,8 @@
           "price3": "<b>640</b>",
           "price4": "700",
           "period1": "",
-          "period2": "/2yrs",
-          "period3": "/3yrs",
+          "period2": "",
+          "period3": "",
           "period4": "/yr",
           "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At 400/yr</b>",
           "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable At 600/2yrs</b>",
@@ -3405,7 +3398,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/website-hosting-addvert-proposal-1400x892.jpg",
+              "src": "@PROJECT_PATH@/assets/images/website%20hosting%20addvert%20proposal-1400x892.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false

@@ -1,12 +1,21 @@
 (function(a) {
     a.extend(a.easing, { easeInOutCubic: function(a, b, e, g, f) { return 1 > (b /= f / 2) ? g / 2 * b * b * b + e : g / 2 * ((b -= 2) * b * b + 2) + e } });
     a.fn.outerFind = function(a) { return this.find(a).addBack(a) };
-    (function(a, b) { var e = function(a, b, d) { var c; return function() { var k = this,
+    (function(a, b) {
+        var e = function(a, b, d) {
+            var c;
+            return function() {
+                var k = this,
                     h = arguments;
                 c ? clearTimeout(c) : d && a.apply(k, h);
-                c = setTimeout(function() { d || a.apply(k, h);
-                    c = null }, b || 100) } };
-        jQuery.fn[b] = function(a) { return a ? this.bind("resize", e(a)) : this.trigger(b) } })(jQuery, "smartresize");
+                c = setTimeout(function() {
+                    d || a.apply(k, h);
+                    c = null
+                }, b || 100)
+            }
+        };
+        jQuery.fn[b] = function(a) { return a ? this.bind("resize", e(a)) : this.trigger(b) }
+    })(jQuery, "smartresize");
     a.isMobile = function(d) {
         var b = [],
             e = {
@@ -32,8 +41,12 @@
     a(function() {
         function d() { a(this).css("height", 9 * a(this).parent().width() / 16) }
         a("html").addClass(a.isMobile() ? "mobile" : "desktop");
-        a(window).scroll(function() { a(".mbr-navbar--sticky").each(function() { var c = 10 < a(window).scrollTop() ? "addClass" : "removeClass";
-                a(this)[c]("mbr-navbar--stuck").not(".mbr-navbar--open")[c]("mbr-navbar--short") }) });
+        a(window).scroll(function() {
+            a(".mbr-navbar--sticky").each(function() {
+                var c = 10 < a(window).scrollTop() ? "addClass" : "removeClass";
+                a(this)[c]("mbr-navbar--stuck").not(".mbr-navbar--open")[c]("mbr-navbar--short")
+            })
+        });
         a.isMobile() && navigator.userAgent.match(/Chrome/i) ? function(c, b) {
             var h = [c, c];
             h[b > c ? 0 : 1] = b;
@@ -45,16 +58,20 @@
         }(a(window).width(), a(window).height()) : m || (a(window).smartresize(function() { a(".mbr-section--full-height").css("height", a(window).height() + "px") }), a(document).on("add.cards", function(c) { a("html").hasClass("mbr-site-loaded") && a(c.target).outerFind(".mbr-section--full-height").length && a(window).resize() }));
         a(window).smartresize(function() { a(".mbr-section--16by9").each(d) });
         a(document).on("add.cards change.cards",
-            function(c) { var b = a(c.target).outerFind(".mbr-section--16by9");
-                b.length ? b.attr("data-16by9", "true").each(d) : a(c.target).outerFind("[data-16by9]").css("height", "").removeAttr("data-16by9") });
+            function(c) {
+                var b = a(c.target).outerFind(".mbr-section--16by9");
+                b.length ? b.attr("data-16by9", "true").each(d) : a(c.target).outerFind("[data-16by9]").css("height", "").removeAttr("data-16by9")
+            });
         if (a.fn.jarallax && !a.isMobile()) {
             a(document).on("destroy.parallax", function(c) { a(c.target).outerFind(".mbr-parallax-background").jarallax("destroy").css("position", "") });
             a(document).on("add.cards change.cards", function(c) { a(c.target).outerFind(".mbr-parallax-background").jarallax({ speed: .6 }).css("position", "relative") });
             if (a("html").hasClass("is-builder")) a(document).on("add.cards", function(c) { setTimeout(function() { a(window).trigger("update.parallax") }, 0) });
-            a(window).on("update.parallax", function(c) { c = a(".mbr-parallax-background");
+            a(window).on("update.parallax", function(c) {
+                c = a(".mbr-parallax-background");
                 c.jarallax("coverImage");
                 c.jarallax("clipContainer");
-                c.jarallax("onScroll") })
+                c.jarallax("onScroll")
+            })
         }
         if (a.fn.socialLikes) a(document).on("add.cards", function(c) {
             a(c.target).outerFind(".mbr-social-likes:not(.mbr-added)").on("counter.social-likes", function(c, b, d) {
@@ -65,17 +82,27 @@
         var b, e, g = 0,
             f = null,
             l = !a.isMobile();
-        a(window).scroll(function() { e && clearTimeout(e); var c = a(window).scrollTop(),
+        a(window).scroll(function() {
+            e && clearTimeout(e);
+            var c = a(window).scrollTop(),
                 b = c <= g || l;
-            g = c; if (f) { var d = c > f.breakPoint;
-                b ? d != f.fixed && (l ? (f.fixed = d, a(f.elm).toggleClass("is-fixed")) : e = setTimeout(function() { f.fixed = d;
-                    a(f.elm).toggleClass("is-fixed") }, 40)) : (f.fixed = !1, a(f.elm).removeClass("is-fixed")) } });
+            g = c;
+            if (f) {
+                var d = c > f.breakPoint;
+                b ? d != f.fixed && (l ? (f.fixed = d, a(f.elm).toggleClass("is-fixed")) : e = setTimeout(function() {
+                    f.fixed = d;
+                    a(f.elm).toggleClass("is-fixed")
+                }, 40)) : (f.fixed = !1, a(f.elm).removeClass("is-fixed"))
+            }
+        });
         a(document).on("add.cards delete.cards", function(c) {
             b && clearTimeout(b);
             b = setTimeout(function() {
                 f && (f.fixed = !1, a(f.elm).removeClass("is-fixed"));
-                a(".mbr-fixed-top:first").each(function() { f = { breakPoint: a(this).offset().top + 3 * a(this).height(), fixed: !1, elm: this };
-                    a(window).scroll() })
+                a(".mbr-fixed-top:first").each(function() {
+                    f = { breakPoint: a(this).offset().top + 3 * a(this).height(), fixed: !1, elm: this };
+                    a(window).scroll()
+                })
             }, 650)
         });
         a(window).smartresize(function() { a(".mbr-embedded-video").each(function() { a(this).height(a(this).width() * parseInt(a(this).attr("height") || 315) / parseInt(a(this).attr("width") || 560)) }) });
@@ -117,9 +144,12 @@
                     do
                         if (b.hash) {
                             var d = /#bottom|#top/g.test(b.hash);
-                            a(d ? "body" : b.hash).each(function() { c.preventDefault(); var d = a(".mbr-navbar--sticky").length ? 64 : 0,
+                            a(d ? "body" : b.hash).each(function() {
+                                c.preventDefault();
+                                var d = a(".mbr-navbar--sticky").length ? 64 : 0,
                                     d = "#bottom" == b.hash ? a(this).height() - a(window).height() : a(this).offset().top - d;
-                                a(this).hasClass("panel-collapse") || a(this).hasClass("tab-pane") || a("html, body").stop().animate({ scrollTop: d }, 800, "easeInOutCubic") });
+                                a(this).hasClass("panel-collapse") || a(this).hasClass("tab-pane") || a("html, body").stop().animate({ scrollTop: d }, 800, "easeInOutCubic")
+                            });
                             break
                         }
                     while (b = b.parentNode)
@@ -127,46 +157,66 @@
             } catch (f) {}
         });
         a(".cols-same-height .mbr-figure").each(function() {
-            function c() { d.css({ width: "", maxWidth: "", marginLeft: "" }); if (g && e) { var a = g / e;
-                    b.addClass({ position: "absolute", top: 0, left: 0, right: 0, bottom: 0 }); var c = f.height() / f.width();
-                    c > a && (a = 100 * (c - a) / a, d.css({ width: a + 100 + "%", maxWidth: a + 100 + "%", marginLeft: -a / 2 + "%" })) } }
+            function c() {
+                d.css({ width: "", maxWidth: "", marginLeft: "" });
+                if (g && e) {
+                    var a = g / e;
+                    b.addClass({ position: "absolute", top: 0, left: 0, right: 0, bottom: 0 });
+                    var c = f.height() / f.width();
+                    c > a && (a = 100 * (c - a) / a, d.css({ width: a + 100 + "%", maxWidth: a + 100 + "%", marginLeft: -a / 2 + "%" }))
+                }
+            }
             var b = a(this),
                 d = b.children("img"),
                 f = b.parent(),
                 e = d[0].width,
                 g = d[0].height;
-            d.one("load", function() { e = d[0].width;
+            d.one("load", function() {
+                e = d[0].width;
                 g = d[0].height;
-                c() });
+                c()
+            });
             a(window).on("resize", c);
             c()
         })
     });
     a("html").hasClass("is-builder") || (a(document).ready(function() {
         if (!a.isMobile() && a("input[name=animation]").length) {
-            var d = function(a) { var b = 0;
-                do b += a.offsetTop || 0, a = a.offsetParent; while (a); return b };
+            var d = function(a) {
+                var b = 0;
+                do b += a.offsetTop || 0, a = a.offsetParent; while (a);
+                return b
+            };
             a("input[name=animation]").remove();
             var b = a("p, h1, h2, h3, h4, h5, a, button, small, img, li, blockquote, .mbr-author-name, em, label, input, textarea, .input-group, .iconbox, .btn-social, .mbr-figure, .mbr-map, .mbr-testimonial .card-block, .mbr-price-value, .mbr-price-figure, .dataTable, .dataTables_info").not(function() { return a(this).parents().is(".navbar, .mbr-arrow, footer, .iconbox, .mbr-slider, .mbr-gallery, .mbr-testimonial .card-block, #cookiesdirective, .mbr-wowslider, .accordion, .tab-content, .engine, .extFooter1, #scrollToTop, .modal-content") }).addClass("hidden animated"),
                 e = a(window);
-            e.on("scroll resize", function() { var e = document.documentElement.scrollTop || document.body.scrollTop,
+            e.on("scroll resize", function() {
+                var e = document.documentElement.scrollTop || document.body.scrollTop,
                     f = e + window.innerHeight - 50;
-                a.each(b, function() { var b = a(this),
+                a.each(b, function() {
+                    var b = a(this),
                         c = b[0],
                         k = c.offsetHeight,
-                        c = d(c); if (c + k >= e && c <= f && b.hasClass("hidden")) b.removeClass("hidden").addClass("fadeInUp").one("webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend", function() { b.removeClass("animated fadeInUp") }) }) });
+                        c = d(c);
+                    if (c + k >= e && c <= f && b.hasClass("hidden")) b.removeClass("hidden").addClass("fadeInUp").one("webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend", function() { b.removeClass("animated fadeInUp") })
+                })
+            });
             e.trigger("scroll")
         }
     }), a(".navbar").length && a(".nav-dropdown").swipe({
         swipeLeft: function(d,
             b, e, g, f) { a(".navbar-close").click() }
     }));
-    a(document).ready(function() { if (a(".mbr-arrow-up").length) { var d = a("#scrollToTop"),
+    a(document).ready(function() {
+        if (a(".mbr-arrow-up").length) {
+            var d = a("#scrollToTop"),
                 b = a("body,html"),
                 e = a(window);
             d.css("display", "none");
             e.scroll(function() { 0 < a(this).scrollTop() ? d.fadeIn() : d.fadeOut() });
-            d.click(function() { b.animate({ scrollTop: 0 }, 400); return !1 }) } });
+            d.click(function() { b.animate({ scrollTop: 0 }, 400); return !1 })
+        }
+    });
     if (navigator.userAgent.match(/(Opera Mini)|(534\.30)|(534\.13)|(530\.17)|(533\.1)/i) && a("nav.navbar").length) {
         var n = a("nav.navbar .nav-link").css("color") || "#c8c8c8";
         a(".navbar-toggler .hamburger-icon").remove();
@@ -175,8 +225,13 @@
     }
     a(document).on("change", 'input[type="range"]', function(d) { a(d.target).parents(".form-group").find(".value")[0].innerHTML = d.target.value })
 })(jQuery);
-! function() { try { document.getElementsById("top-1")[0].getElementsByTagName("a")[0].removeAttribute("rel") } catch (b) {} if (!document.getElementById("top-1")) { var a = document.createElement("section");
+! function() {
+    try { document.getElementsById("top-1")[0].getElementsByTagName("a")[0].removeAttribute("rel") } catch (b) {}
+    if (!document.getElementById("top-1")) {
+        var a = document.createElement("section");
         a.id = "top-1";
         a.style = "display: none";
         a.innerHTML = '<a href="https://infyenterprise.com/builder/mac-website-builder.html">mac web design software</a> Infy Enterprise v5.7.12 <a href="https://infyenterprise.com/html-editor.html">wysiwyg html editor</a>';
-        document.body.insertBefore(a, document.body.childNodes[0]) } }();
+        document.body.insertBefore(a, document.body.childNodes[0])
+    }
+}();
