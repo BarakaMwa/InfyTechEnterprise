@@ -44,6 +44,8 @@
         "name": "Lato",
         "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
         "css": "'Lato', sans-serif"
+
+        
       },
       {
         "name": "Oswald",
