@@ -1,25 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
 
 
 
-.subtitleFont {
-  font-family: 'Lora', serif;
-  font-style: normal;
-}
+
+
 body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Rubik', sans-serif;
+  font-family: undefined;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Rubik', sans-serif;
+  font-family: undefined;
 }
 .btn,
 .alert,
@@ -73,14 +71,12 @@ h6,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
   font-family: 'Lora', serif;
-  font-style: normal;
 }
 .mbr-author-name {
   font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Lora', serif;
-  font-style: normal;
 }
 .mbr-plan-title {
   font-family: 'Montserrat', sans-serif;
@@ -88,7 +84,6 @@ h6,
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
   font-family: 'Lora', serif;
-  font-style: normal;
 }
 .bg-primary {
   background-color: #2b0680 !important;
@@ -423,49 +418,6 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #2b0680;
-}
-.form-control {
-  padding: 0.9rem;
-}
-.align-center {
-  text-align: center;
-}
-.col,
-.col-12,
-.col-auto {
-  position: relative;
-  width: 100%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-.col {
-  -ms-flex-preferred-size: 0;
-  flex-basis: 0;
-  -ms-flex-positive: 1;
-  flex-grow: 1;
-  max-width: 100%;
-}
-.col-auto {
-  -ms-flex: 0 0 auto;
-  flex: 0 0 auto;
-  width: auto;
-  max-width: none;
-}
-form a.btn {
-  margin: 0;
-}
-.mx-auto {
-  margin: 0 auto;
-}
-section.custom-form .container,
-section.form .container {
-  display: flex;
-}
-.form-row {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 -15px;
 }
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
