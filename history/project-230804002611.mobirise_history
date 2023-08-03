@@ -26,7 +26,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 159,
-    "versionPublish": "3.12.1",
+    "versionPublish": "5.7.12",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -251,17 +251,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -304,24 +304,24 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header2-2",
           "_params": {
-            "imageSize": "55",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "55",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -370,10 +370,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-x",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Here to offer you",
           "meta": "By John Smith posted July 20, 2016"
@@ -394,27 +394,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-y",
           "_params": {
-            "columnsColor": "#2969b0",
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true
+            "showButtons": true,
+            "columnsColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -528,27 +528,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-10",
           "_params": {
-            "columnsColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true
+            "showButtons": true,
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -669,25 +669,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box6-w",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "61",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
             "overlayColor": "#ffffff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
@@ -735,10 +735,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-z",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Get In Touch Today",
           "meta": "By John Smith posted July 20, 2016"
@@ -831,13 +831,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -993,17 +993,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-3",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1047,23 +1047,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-6",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/9rwvo4g613w7gz8fpxv1-1-2000x1100.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#2969b0",
-            "showTitle": true,
-            "showText": false,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "About Us",
           "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available.</b></p>",
@@ -1088,25 +1088,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-f",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1199,10 +1199,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-k",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Vision",
           "meta": "<b>Provide State Of the art in Web, Software and Mobile Application Service. As well as Provide digital Soultion for SMEs, Public Organisations and Private Organisations.</b>"
@@ -1243,22 +1243,22 @@
           ],
           "_anchor": "testimonials1-o",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "count": "1",
+            "showTitle": true,
+            "showSubtitle": true,
             "showImages": false,
             "showName": true,
             "showBio": true,
+            "count": "1",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2969b0",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Team",
           "subtitle": "<b>Meet Our People.</b>"
@@ -1310,13 +1310,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -1472,17 +1472,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-7",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1526,23 +1526,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-p",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/technology-solutions-above-and-beyond-infinity-2000x1106.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.5"
           },
           "title": "Services",
           "text": "<p><b><i>Our Tech Solutions Services.</i></b></p>",
@@ -1590,25 +1590,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-t",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1657,25 +1657,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-15",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": "36",
             "paddingTop": "0",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1722,25 +1722,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-u",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": "37",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1791,25 +1791,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-v",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": "34",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1859,25 +1859,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-16",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": "45",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1924,25 +1924,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-1j",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "40",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpeg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1993,25 +1993,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-22",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "38",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2044,44 +2044,27 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#2969b0"
-            },
-            "H3": {
-              "text-align": "left",
-              "color": "#2969b0",
-              "font-size": "20px"
-            },
-            "B": {
-              "color": "#2969b0"
-            }
-          },
-          "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-2z",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "33",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2107,7 +2090,24 @@
           },
           "title": "These Include are going at 50 Kwacha Each",
           "text": "<b>Anti Virus </b><font color=\"#2969b0\"><b>Installation</b></font><b>&nbsp;/ Updates / Scanning</b><br><b>Office Installation / Update / Activation</b><br><b>Hard Drive Replacements (Plus Cost Of Hard Drive)</b><br><b>Machine Blowing</b><br><b>Operating System </b><font color=\"#2969b0\"><b>Installation</b></font><b>&nbsp;/ Update / Activation</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://infyenterprise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://infyenterprise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#2969b0"
+            },
+            "H3": {
+              "text-align": "left",
+              "color": "#2969b0",
+              "font-size": "20px"
+            },
+            "B": {
+              "color": "#2969b0"
+            }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_tags": [
@@ -2128,25 +2128,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-23",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2195,10 +2195,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-11",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
-            "showMeta": false
+            "bgColor": "#ffffff"
           },
           "title": "Why Us?",
           "meta": "By John Smith posted July 20, 2016"
@@ -2250,27 +2250,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features7-s",
           "_params": {
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -2420,13 +2420,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -2548,23 +2548,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-n",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/project-header-2000x1500.jpeg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#2969b0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "Projects",
           "text": "<p><b>Here at Infy Enterprises, we take immense pride in the diverse range of technology projects we have successfully delivered to our clients. Our team of skilled professionals works diligently to bring your ideas to life and create impactful solutions tailored to your unique requirements. Explore some of our featured projects below:</b></p>",
@@ -2627,17 +2627,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-9",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2679,10 +2679,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-17",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Web Sites/Applications",
           "meta": "By John Smith posted July 20, 2016"
@@ -2706,28 +2706,27 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
-          "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-2u",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": "55",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2753,7 +2752,8 @@
           },
           "title": "<a href=\"https://www.zbecks.net/\" target=\"_blank\">Zbecks Online Services</a>",
           "text": "<b>Connecting Businesses to the World. We are an online service provider inspired by systematic online transactions. We have different systems that people will use on our platform.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.zbecks.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.zbecks.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "contacts3",
@@ -2802,13 +2802,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -2928,29 +2928,29 @@
           ],
           "_name": "msg-box8",
           "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box8-30",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "5",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/et5athtrpf4cbjgpbnf4-2000x1333.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
             "overlayColor": "#2969b0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.2"
           },
           "title": "Service Prices",
           "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available. At affordable rates.</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-30"
         },
         {
           "_styles": {
@@ -2982,73 +2982,73 @@
               "color": "#2969b0"
             }
           },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Email Hosting Services",
+          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
+          "title1": "Small Standard Park",
+          "title2": "Medium Business Pack",
+          "title3": "Large Premium Pack",
+          "title4": "Four Years",
+          "subtitle1": "<b>Students and Small Businesses</b>",
+          "subtitle2": "<b>Medium Sized Businesses</b>",
+          "subtitle3": "<b>For Growing Needs</b>",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "<b>K</b>",
+          "currency2": "K",
+          "currency3": "<b>K</b>",
+          "currency4": "K",
+          "price1": "<b>440</b>",
+          "price2": "<b>740</b>",
+          "price3": "<b>840</b>",
+          "price4": "700",
+          "period1": "/<b>yr</b>",
+          "period2": "/2yrs",
+          "period3": "/3yrs",
+          "period4": "/yr",
+          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At K500/yr</b>",
+          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable&nbsp;At K800/2yrs</b>",
+          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At K1000/3yrs</b>",
+          "description4": "More Value For Your Money<br>In it for the Long Haul",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>10 Accounts</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>100 Accounts</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>Unlimited Accounts</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table1-35",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "hidden"
-          },
-          "title": "Email Hosting Services",
-          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
-          "label1": "HOT!",
-          "title1": "Small Standard Park",
-          "subtitle1": "<b>Students and Small Businesses</b>",
-          "currency1": "<b>K</b>",
-          "price1": "<b>440</b>",
-          "period1": "/<b>yr</b>",
-          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At K500/yr</b>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>10 Accounts</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label2": "HOT!",
-          "title2": "Medium Business Pack",
-          "subtitle2": "<b>Medium Sized Businesses</b>",
-          "currency2": "K",
-          "price2": "<b>740</b>",
-          "period2": "/2yrs",
-          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable&nbsp;At K800/2yrs</b>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>100 Accounts</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label3": "HOT!",
-          "title3": "Large Premium Pack",
-          "subtitle3": "<b>For Growing Needs</b>",
-          "currency3": "<b>K</b>",
-          "price3": "<b>840</b>",
-          "period3": "/3yrs",
-          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At K1000/3yrs</b>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>Unlimited Accounts</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label4": "HOT!",
-          "title4": "Four Years",
-          "subtitle4": "Description",
-          "currency4": "K",
-          "price4": "700",
-          "period4": "/yr",
-          "description4": "More Value For Your Money<br>In it for the Long Haul",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "pricing-table1",
@@ -3096,73 +3096,73 @@
               "color": "#ffffff"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "pricing-table2-34",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false,
             "firstType": "bg-primary",
-            "showButtons": true,
             "secondType": "bg-primary",
             "thirdType": "bg-primary",
-            "fourthType": "bg-primary"
+            "fourthType": "bg-primary",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
+          "description1": "<b>Hosting and Domain Renewable at </b><br><b>K 1k/yr </b><br><b>Includes Maintenance</b><b><br></b>",
+          "description2": "<b>Hosting and Domain Renewable at <br>K 1k/yr<br>Includes Maintenance</b><br>",
+          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2k/yr<br>Includes Maintenance</b><br>",
+          "description4": "<b>Development Of Extra feature<br>Website Or Management<br> System</b>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "_tags": [
+            "Theme"
+          ],
           "title": "Web Hosting Prices",
           "subtitle": "Lowest Hosting Prices For Best Value",
-          "label1": "HOT!",
           "title1": "STANDARD",
-          "subtitle1": "<b>Web Site Development</b>",
-          "currency1": "<b>K</b>",
-          "price1": "<b>3k</b>",
-          "period1": "<b>/yr.</b>",
-          "description1": "<b>Hosting and Domain Renewable at </b><br><b>K 1k/yr </b><br><b>Includes Maintenance</b><b><br></b>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>&nbsp;One year hosting</b></li><li class=\"list-group-item\"><b>Free 50 emails</b></li><li class=\"list-group-item\"><b>Maximum 5 pages</b></li><li class=\"list-group-item\"><b>&nbsp;domain registration &amp; SEO</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label2": "HOT!",
           "title2": "BUSINESS",
-          "subtitle2": "<b>Integrated User Management</b>",
-          "currency2": "<b>K</b>",
-          "price2": "<b>5k</b>",
-          "period2": "<b>/yr.</b>",
-          "description2": "<b>Hosting and Domain Renewable at <br>K 1k/yr<br>Includes Maintenance</b><br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Free 100 emails</b></li><li class=\"list-group-item\"><b>User Dashboard</b></li><li class=\"list-group-item\"><b>15 GB bandwidth</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label3": "HOT!",
           "title3": "PREMIUM",
-          "subtitle3": "<b>Task and User Management</b>",
-          "currency3": "<b>K</b>",
-          "price3": "<b>9k</b>",
-          "period3": "<b>/yr.</b>",
-          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2k/yr<br>Includes Maintenance</b><br>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Dashboards</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Management</b></li><li class=\"list-group-item\"><b>UNLIMITED EMAILS</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label4": "HOT!",
           "title4": "New Feature",
+          "subtitle1": "<b>Web Site Development</b>",
+          "subtitle2": "<b>Integrated User Management</b>",
+          "subtitle3": "<b>Task and User Management</b>",
           "subtitle4": "<b>Features Not In Initial&nbsp;Scope</b>",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "<b>K</b>",
+          "currency2": "<b>K</b>",
+          "currency3": "<b>K</b>",
           "currency4": "<b>K</b>",
+          "price1": "<b>3k</b>",
+          "price2": "<b>5k</b>",
+          "price3": "<b>9k</b>",
           "price4": "<b>500</b>",
+          "period1": "<b>/yr.</b>",
+          "period2": "<b>/yr.</b>",
+          "period3": "<b>/yr.</b>",
           "period4": "<b>/feat.</b>",
-          "description4": "<b>Development Of Extra feature<br>Website Or Management<br> System</b>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>&nbsp;One year hosting</b></li><li class=\"list-group-item\"><b>Free 50 emails</b></li><li class=\"list-group-item\"><b>Maximum 5 pages</b></li><li class=\"list-group-item\"><b>&nbsp;domain registration &amp; SEO</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Free 100 emails</b></li><li class=\"list-group-item\"><b>User Dashboard</b></li><li class=\"list-group-item\"><b>15 GB bandwidth</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Dashboards</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Management</b></li><li class=\"list-group-item\"><b>UNLIMITED EMAILS</b></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Feature Dashboard&nbsp;</b></li><li class=\"list-group-item\"><b>Feature Management</b></li><li class=\"list-group-item\"><b>Payment Feature</b></li><li class=\"list-group-item\"><b>Process Development</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>"
+          "_name": "pricing-table2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "pricing-table2-34"
         },
         {
           "_inherit": "menu",
@@ -3219,19 +3219,18 @@
           },
           "_name": "ext.menu",
           "_sourceTheme": "mobirise3",
-          "_anchor": "ext_menu-31",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -3250,7 +3249,8 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy <br>Enterprises</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact-us.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact-us.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>",
+          "_anchor": "ext_menu-31"
         },
         {
           "_styles": {
@@ -3282,73 +3282,73 @@
               "color": "#2969b0"
             }
           },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Database Hosting Services",
+          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
+          "title1": "Small Standard Park",
+          "title2": "Medium Business Pack",
+          "title3": "Large Premium Pack",
+          "title4": "Four Years",
+          "subtitle1": "<b>Students and Small Businesses</b>",
+          "subtitle2": "<b>Medium Sized Businesses</b>",
+          "subtitle3": "<b>For Growing Needs</b>",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "<b>K</b>",
+          "currency2": "K",
+          "currency3": "<b>K</b>",
+          "currency4": "K",
+          "price1": "<b>340</b>",
+          "price2": "<b>540</b>",
+          "price3": "<b>640</b>",
+          "price4": "700",
+          "period1": "",
+          "period2": "/2yrs",
+          "period3": "/3yrs",
+          "period4": "/yr",
+          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At 400/yr</b>",
+          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable At 600/2yrs</b>",
+          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At 900/3yrs</b>",
+          "description4": "More Value For Your Money<br>In it for the Long Haul",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Database Account</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>1 Database</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 10 Accounts</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>10 Databases</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 50 Accounts</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>50 Databases</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table1-36",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "hidden"
-          },
-          "title": "Database Hosting Services",
-          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
-          "label1": "HOT!",
-          "title1": "Small Standard Park",
-          "subtitle1": "<b>Students and Small Businesses</b>",
-          "currency1": "<b>K</b>",
-          "price1": "<b>340</b>",
-          "period1": "",
-          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At 400/yr</b>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Database Account</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>1 Database</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label2": "HOT!",
-          "title2": "Medium Business Pack",
-          "subtitle2": "<b>Medium Sized Businesses</b>",
-          "currency2": "K",
-          "price2": "<b>540</b>",
-          "period2": "/2yrs",
-          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable At 600/2yrs</b>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 10 Accounts</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>10 Databases</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label3": "HOT!",
-          "title3": "Large Premium Pack",
-          "subtitle3": "<b>For Growing Needs</b>",
-          "currency3": "<b>K</b>",
-          "price3": "<b>640</b>",
-          "period3": "/3yrs",
-          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At 900/3yrs</b>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 50 Accounts</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>50 Databases</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label4": "HOT!",
-          "title4": "Four Years",
-          "subtitle4": "Description",
-          "currency4": "K",
-          "price4": "700",
-          "period4": "/yr",
-          "description4": "More Value For Your Money<br>In it for the Long Haul",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -3364,59 +3364,42 @@
               "font-size": "24px"
             }
           },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Promotions:",
+          "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_sourceTheme": "mobirise3",
           "_anchor": "header3-40",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
-          },
-          "title": "Promotions:",
-          "meta": "By John Smith posted July 20, 2016"
+          "_sourceTheme": "mobirise3"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_sourceTheme": "mobirise3",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px",
-              "color": "#2969b0"
-            },
-            "P": {
-              "text-align": "left",
-              "color": "#2969b0"
-            }
-          },
-          "_anchor": "msg-box5-3z",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -3441,7 +3424,24 @@
           },
           "title": "Web Site <br>Promotion<br>(15/8/2023 - 30/11/2023)",
           "text": "<b>For a limited time Website Prices are reduced.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.infyenterprise.com/\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.infyenterprise.com/\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-3z",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px",
+              "color": "#2969b0"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            }
+          }
         },
         {
           "_inherit": "contacts3",
@@ -3485,18 +3485,17 @@
           ],
           "_name": "contacts5",
           "_sourceTheme": "mobirise3",
-          "_anchor": "contacts5-32",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -3580,7 +3579,8 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "_anchor": "contacts5-32"
         }
       ]
     },
@@ -3616,29 +3616,29 @@
           ],
           "_name": "msg-box8",
           "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box8-47",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "5",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/et5athtrpf4cbjgpbnf4-2000x1333.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
             "overlayColor": "#2969b0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.2"
           },
           "title": "Service Prices",
           "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available. At affordable rates.</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-47"
         },
         {
           "_styles": {
@@ -3670,73 +3670,73 @@
               "color": "#2969b0"
             }
           },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Email Hosting Services",
+          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
+          "title1": "Small Standard Park",
+          "title2": "Medium Business Pack",
+          "title3": "Large Premium Pack",
+          "title4": "Four Years",
+          "subtitle1": "<b>Students and Small Businesses</b>",
+          "subtitle2": "<b>Medium Sized Businesses</b>",
+          "subtitle3": "<b>For Growing Needs</b>",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "<b>K</b>",
+          "currency2": "K",
+          "currency3": "<b>K</b>",
+          "currency4": "K",
+          "price1": "<b>440</b>",
+          "price2": "<b>740</b>",
+          "price3": "<b>840</b>",
+          "price4": "700",
+          "period1": "/<b>yr</b>",
+          "period2": "/2yrs",
+          "period3": "/3yrs",
+          "period4": "/yr",
+          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At K500/yr</b>",
+          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable&nbsp;At K800/2yrs</b>",
+          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At K1000/3yrs</b>",
+          "description4": "More Value For Your Money<br>In it for the Long Haul",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>10 Accounts</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>100 Accounts</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>Unlimited Accounts</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "pricing-table1",
           "_sourceTheme": "mobirise3",
-          "_anchor": "pricing-table1-48",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "hidden"
-          },
-          "title": "Email Hosting Services",
-          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
-          "label1": "HOT!",
-          "title1": "Small Standard Park",
-          "subtitle1": "<b>Students and Small Businesses</b>",
-          "currency1": "<b>K</b>",
-          "price1": "<b>440</b>",
-          "period1": "/<b>yr</b>",
-          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At K500/yr</b>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>10 Accounts</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label2": "HOT!",
-          "title2": "Medium Business Pack",
-          "subtitle2": "<b>Medium Sized Businesses</b>",
-          "currency2": "K",
-          "price2": "<b>740</b>",
-          "period2": "/2yrs",
-          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable&nbsp;At K800/2yrs</b>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>100 Accounts</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label3": "HOT!",
-          "title3": "Large Premium Pack",
-          "subtitle3": "<b>For Growing Needs</b>",
-          "currency3": "<b>K</b>",
-          "price3": "<b>840</b>",
-          "period3": "/3yrs",
-          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At K1000/3yrs</b>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>Unlimited Accounts</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label4": "HOT!",
-          "title4": "Four Years",
-          "subtitle4": "Description",
-          "currency4": "K",
-          "price4": "700",
-          "period4": "/yr",
-          "description4": "More Value For Your Money<br>In it for the Long Haul",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+          "_anchor": "pricing-table1-48"
         },
         {
           "_inherit": "pricing-table1",
@@ -3784,73 +3784,73 @@
               "color": "#ffffff"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "pricing-table2-49",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false,
             "firstType": "bg-primary",
-            "showButtons": true,
             "secondType": "bg-primary",
             "thirdType": "bg-primary",
-            "fourthType": "bg-primary"
+            "fourthType": "bg-primary",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
+          "description1": "<b>Hosting and Domain Renewable at </b><br><b>K 1k/yr </b><br><b>Includes Maintenance</b><b><br></b>",
+          "description2": "<b>Hosting and Domain Renewable at <br>K 1k/yr<br>Includes Maintenance</b><br>",
+          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2k/yr<br>Includes Maintenance</b><br>",
+          "description4": "<b>Development Of Extra feature<br>Website Or Management<br> System</b>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "_tags": [
+            "Theme"
+          ],
           "title": "Web Hosting Prices",
           "subtitle": "Lowest Hosting Prices For Best Value",
-          "label1": "HOT!",
           "title1": "STANDARD",
-          "subtitle1": "<b>Web Site Development</b>",
-          "currency1": "<b>K</b>",
-          "price1": "<b>3k</b>",
-          "period1": "<b>/yr.</b>",
-          "description1": "<b>Hosting and Domain Renewable at </b><br><b>K 1k/yr </b><br><b>Includes Maintenance</b><b><br></b>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>&nbsp;One year hosting</b></li><li class=\"list-group-item\"><b>Free 50 emails</b></li><li class=\"list-group-item\"><b>Maximum 5 pages</b></li><li class=\"list-group-item\"><b>&nbsp;domain registration &amp; SEO</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label2": "HOT!",
           "title2": "BUSINESS",
-          "subtitle2": "<b>Integrated User Management</b>",
-          "currency2": "<b>K</b>",
-          "price2": "<b>5k</b>",
-          "period2": "<b>/yr.</b>",
-          "description2": "<b>Hosting and Domain Renewable at <br>K 1k/yr<br>Includes Maintenance</b><br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Free 100 emails</b></li><li class=\"list-group-item\"><b>User Dashboard</b></li><li class=\"list-group-item\"><b>15 GB bandwidth</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label3": "HOT!",
           "title3": "PREMIUM",
-          "subtitle3": "<b>Task and User Management</b>",
-          "currency3": "<b>K</b>",
-          "price3": "<b>9k</b>",
-          "period3": "<b>/yr.</b>",
-          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2k/yr<br>Includes Maintenance</b><br>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Dashboards</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Management</b></li><li class=\"list-group-item\"><b>UNLIMITED EMAILS</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label4": "HOT!",
           "title4": "New Feature",
+          "subtitle1": "<b>Web Site Development</b>",
+          "subtitle2": "<b>Integrated User Management</b>",
+          "subtitle3": "<b>Task and User Management</b>",
           "subtitle4": "<b>Features Not In Initial&nbsp;Scope</b>",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "<b>K</b>",
+          "currency2": "<b>K</b>",
+          "currency3": "<b>K</b>",
           "currency4": "<b>K</b>",
+          "price1": "<b>3k</b>",
+          "price2": "<b>5k</b>",
+          "price3": "<b>9k</b>",
           "price4": "<b>500</b>",
+          "period1": "<b>/yr.</b>",
+          "period2": "<b>/yr.</b>",
+          "period3": "<b>/yr.</b>",
           "period4": "<b>/feat.</b>",
-          "description4": "<b>Development Of Extra feature<br>Website Or Management<br> System</b>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>&nbsp;One year hosting</b></li><li class=\"list-group-item\"><b>Free 50 emails</b></li><li class=\"list-group-item\"><b>Maximum 5 pages</b></li><li class=\"list-group-item\"><b>&nbsp;domain registration &amp; SEO</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Free 100 emails</b></li><li class=\"list-group-item\"><b>User Dashboard</b></li><li class=\"list-group-item\"><b>15 GB bandwidth</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Dashboards</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Management</b></li><li class=\"list-group-item\"><b>UNLIMITED EMAILS</b></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Feature Dashboard&nbsp;</b></li><li class=\"list-group-item\"><b>Feature Management</b></li><li class=\"list-group-item\"><b>Payment Feature</b></li><li class=\"list-group-item\"><b>Process Development</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>"
+          "_name": "pricing-table2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "pricing-table2-49"
         },
         {
           "_inherit": "menu",
@@ -3907,19 +3907,18 @@
           },
           "_name": "ext.menu",
           "_sourceTheme": "mobirise3",
-          "_anchor": "ext_menu-4a",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -3938,7 +3937,8 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy <br>Enterprises</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact-us.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact-us.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>",
+          "_anchor": "ext_menu-4a"
         },
         {
           "_styles": {
@@ -3970,73 +3970,73 @@
               "color": "#2969b0"
             }
           },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Database Hosting Services",
+          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
+          "title1": "Small Standard Park",
+          "title2": "Medium Business Pack",
+          "title3": "Large Premium Pack",
+          "title4": "Four Years",
+          "subtitle1": "<b>Students and Small Businesses</b>",
+          "subtitle2": "<b>Medium Sized Businesses</b>",
+          "subtitle3": "<b>For Growing Needs</b>",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "<b>K</b>",
+          "currency2": "K",
+          "currency3": "<b>K</b>",
+          "currency4": "K",
+          "price1": "<b>340</b>",
+          "price2": "<b>540</b>",
+          "price3": "<b>640</b>",
+          "price4": "700",
+          "period1": "",
+          "period2": "/2yrs",
+          "period3": "/3yrs",
+          "period4": "/yr",
+          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At 400/yr</b>",
+          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable At 600/2yrs</b>",
+          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At 900/3yrs</b>",
+          "description4": "More Value For Your Money<br>In it for the Long Haul",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Database Account</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>1 Database</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 10 Accounts</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>10 Databases</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 50 Accounts</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>50 Databases</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "pricing-table1",
           "_sourceTheme": "mobirise3",
-          "_anchor": "pricing-table1-4b",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "hidden"
-          },
-          "title": "Database Hosting Services",
-          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
-          "label1": "HOT!",
-          "title1": "Small Standard Park",
-          "subtitle1": "<b>Students and Small Businesses</b>",
-          "currency1": "<b>K</b>",
-          "price1": "<b>340</b>",
-          "period1": "",
-          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At 400/yr</b>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Database Account</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>1 Database</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label2": "HOT!",
-          "title2": "Medium Business Pack",
-          "subtitle2": "<b>Medium Sized Businesses</b>",
-          "currency2": "K",
-          "price2": "<b>540</b>",
-          "period2": "/2yrs",
-          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable At 600/2yrs</b>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 10 Accounts</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>10 Databases</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label3": "HOT!",
-          "title3": "Large Premium Pack",
-          "subtitle3": "<b>For Growing Needs</b>",
-          "currency3": "<b>K</b>",
-          "price3": "<b>640</b>",
-          "period3": "/3yrs",
-          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At 900/3yrs</b>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 50 Accounts</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>50 Databases</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
-          "label4": "HOT!",
-          "title4": "Four Years",
-          "subtitle4": "Description",
-          "currency4": "K",
-          "price4": "700",
-          "period4": "/yr",
-          "description4": "More Value For Your Money<br>In it for the Long Haul",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+          "_anchor": "pricing-table1-4b"
         },
         {
           "_styles": {
@@ -4052,59 +4052,42 @@
               "font-size": "24px"
             }
           },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Promotions:",
+          "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_sourceTheme": "mobirise3",
-          "_anchor": "header3-4c",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
-          },
-          "title": "Promotions:",
-          "meta": "By John Smith posted July 20, 2016"
+          "_anchor": "header3-4c"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_sourceTheme": "mobirise3",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px",
-              "color": "#2969b0"
-            },
-            "P": {
-              "text-align": "left",
-              "color": "#2969b0"
-            }
-          },
-          "_anchor": "msg-box5-4d",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -4129,7 +4112,24 @@
           },
           "title": "Web Site <br>Promotion<br>(15/8/2023 - 30/11/2023)",
           "text": "<b>For a limited time Website Prices are reduced.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.infyenterprise.com/\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.infyenterprise.com/\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_sourceTheme": "mobirise3",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px",
+              "color": "#2969b0"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "msg-box5-4d"
         },
         {
           "_inherit": "contacts3",
@@ -4173,18 +4173,17 @@
           ],
           "_name": "contacts5",
           "_sourceTheme": "mobirise3",
-          "_anchor": "contacts5-4e",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -4268,7 +4267,8 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "_anchor": "contacts5-4e"
         }
       ]
     }
