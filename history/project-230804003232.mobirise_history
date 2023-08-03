@@ -26,7 +26,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 159,
-    "versionPublish": "5.7.12",
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -251,17 +251,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -304,24 +304,24 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header2-2",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
             "imageSize": "55",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
           },
           "media": {
             "image": {
@@ -370,10 +370,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-x",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Here to offer you",
           "meta": "By John Smith posted July 20, 2016"
@@ -394,27 +394,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-y",
           "_params": {
+            "columnsColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true,
-            "columnsColor": "#2969b0",
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -528,27 +528,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-10",
           "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true,
-            "columnsColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": "0",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2969b0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -669,25 +669,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box6-w",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
             "imageSize": "61",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#ffffff",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.1"
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -735,10 +735,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-z",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Get In Touch Today",
           "meta": "By John Smith posted July 20, 2016"
@@ -831,13 +831,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -993,17 +993,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-3",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1047,23 +1047,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-6",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/9rwvo4g613w7gz8fpxv1-1-2000x1100.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#2969b0",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
           },
           "title": "About Us",
           "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available.</b></p>",
@@ -1088,25 +1088,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-f",
           "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -1199,10 +1199,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-k",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Vision",
           "meta": "<b>Provide State Of the art in Web, Software and Mobile Application Service. As well as Provide digital Soultion for SMEs, Public Organisations and Private Organisations.</b>"
@@ -1243,22 +1243,22 @@
           ],
           "_anchor": "testimonials1-o",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "count": "1",
             "showImages": false,
             "showName": true,
             "showBio": true,
-            "count": "1",
-            "paddingTop": "1",
-            "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "bgColor": "#2969b0",
+            "bgColorRadio": true,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": true
           },
           "title": "Team",
           "subtitle": "<b>Meet Our People.</b>"
@@ -1310,13 +1310,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -1472,17 +1472,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-7",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1526,23 +1526,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-p",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/technology-solutions-above-and-beyond-infinity-2000x1106.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Services",
           "text": "<p><b><i>Our Tech Solutions Services.</i></b></p>",
@@ -1590,25 +1590,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-t",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -1657,25 +1657,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-15",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": "36",
             "paddingTop": "0",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#ffffff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1722,25 +1722,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-u",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": "37",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1791,25 +1791,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-v",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": "34",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1859,25 +1859,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-16",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": "45",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1924,25 +1924,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-1j",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
             "imageSize": "40",
             "paddingTop": "0",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpeg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -1993,25 +1993,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-22",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "38",
             "paddingTop": "0",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2063,25 +2063,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-2z",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "33",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2128,25 +2128,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-23",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
             "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2195,10 +2195,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-11",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "bgColor": "#ffffff",
+            "showMeta": false
           },
           "title": "Why Us?",
           "meta": "By John Smith posted July 20, 2016"
@@ -2250,27 +2250,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features7-s",
           "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -2420,13 +2420,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -2548,23 +2548,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-n",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/project-header-2000x1500.jpeg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#2969b0",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Projects",
           "text": "<p><b>Here at Infy Enterprises, we take immense pride in the diverse range of technology projects we have successfully delivered to our clients. Our team of skilled professionals works diligently to bring your ideas to life and create impactful solutions tailored to your unique requirements. Explore some of our featured projects below:</b></p>",
@@ -2627,17 +2627,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-9",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2679,10 +2679,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-17",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Web Sites/Applications",
           "meta": "By John Smith posted July 20, 2016"
@@ -2709,25 +2709,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-2u",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": "55",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -2802,13 +2802,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -2930,23 +2930,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-30",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "5",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/et5athtrpf4cbjgpbnf4-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.2",
             "overlayColor": "#2969b0",
-            "overlayOpacity": "0.2"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Service Prices",
           "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available. At affordable rates.</b></p>",
@@ -2989,27 +2989,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table1-35",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "hidden",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#c1c1c1",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden"
           },
           "title": "Email Hosting Services",
           "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
@@ -3103,27 +3103,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table2-34",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "bg-primary",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-primary"
           },
           "title": "Web Hosting Prices",
           "subtitle": "Lowest Hosting Prices For Best Value",
@@ -3221,17 +3221,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-31",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -3289,27 +3289,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table1-36",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "hidden",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#c1c1c1",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden"
           },
           "title": "Database Hosting Services",
           "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
@@ -3371,10 +3371,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-40",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Promotions:",
           "meta": "By John Smith posted July 20, 2016"
@@ -3398,25 +3398,25 @@
           },
           "_anchor": "msg-box5-3z",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -3490,13 +3490,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -3618,23 +3618,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-47",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "5",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/et5athtrpf4cbjgpbnf4-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.2",
             "overlayColor": "#2969b0",
-            "overlayOpacity": "0.2"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Service Prices",
           "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available. At affordable rates.</b></p>",
@@ -3677,27 +3677,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table1-48",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "hidden",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#c1c1c1",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden"
           },
           "title": "Email Hosting Services",
           "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
@@ -3791,27 +3791,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table2-49",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "bg-primary",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-primary"
           },
           "title": "Web Hosting Prices",
           "subtitle": "Lowest Hosting Prices For Best Value",
@@ -3909,17 +3909,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-4a",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -3977,27 +3977,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table1-4b",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "hidden",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#c1c1c1",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden"
           },
           "title": "Database Hosting Services",
           "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
@@ -4059,10 +4059,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-4c",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Promotions:",
           "meta": "By John Smith posted July 20, 2016"
@@ -4086,25 +4086,25 @@
           },
           "_anchor": "msg-box5-4d",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -4178,13 +4178,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
