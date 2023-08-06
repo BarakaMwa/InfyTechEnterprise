@@ -4,7 +4,7 @@
     "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
-      "title": "Mobirise 3",
+      "title": "Infy Tech Enterprise 3",
       "styling": {
         "primaryColor": "#2b0680",
         "secondaryColor": "#2969b0",
@@ -867,7 +867,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
               "name": "mobile2",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "size": 0
             }
@@ -878,7 +878,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
               "name": "map-pin",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "size": 0
             }
@@ -1348,7 +1348,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
               "name": "mobile2",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "size": 0
             }
@@ -1360,7 +1360,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "Mobirise2",
+              "family": "Infy Tech Enterprise2",
               "linkInNewWindow": false
             }
           },
@@ -2301,7 +2301,7 @@
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "like",
-              "family": "Mobirise2",
+              "family": "Infy Tech Enterprise2",
               "active": true,
               "link": "#",
               "size": 0,
@@ -2318,7 +2318,7 @@
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "growing-chart",
-              "family": "Mobirise2",
+              "family": "Infy Tech Enterprise2",
               "active": true,
               "link": "#",
               "size": 0,
@@ -2352,7 +2352,7 @@
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "users",
-              "family": "Mobirise2",
+              "family": "Infy Tech Enterprise2",
               "active": true,
               "link": "#",
               "size": 0,
@@ -2458,7 +2458,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
               "name": "mobile2",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "size": 0
             }
@@ -2470,7 +2470,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "Mobirise2",
+              "family": "Infy Tech Enterprise2",
               "linkInNewWindow": false
             }
           },
@@ -2840,7 +2840,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
               "name": "mobile2",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "size": 0
             }
@@ -2852,7 +2852,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "Mobirise2",
+              "family": "Infy Tech Enterprise2",
               "linkInNewWindow": false
             }
           },
@@ -3528,7 +3528,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
               "name": "mobile2",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "size": 0
             }
@@ -3540,7 +3540,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "Mobirise2",
+              "family": "Infy Tech Enterprise2",
               "linkInNewWindow": false
             }
           },
@@ -3754,7 +3754,7 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "delivery",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3765,13 +3765,13 @@
           "title1": "Prompt Response:",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<b>At Infy Enterprises Zambia, we understand that timely assistance is crucial. Our customer support team is on standby to respond to your queries and messages with utmost efficiency. Whether you have questions about our products, need technical support, or seek information on our services, we aim to provide you with comprehensive and timely responses, allowing you to make informed decisions.<br></b><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "touch",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3782,13 +3782,13 @@
           "title2": "Get In Touch Today:",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "<b>We offer multiple ways for you to get in touch with us, catering to your preferred communication style. You can reach us through our convenient contact form, where you can provide specific details about your inquiry or feedback. Additionally, you'll find our email address and phone number for direct communication with our support team. Whichever method you choose, rest assured that we are committed to responding promptly and addressing your needs effectively.<br></b><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "refresh",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3799,13 +3799,13 @@
           "title3": "Feedback and Suggestions:",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<b>Your feedback is invaluable to us as it helps us improve and better serve you. We encourage you to share your thoughts, suggestions, and experiences with us through this platform. By actively listening to our customers, we can continuously enhance our products, services, and overall customer experience to meet and exceed your expectations.</b><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "setting",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3814,15 +3814,15 @@
             }
           },
           "title4": "Expert Assistance:",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "Infy Tech Enterprise gives you the freedom to develop",
           "caption4": "<b>Our team of knowledgeable and friendly professionals is dedicated to helping you find solutions that best suit your requirements. Whether you are a new customer seeking information about our offerings or an existing client with specific needs, our experts will guide you through the process and ensure you have a satisfying experience with Infy Enterprises Zambia.</b>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "setting2",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3833,13 +3833,13 @@
           "title5": "Collaborate with Us:",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "<b>If you are interested in exploring potential partnerships, collaborations, or business opportunities with Infy Enterprises Zambia, this page is an ideal starting point. Get in touch with our business development team to discuss possibilities and synergies that could lead to mutual growth and success.</b>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "lock",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3850,7 +3850,7 @@
           "title6": "Privacy and Security:",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "<b>Infy Enterprises Zambia takes your privacy and security seriously. Rest assured that any information you share with us through this page will be treated with the utmost confidentiality. We adhere to strict data protection practices, ensuring that your personal information remains secure and is used only for the purpose of addressing your inquiries and providing support.</b>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -3921,15 +3921,15 @@
               "name": "whatsapp",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://www.infyenterprise.com/",
               "size": 0,
               "color": "#fff"
             }
           },
           "title1": "WhatsApp",
           "subtitle1": "<b><a href=\"https://wa.me/260950046478\" class=\"text-primary\">+260950046478</a></b>",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Infy Tech Enterprise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -3937,15 +3937,15 @@
               "name": "telegram",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://www.infyenterprise.com/",
               "size": 0,
               "color": "#fff"
             }
           },
           "title2": "TeleGram",
           "subtitle2": "<b><a href=\"tg://resolve?domain=+260950046478\" class=\"text-primary\">+260950046478</a></b>",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Infy Tech Enterprise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -3961,8 +3961,8 @@
           },
           "title3": "Facebook",
           "subtitle3": "<b><a href=\"https://www.facebook.com/profile.php?id=100088560471365\" class=\"text-primary\">Follow</a></b>",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Infy Tech Enterprise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -3977,8 +3977,8 @@
           },
           "title4": "Email",
           "subtitle4": "<b><a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">info@infyenterprise.com</a></b>",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption4": "Infy Tech Enterprise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -3986,7 +3986,7 @@
               "name": "wechat",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://www.infyenterprise.com/",
               "size": 0,
               "color": "#fff"
             }
@@ -3994,15 +3994,15 @@
           "title5": "SMS",
           "subtitle5": "<b><a href=\"sms:+260976503727\" class=\"text-primary\">+260976503727</a></b>",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "touch",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://www.infyenterprise.com/",
               "size": 0,
               "color": "#fff"
             }
@@ -4010,7 +4010,7 @@
           "title6": "Call<br>",
           "subtitle6": "<b><a href=\"tel:+260976503727\" class=\"text-primary\">+260976503727</a></b>",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -4311,7 +4311,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
               "name": "mobile2",
-              "family": "MobiriseIcons",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "size": 0
             }
@@ -4323,7 +4323,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "Mobirise2",
+              "family": "Infy Tech Enterprise2",
               "linkInNewWindow": false
             }
           },
