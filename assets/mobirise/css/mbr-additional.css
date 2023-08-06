@@ -1,23 +1,25 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 
 
-
-
+.subtitleFont {
+  font-family: 'Lora', serif;
+  font-style: normal;
+}
 body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: undefined;
+  font-family: 'Rubik', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: undefined;
+  font-family: 'Rubik', sans-serif;
 }
 .btn,
 .alert,
@@ -71,12 +73,14 @@ h6,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
   font-family: 'Lora', serif;
+  font-style: normal;
 }
 .mbr-author-name {
   font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Lora', serif;
+  font-style: normal;
 }
 .mbr-plan-title {
   font-family: 'Montserrat', sans-serif;
@@ -84,6 +88,7 @@ h6,
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
   font-family: 'Lora', serif;
+  font-style: normal;
 }
 .bg-primary {
   background-color: #2b0680 !important;
@@ -419,6 +424,49 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #2b0680;
 }
+.form-control {
+  padding: 0.9rem;
+}
+.align-center {
+  text-align: center;
+}
+.col,
+.col-12,
+.col-auto {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+}
+.col-auto {
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  width: auto;
+  max-width: none;
+}
+form a.btn {
+  margin: 0;
+}
+.mx-auto {
+  margin: 0 auto;
+}
+section.custom-form .container,
+section.form .container {
+  display: flex;
+}
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -548,7 +596,7 @@ h6,
   color: #3d8eb9;
 }
 #content2-12 I {
-  font-size: 24px;
+  font-size: 20px;
 }
 #content1-14 DIV {
   color: #ffffff;
@@ -686,22 +734,31 @@ h6,
 #content2-j B {
   font-family: 'Lora', serif;
 }
-#header3-k .mbr-section-title,
-#header3-k .mbr-section-subtitle {
-  text-align: center;
+#content8-4t .mbr-section-title,
+#content8-4t p {
+  text-align: right;
+  color: #fff;
 }
-#header3-k H3 {
+#content8-4t .mbr-section-title {
   text-align: right;
   color: #2969b0;
+  font-size: 36px;
 }
-#header3-k SMALL {
-  color: #3d8eb9;
+#content8-4t P {
+  text-align: left;
+  color: #2969b0;
 }
-#testimonials1-o .mbr-section-title {
-  color: #ffffff;
+#content8-4s .mbr-section-title,
+#content8-4s p {
+  text-align: right;
+  color: #fff;
 }
-#testimonials1-o .mbr-section-subtitle {
-  color: #ffffff;
+#content8-4s .mbr-section-title {
+  text-align: left;
+  font-size: 36px;
+}
+#content8-4s P {
+  text-align: left;
 }
 #contacts5-i p,
 #contacts5-i .list-group-text,
@@ -1365,17 +1422,39 @@ h6,
 #msg-box8-47 .mbr-section-title {
   text-align: left;
   color: #ffffff;
-  font-size: 60px;
+  font-size: 48px;
 }
 #msg-box8-47 .lead P {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
 }
 #form1-4f .form-control-label {
-  color: #232323;
+  color: #2b0680;
 }
 #form1-4f .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+  font-size: 36px;
+}
+#features6-4r P {
+  text-align: left;
+  color: #3d8eb9;
+}
+#features6-4r H4 {
   color: #2969b0;
+}
+#content2-4i BLOCKQUOTE {
+  color: #2969b0;
+}
+#features7-4q .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-4q .iconbox {
+  background-color: #2b0680;
+  border-color: #2b0680;
+}
+#features7-4q .card-subtitle B {
+  color: #ffffff;
 }
 #ext_menu-4a .hide-buttons .nav-btn {
   display: none !important;
@@ -1459,12 +1538,33 @@ h6,
   text-align: left;
   color: #2969b0;
 }
-#social-buttons2-4h .mbr-section-title,
-#social-buttons2-4h .btn-social {
-  color: #232323;
+.cid-tM9VdU9PXr {
+  padding-top: 1rem;
+  padding-bottom: 5rem;
+  background-color: #2969b0;
 }
-#social-buttons2-4h .mbr-section-title {
+.cid-tM9VdU9PXr .fb-page,
+.cid-tM9VdU9PXr span,
+.cid-tM9VdU9PXr iframe {
+  width: 500px;
+  height: 1000px;
+}
+.cid-tM9VdU9PXr blockquote {
+  display: none;
+}
+.cid-tM9VdU9PXr .fb-page {
+  background-color: #1877f2;
+  border-radius: 4px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: #fff;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 262 266.895'><path id='path3087' fill='%23fff' d='M182.409,262.307v-99.803h33.499l5.016-38.895h-38.515V98.777c0-11.261,3.127-18.935,19.275-18.935 l20.596-0.009V45.045c-3.562-0.474-15.788-1.533-30.012-1.533c-29.695,0-50.025,18.126-50.025,51.413v28.684h-33.585v38.895h33.585 v99.803H182.409z'></path></svg>");
+}
+.cid-tM9VdU9PXr .mbr-section-title {
   color: #ffffff;
+}
+.cid-tM9VdU9PXr .mbr-section-title B {
+  font-size: 36px;
 }
 #contacts5-4e p,
 #contacts5-4e .list-group-text,
