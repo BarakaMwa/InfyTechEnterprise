@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 162,
+    "uniqCompNum": 172,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -879,7 +879,7 @@
               "size": 0
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "No Be Announced",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
@@ -892,7 +892,7 @@
           },
           "text4": "<a href=\"mailto:info@infyenterprise.com\"><b>info@infyenterprise.com</b></a>",
           "title1": "Site Map",
-          "text5": "<li><a class=\"text-primary\" href=\"index.html#top\">Home</a></li><li><a class=\"text-primary\" href=\"about-us.html#msg-box8-6\">About Us</a></li><li><a class=\"text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li><a class=\"text-primary\" href=\"projects.html#msg-box8-n\">Projects</a></li><li><a class=\"text-primary\" href=\"contact-us.html#msg-box8-m\">Contact Us</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html#top\">Home</a></li><li><a class=\"text-primary\" href=\"about-us.html#msg-box8-6\">About Us</a></li><li><a class=\"text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li><a class=\"text-primary\" href=\"projects.html#msg-box8-n\">Projects</a></li><li><a class=\"text-primary\" href=\"#top\">Contact Us</a></li>",
           "text6": "<strong>Contacts</strong><br><b>Email:<a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">&nbsp;</a>info@infyenterprise.com<br>Cell: <a href=\"tel:+260 976503727\">+260 976503727</a><br>Cell: <a href=\"tel:+260 950046478\">+260 950046478</a></b><br><b>WhatsApp: <a href=\"https://wa.me/260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>Telegram</b>: <b><a href=\"tg://resolve?domain=+260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>SMS: <a href=\"sms:+260976503727\" class=\"text-primary\">+260 950046478</a></b><br><br><br><strong>Address</strong><br><b>1234 Street Name<br>City, AA 99999</b>",
           "form": {
             "title": "MESSAGE",
@@ -1358,7 +1358,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "No Be Announced",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2468,7 +2468,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "No Be Announced",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2850,7 +2850,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "No Be Announced",
           "media3": {
             "iconFont": {
               "active": true,
@@ -3538,7 +3538,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "No Be Announced",
           "media3": {
             "iconFont": {
               "active": true,
@@ -3588,7 +3588,7 @@
     "contact.html": {
       "settings": {
         "title": "Contact Us | Infy Enterprises Zambia",
-        "meta_descr": "Welcome to the Pricing Page of Infy Enterprises Zambia!\n\nAt Infy Enterprises Zambia, we pride ourselves on offering innovative solutions to meet the diverse needs of our valued customers. Our Pricing Page is designed to provide you with transparent and flexible options, ensuring you have access to top-notch products and services tailored to your specific requirements.\n\nExplore our Pricing Plans:\nWe offer a range of carefully curated pricing plans, each designed to cater to businesses of all sizes. Whether you are a startup, a growing enterprise, or an established industry leader, we have a plan that suits your unique needs. Our plans come with detailed features and benefits, making it easy for you to choose the one that aligns perfectly with your business goals.\n\nCustomizable Solutions:\nWe understand that every business is unique, and one-size-fits-all solutions may not always work. That's why we offer the flexibility to customize our pricing plans to match your exact requirements. We believe in a customer-centric approach, and our team of experts is always ready to assist you in creating a personalized plan that maximizes the value for your investment.\n\nTransparent Pricing:\nAt Infy Enterprises Zambia, transparency is one of our core values. We believe in building trust with our customers by providing clear and straightforward pricing information. There are no hidden fees or surprises—what you see is what you get. Our transparent pricing ensures you can make informed decisions, confidently knowing that you are getting the best value for your money.\n\nCompetitive Advantage:\nWith our competitive pricing, you can expect cost-effective solutions without compromising on quality. We regularly analyze market trends and competitor offerings to ensure that our prices remain competitive and fair. Infy Enterprises Zambia strives to be your reliable partner, and our pricing reflects our commitment to delivering exceptional value.\n\nEasy Sign-up and Billing Process:\nGetting started with Infy Enterprises Zambia is hassle-free. Our user-friendly sign-up process allows you to subscribe to your chosen plan swiftly. Additionally, our streamlined billing process ensures that you receive accurate and timely invoices, enabling you to manage your expenses efficiently.\n\n24/7 Customer Support:\nWe take pride in our top-notch customer support team, available 24/7 to address any questions or concerns you may have. Our dedicated support staff is committed to ensuring a smooth experience for our customers, guaranteeing that your journey with Infy Enterprises Zambia is nothing short of exceptional.\n\nTake the next step towards unlocking the full potential of your business with Infy Enterprises Zambia's competitive and customizable pricing plans. Reach out to our sales team to learn more or sign up today! We look forward to empowering your business to thrive in the digital landscape.",
+        "meta_descr": "At Infy Enterprises Zambia, we value every interaction with our customers and stakeholders. This Contact Us page is your gateway to connect with us directly, whether you have inquiries, feedback, or require assistance with any of our products or services. Our dedicated team is here to ensure your experience with us is smooth, informative, and rewarding.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3604,7 +3604,7 @@
             ".mbr-section-title": {
               "text-align": "left",
               "color": "#ffffff",
-              "font-size": "60px"
+              "font-size": "48px"
             },
             ".lead P": {
               "text-align": "left",
@@ -3623,7 +3623,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/et5athtrpf4cbjgpbnf4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/chart-graph-business-finance-e32ee24807945ae9a6f2003739b691fd-2000x1046.jpg",
             "bgColor": "#3d8eb9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3632,43 +3632,39 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.2",
-            "overlayColor": "#2969b0",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButton": false
           },
           "title": "Contact Us",
-          "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available. At affordable rates.</b></p>",
+          "text": "<p><b>At Infytech Enterprises Zambia, we value every interaction with our customers and stakeholders. This Contact Us page is your gateway to connect with us directly, whether you have inquiries, feedback, or require assistance with any of our products or services. Our dedicated team is here to ensure your experience with us is smooth, informative, and rewarding.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "map1",
-          "_anchor": "map1-4g",
-          "_params": {
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#2b0680"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          },
           "_anchor": "form1-4f",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#2b0680",
             "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#3d8eb9",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -3676,7 +3672,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "CONTACT FORM",
+          "title": "Email Us",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "info@infyenterprise.com",
@@ -3705,15 +3701,305 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-4r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            ".mbr-section-title": {
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title1": "Prompt Response:",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<b>At Infy Enterprises Zambia, we understand that timely assistance is crucial. Our customer support team is on standby to respond to your queries and messages with utmost efficiency. Whether you have questions about our products, need technical support, or seek information on our services, we aim to provide you with comprehensive and timely responses, allowing you to make informed decisions.<br></b><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title2": "Get In Touch Today:",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>We offer multiple ways for you to get in touch with us, catering to your preferred communication style. You can reach us through our convenient contact form, where you can provide specific details about your inquiry or feedback. Additionally, you'll find our email address and phone number for direct communication with our support team. Whichever method you choose, rest assured that we are committed to responding promptly and addressing your needs effectively.<br></b><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "refresh",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title3": "Feedback and Suggestions:",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<b>Your feedback is invaluable to us as it helps us improve and better serve you. We encourage you to share your thoughts, suggestions, and experiences with us through this platform. By actively listening to our customers, we can continuously enhance our products, services, and overall customer experience to meet and exceed your expectations.</b><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title4": "Expert Assistance:",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "<b>Our team of knowledgeable and friendly professionals is dedicated to helping you find solutions that best suit your requirements. Whether you are a new customer seeking information about our offerings or an existing client with specific needs, our experts will guide you through the process and ensure you have a satisfying experience with Infy Enterprises Zambia.</b>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "setting2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title5": "Collaborate with Us:",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "<b>If you are interested in exploring potential partnerships, collaborations, or business opportunities with Infy Enterprises Zambia, this page is an ideal starting point. Get in touch with our business development team to discuss possibilities and synergies that could lead to mutual growth and success.</b>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "lock",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title6": "Privacy and Security:",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "<b>Infy Enterprises Zambia takes your privacy and security seriously. Rest assured that any information you share with us through this page will be treated with the utmost confidentiality. We adhere to strict data protection practices, ensuring that your personal information remains secure and is used only for the purpose of addressing your inquiries and providing support.</b>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#3d8eb9"
+            },
+            "H4": {
               "color": "#2969b0"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>We look forward to hearing from you and assisting you in any way we can. Your satisfaction is our priority, and we are excited to be a part of your journey towards achieving your business goals. Contact us today, and let's embark on this meaningful collaboration together.</blockquote>",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#2969b0"
+            }
+          }
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".card-subtitle B": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-4q",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "whatsapp",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title1": "WhatsApp",
+          "subtitle1": "<b>+260950046478</b>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "telegram",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "TeleGram",
+          "subtitle2": "<b>+260950046478</b>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Facebook",
+          "subtitle3": "<b><a href=\"https://www.facebook.com/profile.php?id=100088560471365\">Follow</a></b>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "mail",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title4": "Email",
+          "subtitle4": "<b>info@infyenterprise.com</b>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "wechat",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title5": "SMS",
+          "subtitle5": "<b>+260976503727</b>",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title6": "Call<br>",
+          "subtitle6": "<b>+260976503727</b>",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -3897,35 +4183,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.infyenterprise.com/\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-4h",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#3d8eb9",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
-        },
-        {
           "_inherit": "contacts3",
           "_styles": {
             "p, .list-group-text, .form-control-label": {
@@ -4019,7 +4276,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "No Be Announced",
           "media3": {
             "iconFont": {
               "active": true,
@@ -4032,7 +4289,7 @@
           },
           "text4": "<a href=\"mailto:info@infyenterprise.com\"><b>info@infyenterprise.com</b></a>",
           "title1": "Site Map",
-          "text5": "<li><a class=\"text-primary\" href=\"index.html#top\">Home</a></li><li><a class=\"text-primary\" href=\"about-us.html#msg-box8-6\">About Us</a></li><li><a class=\"text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li><a class=\"text-primary\" href=\"projects.html#msg-box8-n\">Projects</a></li><li><a class=\"text-primary\" href=\"contact-us.html#msg-box8-m\">Contact Us</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html#top\">Home</a></li><li><a class=\"text-primary\" href=\"about-us.html#msg-box8-6\">About Us</a></li><li><a class=\"text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li><a class=\"text-primary\" href=\"projects.html#msg-box8-n\">Projects</a></li><li><a class=\"text-primary\" href=\"#top\">Contact Us</a></li>",
           "text6": "<strong>Contacts</strong><br><b>Email:<a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">&nbsp;</a>info@infyenterprise.com<br>Cell: <a href=\"tel:+260 976503727\">+260 976503727</a><br>Cell: <a href=\"tel:+260 950046478\">+260 950046478</a></b><br><b>WhatsApp: <a href=\"https://wa.me/260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>Telegram</b>: <b><a href=\"tg://resolve?domain=+260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>SMS: <a href=\"sms:+260976503727\" class=\"text-primary\">+260 950046478</a></b><br><br><br><strong>Address</strong><br><b>1234 Street Name<br>City, AA 99999</b>",
           "form": {
             "title": "MESSAGE",

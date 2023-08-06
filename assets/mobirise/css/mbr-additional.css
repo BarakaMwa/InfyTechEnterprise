@@ -1365,17 +1365,39 @@ h6,
 #msg-box8-47 .mbr-section-title {
   text-align: left;
   color: #ffffff;
-  font-size: 60px;
+  font-size: 48px;
 }
 #msg-box8-47 .lead P {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
 }
 #form1-4f .form-control-label {
-  color: #232323;
+  color: #2b0680;
 }
 #form1-4f .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+  font-size: 36px;
+}
+#features6-4r P {
+  text-align: left;
+  color: #3d8eb9;
+}
+#features6-4r H4 {
   color: #2969b0;
+}
+#content2-4i BLOCKQUOTE {
+  color: #2969b0;
+}
+#features7-4q .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-4q .iconbox {
+  background-color: #2b0680;
+  border-color: #2b0680;
+}
+#features7-4q .card-subtitle B {
+  color: #ffffff;
 }
 #ext_menu-4a .hide-buttons .nav-btn {
   display: none !important;
@@ -1458,13 +1480,6 @@ h6,
 #msg-box5-4d P {
   text-align: left;
   color: #2969b0;
-}
-#social-buttons2-4h .mbr-section-title,
-#social-buttons2-4h .btn-social {
-  color: #232323;
-}
-#social-buttons2-4h .mbr-section-title {
-  color: #ffffff;
 }
 #contacts5-4e p,
 #contacts5-4e .list-group-text,
