@@ -1,0 +1,203 @@
+{
+  "settings": {
+    "name": "Infy Tech Enterprises",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Infy Tech Enterprise 3",
+      "styling": {
+        "primaryColor": "#2b0680",
+        "secondaryColor": "#2969b0",
+        "successColor": "#3d8eb9",
+        "infoColor": "#41a85f",
+        "warningColor": "#f7da64",
+        "dangerColor": "#b8312f",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Rubik",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#232323",
+        "#8c8c8c"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 175,
+    "versionPublish": "5.7.12",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [
+      {
+        "name": "Open Sans",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+        "css": "'Open Sans', sans-serif"
+      },
+      {
+        "name": "Roboto",
+        "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+        "css": "'Roboto', sans-serif"
+      },
+      {
+        "name": "Lato",
+        "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+        "css": "'Lato', sans-serif"
+      },
+      {
+        "name": "Oswald",
+        "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+        "css": "'Oswald', sans-serif"
+      },
+      {
+        "name": "Roboto Condensed",
+        "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+        "css": "'Roboto Condensed', sans-serif"
+      },
+      {
+        "name": "Slabo 27px",
+        "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+        "css": "'Slabo 27px', serif"
+      },
+      {
+        "name": "Lora",
+        "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+        "css": "'Lora', serif"
+      },
+      {
+        "name": "Source Sans Pro",
+        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+        "css": "'Source Sans Pro', sans-serif"
+      },
+      {
+        "name": "PT Sans",
+        "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+        "css": "'PT Sans', sans-serif"
+      },
+      {
+        "name": "Open Sans Condensed",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+        "css": "'Open Sans Condensed', sans-serif"
+      },
+      {
+        "name": "Raleway",
+        "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+        "css": "'Raleway', sans-serif"
+      },
+      {
+        "name": "Droid Sans",
+        "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+        "css": "'Droid Sans', sans-serif"
+      },
+      {
+        "name": "Montserrat",
+        "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+        "css": "'Montserrat', sans-serif"
+      },
+      {
+        "name": "Ubuntu",
+        "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+        "css": "'Ubuntu', sans-serif"
+      },
+      {
+        "name": "Droid Serif",
+        "url": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+        "css": "'Droid Serif', serif"
+      },
+      {
+        "name": "Roboto Slab",
+        "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+        "css": "'Roboto Slab', serif"
+      },
+      {
+        "name": "Merriweather",
+        "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+        "css": "'Merriweather', serif"
+      },
+      {
+        "name": "PT Sans Narrow",
+        "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+        "css": "'PT Sans Narrow', sans-serif"
+      },
+      {
+        "name": "Arimo",
+        "url": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+        "css": "'Arimo', sans-serif"
+      },
+      {
+        "name": "Noto Sans",
+        "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+        "css": "'Noto Sans', sans-serif"
+      },
+      {
+        "name": "Bitter",
+        "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+        "css": "'Bitter', serif"
+      },
+      {
+        "name": "Titillium Web",
+        "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+        "css": "'Titillium Web', sans-serif"
+      },
+      {
+        "name": "Indie Flower",
+        "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+        "css": "'Indie Flower', cursive"
+      },
+      {
+        "name": "PT Serif",
+        "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+        "css": "'PT Serif', serif"
+      },
+      {
+        "name": "Yanone Kaffeesatz",
+        "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+        "css": "'Yanone Kaffeesatz', sans-serif"
+      },
+      {
+        "name": "Oxygen",
+        "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+        "css": "'Oxygen', sans-serif"
+      },
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
+    "imageResize": true,
+    "favicon": false,
+    "mbrsiteDomain": "5lujtujiap",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "cookiesAlert": false,
+    "publishType": "local",
+    "mbrsite": "mbrsite://%7B%22id%22%3A320524%2C%22domain%22%3A%22quto3brozn.mobirisesite.com%22%7D",
+    "publishPath": "@PROJECT_PATH@",
+    "publishFtpPath": "public_html"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
