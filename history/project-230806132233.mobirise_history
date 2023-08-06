@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Infy Tech Enterprises",
-    "currentPage": "about-us.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,13 +21,12 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#232323",
-        "#8c8c8c"
+        "#232323"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 174,
-    "versionPublish": "5.7.12",
+    "uniqCompNum": 172,
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -256,17 +255,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -309,24 +308,24 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header2-2",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
             "imageSize": "55",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
           },
           "media": {
             "image": {
@@ -375,10 +374,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-x",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Here to offer you",
           "meta": "By John Smith posted July 20, 2016"
@@ -399,27 +398,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-y",
           "_params": {
+            "columnsColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true,
-            "columnsColor": "#2969b0",
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -533,27 +532,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-10",
           "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true,
-            "columnsColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": "0",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2969b0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -674,25 +673,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box6-w",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
             "imageSize": "61",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#ffffff",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.1"
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -740,10 +739,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-z",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Get In Touch Today",
           "meta": "By John Smith posted July 20, 2016"
@@ -836,13 +835,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -933,7 +932,7 @@
     "about-us.html": {
       "settings": {
         "title": "About Us | Infy Enterprises Zambia",
-        "meta_descr": "Welcome to Infy Enterprises Zambia - Your Partner in Success!\n\nAt Infy Enterprises Zambia, we are committed to providing exceptional solutions and services to help our clients thrive in today's dynamic business landscape. With a passion for excellence and a drive to innovate, we have established ourselves as a leading player in the industry.",
+        "meta_descr": "Here at Infy Tech Enterprises Zambia, We believe that technology should be easy to use, reliable, and available at an affordable price. That's why we've created a suite of services that are designed to help businesses of all sizes succeed online.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -998,17 +997,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-3",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1052,23 +1051,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-6",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/9rwvo4g613w7gz8fpxv1-1-2000x1100.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#2969b0",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
           },
           "title": "About Us",
           "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available.</b></p>",
@@ -1093,25 +1092,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-f",
           "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -1185,90 +1184,88 @@
           "text": "<blockquote><font face=\"Roboto, sans-serif\"><b>We take great delight in producing attractive, useful websites that are enhanced for both user experience and search engine visibility.</b></font></blockquote>"
         },
         {
-          "_inherit": "content5",
           "_styles": {
-            ".mbr-section-title, p": {
-              "text-align": "right",
-              "color": "#fff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            ".mbr-section-title": {
+            "H3": {
               "text-align": "right",
-              "color": "#2969b0",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left",
               "color": "#2969b0"
+            },
+            "SMALL": {
+              "color": "#3d8eb9"
             }
           },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Prompt Response:",
-          "caption": "<p><b>At Infy Enterprises Zambia, we understand that timely assistance is crucial. Our customer support team is on standby to respond to your queries and messages with utmost efficiency. Whether you have questions about our products, need technical support, or seek information on our services, we aim to provide you with comprehensive and timely responses, allowing you to make informed decisions.</b></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
-          "_anchor": "content8-4t",
-          "_sourceTheme": "mobirise3"
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Vision",
+          "meta": "<b>Provide State Of the art in Web, Software and Mobile Application Service. As well as Provide digital Soultion for SMEs, Public Organisations and Private Organisations.</b>"
         },
         {
-          "_inherit": "content5",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "text-align": "right",
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "../../../web/app/themes/mobirise3/components/_images/desert2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2969b0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Privacy and Security:",
-          "caption": "<p><b>Infy Enterprises Zambia takes your privacy and security seriously. Rest assured that any information you share with us through this page will be treated with the utmost confidentiality. We adhere to strict data protection practices, ensuring that your personal information remains secure and is used only for the purpose of addressing your inquiries and providing support.</b></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
-          "_anchor": "content8-4s",
-          "_sourceTheme": "mobirise3"
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "testimonial": [
+            {
+              "text": "<b>Baraka Mwang'amba</b>",
+              "media": {
+                "image": {
+                  "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "<span style=\"font-size: 1rem; line-height: 1.3;\">BSc Computer Science</span><br>",
+              "authorBio": "CEO"
+            }
+          ],
+          "_anchor": "testimonials1-o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "count": "1",
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Team",
+          "subtitle": "<b>Meet Our People.</b>"
         },
         {
           "_inherit": "contacts3",
@@ -1317,13 +1314,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -1414,7 +1411,7 @@
     "services.html": {
       "settings": {
         "title": "Services | Infy Enterprises Zambia",
-        "meta_descr": "Welcome to the Services Page of Infy Enterprises Zambia!\n\nAt Infy Enterprises, we are dedicated to providing top-notch solutions to meet your business needs. Our comprehensive range of services is tailored to help you succeed and grow in today's competitive market. Whether you are a startup, a small business, or a large enterprise, we have the expertise and experience to deliver exceptional results. Explore our diverse service offerings below:",
+        "meta_descr": "Here at Infy Tech Enterprises Zambia, When it comes to web design and development, we pride ourselves on creating beautiful, functional websites that are optimized for search engines and user experience.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1479,17 +1476,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-7",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1533,23 +1530,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-p",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/technology-solutions-above-and-beyond-infinity-2000x1106.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Services",
           "text": "<p><b><i>Our Tech Solutions Services.</i></b></p>",
@@ -1572,7 +1569,7 @@
             "paddingBottom": 1,
             "bgColor": "#3d8eb9"
           },
-          "text": "<p><b>At Infy Enterprises, we are dedicated to providing top-notch solutions to meet your business needs. Our comprehensive range of services is tailored to help you succeed and grow in today's competitive market. Whether you are a startup, a small business, or a large enterprise, we have the expertise and experience to deliver exceptional results. Explore our diverse service offerings below:</b></p>"
+          "text": "<p><b>We offer a wide range of services to meet your technology needs. Whether you're a small business looking to establish an online presence or an individual seeking assistance with software development, we have the expertise to support you. Our team of skilled professionals is dedicated to delivering high-quality solutions that drive success for our clients. Explore our service offerings below:</b></p>"
         },
         {
           "_tags": [
@@ -1597,25 +1594,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-t",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -1664,25 +1661,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-15",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": "36",
             "paddingTop": "0",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#ffffff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1729,25 +1726,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-u",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": "37",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1798,25 +1795,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-v",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": "34",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1866,25 +1863,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-16",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": "45",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1931,25 +1928,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-1j",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
             "imageSize": "40",
             "paddingTop": "0",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpeg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2000,25 +1997,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-22",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "38",
             "paddingTop": "0",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2070,25 +2067,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-2z",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "33",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2135,25 +2132,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-23",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
             "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2202,10 +2199,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-11",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "bgColor": "#ffffff",
+            "showMeta": false
           },
           "title": "Why Us?",
           "meta": "By John Smith posted July 20, 2016"
@@ -2257,27 +2254,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features7-s",
           "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -2427,13 +2424,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -2524,7 +2521,7 @@
     "projects.html": {
       "settings": {
         "title": "Projects | Infy Enterprises Zambia",
-        "meta_descr": "Welcome to the Projects page of Infy Enterprises Zambia! Here, we proudly showcase our diverse range of innovative projects that reflect our commitment to excellence, sustainability, and positive impact on communities.\n\nAt Infy Enterprises Zambia, we believe in pushing boundaries and delivering exceptional solutions across various sectors. Our projects span industries such as technology, infrastructure, renewable energy, healthcare, education, and more. Each endeavor is crafted with precision, driven by our passion for creating a better tomorrow.",
+        "meta_descr": "Here at Infy Tech Enterprises Zambia, For businesses that need database hosting, we provide a range of solutions tailored to your needs. Our database hosting services are designed to be flexible, reliable, and scalable, so you can focus on what matters most: growing your business. Checkout Our Previous works and contact us at info@infyenterprise.com",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2555,23 +2552,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-n",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/project-header-2000x1500.jpeg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#2969b0",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Projects",
           "text": "<p><b>Here at Infy Enterprises, we take immense pride in the diverse range of technology projects we have successfully delivered to our clients. Our team of skilled professionals works diligently to bring your ideas to life and create impactful solutions tailored to your unique requirements. Explore some of our featured projects below:</b></p>",
@@ -2634,17 +2631,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-9",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2686,10 +2683,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-17",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Web Sites/Applications",
           "meta": "By John Smith posted July 20, 2016"
@@ -2716,25 +2713,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-2u",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": "55",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -2809,13 +2806,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -2937,23 +2934,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-30",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "5",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/et5athtrpf4cbjgpbnf4-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.2",
             "overlayColor": "#2969b0",
-            "overlayOpacity": "0.2"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Service Prices",
           "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available. At affordable rates.</b></p>",
@@ -2996,27 +2993,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table1-35",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "hidden",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#c1c1c1",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden"
           },
           "title": "Email Hosting Services",
           "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
@@ -3110,27 +3107,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table2-34",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "bg-primary",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2969b0",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-primary"
           },
           "title": "Web Hosting Prices",
           "subtitle": "Lowest Hosting Prices For Best Value",
@@ -3228,17 +3225,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-31",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -3296,27 +3293,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table1-36",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "hidden",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#c1c1c1",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden"
           },
           "title": "Database Hosting Services",
           "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
@@ -3378,10 +3375,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-40",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Promotions:",
           "meta": "By John Smith posted July 20, 2016"
@@ -3405,25 +3402,25 @@
           },
           "_anchor": "msg-box5-3z",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -3497,13 +3494,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -3594,7 +3591,7 @@
     "contact.html": {
       "settings": {
         "title": "Contact Us | Infy Enterprises Zambia",
-        "meta_descr": "Welcome to the Contact Us page of Infy Enterprises Zambia!\n\nAt Infy Enterprises Zambia, we value every interaction with our customers and stakeholders. This Contact Us page is your gateway to connect with us directly, whether you have inquiries, feedback, or require assistance with any of our products or services. Our dedicated team is here to ensure your experience with us is smooth, informative, and rewarding.\n\nContact Options:\nWe offer multiple ways for you to get in touch with us, catering to your preferred communication style. You can reach us through our convenient contact form, where you can provide specific details about your inquiry or feedback. Additionally, you'll find our email address and phone number for direct communication with our support team. Whichever method you choose, rest assured that we are committed to responding promptly and addressing your needs effectively.\n\nPrompt Response:\nAt Infy Enterprises Zambia, we understand that timely assistance is crucial. Our customer support team is on standby to respond to your queries and messages with utmost efficiency. Whether you have questions about our products, need technical support, or seek information on our services, we aim to provide you with comprehensive and timely responses, allowing you to make informed decisions.\n\nExpert Assistance:\nOur team of knowledgeable and friendly professionals is dedicated to helping you find solutions that best suit your requirements. Whether you are a new customer seeking information about our offerings or an existing client with specific needs, our experts will guide you through the process and ensure you have a satisfying experience with Infy Enterprises Zambia.\n\nFeedback and Suggestions:\nYour feedback is invaluable to us as it helps us improve and better serve you. We encourage you to share your thoughts, suggestions, and experiences with us through this platform. By actively listening to our customers, we can continuously enhance our products, services, and overall customer experience to meet and exceed your expectations.\n\nPrivacy and Security:\nInfy Enterprises Zambia takes your privacy and security seriously. Rest assured that any information you share with us through this page will be treated with the utmost confidentiality. We adhere to strict data protection practices, ensuring that your personal information remains secure and is used only for the purpose of addressing your inquiries and providing support.\n\nCollaborate with Us:\nIf you are interested in exploring potential partnerships, collaborations, or business opportunities with Infy Enterprises Zambia, this page is an ideal starting point. Get in touch with our business development team to discuss possibilities and synergies that could lead to mutual growth and success.\n\nWe look forward to hearing from you and assisting you in any way we can. Your satisfaction is our priority, and we are excited to be a part of your journey towards achieving your business goals. Contact us today, and let's embark on this meaningful collaboration together!",
+        "meta_descr": "At Infy Enterprises Zambia, we value every interaction with our customers and stakeholders. This Contact Us page is your gateway to connect with us directly, whether you have inquiries, feedback, or require assistance with any of our products or services. Our dedicated team is here to ensure your experience with us is smooth, informative, and rewarding.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3625,23 +3622,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-47",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "5",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/chart-graph-business-finance-e32ee24807945ae9a6f2003739b691fd-2000x1046.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.2",
             "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Contact Us",
           "text": "<p><b>At Infytech Enterprises Zambia, we value every interaction with our customers and stakeholders. This Contact Us page is your gateway to connect with us directly, whether you have inquiries, feedback, or require assistance with any of our products or services. Our dedicated team is here to ensure your experience with us is smooth, informative, and rewarding.</b></p>",
@@ -3665,19 +3662,19 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "form1-4f",
           "_params": {
-            "showTitle": true,
-            "showSubTitle": false,
             "labelsColor": "#2b0680",
             "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubTitle": false
           },
           "title": "Email Us",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
@@ -3728,26 +3725,26 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features6-4r",
           "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -3892,27 +3889,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features7-4q",
           "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
-            "showButtons": false,
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -3927,7 +3924,7 @@
             }
           },
           "title1": "WhatsApp",
-          "subtitle1": "<b><a href=\"https://wa.me/260950046478\" class=\"text-primary\">+260950046478</a></b>",
+          "subtitle1": "<b>+260950046478</b>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -3943,7 +3940,7 @@
             }
           },
           "title2": "TeleGram",
-          "subtitle2": "<b><a href=\"tg://resolve?domain=+260950046478\" class=\"text-primary\">+260950046478</a></b>",
+          "subtitle2": "<b>+260950046478</b>",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -3953,14 +3950,13 @@
               "name": "facebook",
               "family": "socicon",
               "active": true,
-              "link": "https://www.facebook.com/profile.php?id=100088560471365",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "newWindow": false
+              "color": "#fff"
             }
           },
           "title3": "Facebook",
-          "subtitle3": "<b><a href=\"https://www.facebook.com/profile.php?id=100088560471365\" class=\"text-primary\">Follow</a></b>",
+          "subtitle3": "<b><a href=\"https://www.facebook.com/profile.php?id=100088560471365\">Follow</a></b>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -3970,13 +3966,13 @@
               "name": "mail",
               "family": "socicon",
               "active": true,
-              "link": "mailto:info@infyenterprise.com",
+              "link": "https://mobirise.com",
               "size": 0,
               "color": "#fff"
             }
           },
           "title4": "Email",
-          "subtitle4": "<b><a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">info@infyenterprise.com</a></b>",
+          "subtitle4": "<b>info@infyenterprise.com</b>",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -3992,7 +3988,7 @@
             }
           },
           "title5": "SMS",
-          "subtitle5": "<b><a href=\"sms:+260976503727\" class=\"text-primary\">+260976503727</a></b>",
+          "subtitle5": "<b>+260976503727</b>",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
@@ -4008,7 +4004,7 @@
             }
           },
           "title6": "Call<br>",
-          "subtitle6": "<b><a href=\"tel:+260976503727\" class=\"text-primary\">+260976503727</a></b>",
+          "subtitle6": "<b>+260976503727</b>",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
@@ -4069,17 +4065,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-4a",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -4121,10 +4117,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-4c",
           "_params": {
-            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0"
+            "bgColor": "#2969b0",
+            "showMeta": false
           },
           "title": "Promotions:",
           "meta": "By John Smith posted July 20, 2016"
@@ -4148,25 +4144,25 @@
           },
           "_anchor": "msg-box5-4d",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -4240,13 +4236,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
             "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff"
           },
           "logo": {
             "image": {
