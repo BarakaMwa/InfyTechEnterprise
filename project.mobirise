@@ -181,7 +181,11 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "publishType": "local",
+    "mbrsite": "mbrsite://%7B%22id%22%3A320524%2C%22domain%22%3A%22quto3brozn.mobirisesite.com%22%7D",
+    "publishPath": "@PROJECT_PATH@",
+    "publishFtpPath": "public_html"
   },
   "pages": {
     "index.html": {
@@ -879,7 +883,7 @@
               "size": 0
             }
           },
-          "text3": "No Be Announced",
+          "text3": "1234 Street Name, City AA 99999",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
@@ -1360,7 +1364,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "No Be Announced",
+          "text3": "1234 Street Name, City AA 99999",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2470,7 +2474,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "No Be Announced",
+          "text3": "1234 Street Name, City AA 99999",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2852,7 +2856,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "No Be Announced",
+          "text3": "1234 Street Name, City AA 99999",
           "media3": {
             "iconFont": {
               "active": true,
@@ -3540,7 +3544,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "No Be Announced",
+          "text3": "1234 Street Name, City AA 99999",
           "media3": {
             "iconFont": {
               "active": true,
@@ -4323,7 +4327,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "No Be Announced",
+          "text3": "1234 Street Name, City AA 99999",
           "media3": {
             "iconFont": {
               "active": true,
