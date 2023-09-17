@@ -20,3 +20,4 @@
 	remote = origin
 	merge = refs/heads/3-services-page
 hosting-services/
+onlinestore/
