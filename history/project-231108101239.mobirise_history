@@ -27,7 +27,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 185,
-    "versionPublish": "4.6.6",
+    "versionPublish": "5.7.12",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -598,7 +598,7 @@
           "title3": "Computer Hardware <br>and<br>Software Maintenance",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Infy Enterprise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"services-price-list.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/qazbybsise-500x500.png",
@@ -614,7 +614,7 @@
           "title4": "Search Engine\n<div>Optimization\n</div><div>Management</div>",
           "subtitle4": "Infy Enterprise gives you the freedom to develop",
           "caption4": "Infy Enterprise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"services-price-list.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/qazbybsise-500x500.png",
@@ -4225,6 +4225,8 @@
           "_cid": "tM9VdU9PXr",
           "_anchor": "facebook-page-4u",
           "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         },
         {
