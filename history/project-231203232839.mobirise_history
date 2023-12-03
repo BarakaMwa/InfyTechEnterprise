@@ -27,7 +27,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 202,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -182,6 +182,9 @@
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": "",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "publishFtpPath": "public_html",
     "noImageResize": "",
     "google-analytics": ""
   },
@@ -254,17 +257,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -307,24 +310,24 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header2-2",
           "_params": {
-            "imageSize": "55",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "55",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -373,10 +376,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-x",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Here to offer you",
           "meta": "By John Smith posted July 20, 2016"
@@ -397,27 +400,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-y",
           "_params": {
-            "columnsColor": "#2969b0",
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true
+            "showButtons": true,
+            "columnsColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -531,27 +534,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-10",
           "_params": {
-            "columnsColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true
+            "showButtons": true,
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -672,25 +675,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box6-w",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "61",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
             "overlayColor": "#ffffff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
@@ -738,10 +741,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-z",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Get In Touch Today",
           "meta": "By John Smith posted July 20, 2016"
@@ -835,13 +838,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -1289,7 +1292,7 @@
               "text": "<p>LinkedIn</p><p>Programmer, Database System Admin and Mobile App Developer</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/1579507534250-1-160x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/1579507534250%20(1)-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -2651,23 +2654,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-n",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/project-header-2000x1500.jpeg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#2969b0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "Projects",
           "text": "<p><b>Here at Infy Tech Sys Solutions,, we take immense pride in the diverse range of technology projects we have successfully delivered to our clients. Our team of skilled professionals works diligently to bring your ideas to life and create impactful solutions tailored to your unique requirements. Explore some of our featured projects below:</b></p>",
@@ -2734,17 +2737,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-9",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2786,10 +2789,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-17",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Web Sites/Applications",
           "meta": "By John Smith posted July 20, 2016"
@@ -2816,25 +2819,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-2u",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "55",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2882,10 +2885,10 @@
           "_name": "header3",
           "_anchor": "header3-55",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Computer Hardware&nbsp;<span style=\"line-height: 1.1;\">and&nbsp;</span><span style=\"line-height: 1.1;\">Software Maintenance</span>",
           "meta": "By John Smith posted July 20, 2016"
@@ -2911,31 +2914,31 @@
           },
           "_anchor": "msg-box5-56",
           "_params": {
-            "imageSize": "56",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "43",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/324722022-3456986781243900-5532074422800362100-n-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/324722022_3456986781243900_5532074422800362100_n-1400x933.jpg",
               "link": "https://www.zbecks.net/",
               "alt": "",
               "title": "",
@@ -2963,8 +2966,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -2972,95 +2982,88 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-9ecaedb2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.40_9ecaedb2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "alt": "",
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-9ecaedb2-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-9ecaedb2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.40_9ecaedb2.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
-                "alt": "",
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.41-e26d8ac3-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.41-e26d8ac3-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.41_e26d8ac3-1024x768.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": true,
+                "alt": ""
               },
               {
-                "alt": "",
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dffbe2a5-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dffbe2a5-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.40_dffbe2a5-1024x768.jpg",
                 "caption": "Type caption here",
+                "alt": "",
                 "active": false
               },
               {
-                "alt": "",
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-2c7b9ac9-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-2c7b9ac9-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.38_2c7b9ac9-1024x768.jpg",
                 "caption": "Type caption here",
+                "alt": "",
                 "active": false
               },
               {
-                "alt": "",
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-d49318cd-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-d49318cd-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.38_d49318cd-1024x768.jpg",
                 "caption": "Type caption here",
+                "alt": "",
                 "active": false
               },
               {
-                "alt": "",
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dfabea08-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dfabea08-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.40_dfabea08-1024x768.jpg",
                 "caption": "Type caption here",
+                "alt": "",
                 "active": false
               },
               {
-                "alt": "",
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-ff6899b3-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-ff6899b3-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.38_ff6899b3-1024x768.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-57",
           "articleLayout": false,
@@ -3114,13 +3117,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -3242,23 +3245,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-30",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "5",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/et5athtrpf4cbjgpbnf4-2000x1333.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
             "overlayColor": "#2969b0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.2"
           },
           "title": "Service Prices",
           "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available. At affordable rates.</b></p>",
@@ -3301,27 +3304,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table1-35",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false,
             "firstType": "bg-primary",
-            "showButtons": true,
             "secondType": "bg-primary",
             "thirdType": "bg-primary",
-            "fourthType": "hidden"
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Email Hosting Services",
           "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
@@ -3415,27 +3418,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table2-34",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false,
             "firstType": "bg-primary",
-            "showButtons": true,
             "secondType": "bg-primary",
             "thirdType": "bg-primary",
-            "fourthType": "bg-primary"
+            "fourthType": "bg-primary",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Web Hosting Prices",
           "subtitle": "Lowest Hosting Prices For Best Value",
@@ -3537,17 +3540,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-31",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -3605,27 +3608,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "pricing-table1-36",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false,
             "firstType": "bg-primary",
-            "showButtons": true,
             "secondType": "bg-primary",
             "thirdType": "bg-primary",
-            "fourthType": "hidden"
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Database Hosting Services",
           "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
@@ -3687,10 +3690,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-40",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Promotions:",
           "meta": "By John Smith posted July 20, 2016"
@@ -3714,25 +3717,25 @@
           },
           "_anchor": "msg-box5-3z",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -3806,13 +3809,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -4530,7 +4533,7 @@
             "shortName": "",
             "socialDisqus": false
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         },
@@ -4831,7 +4834,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/324722022-3456986781243900-5532074422800362100-n-1400x933.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/324722022_3456986781243900_5532074422800362100_n-1400x933.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4892,7 +4895,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-9ecaedb2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.40_9ecaedb2.jpg",
               "link": "",
               "alt": "",
               "title": "",
