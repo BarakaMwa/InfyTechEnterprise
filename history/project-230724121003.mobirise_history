@@ -201,7 +201,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Infy Enterprises Zambia| Home",
+        "title": "Infy Tech Sys Solutions, Zambia| Home",
         "meta_descr": "Welcome to our Tech website! We're a team of passionate tech experts who are dedicated to providing you with the best web hosting, database hosting, email servers, web design, and development solutions available. We Offer the Cheapest Tech Solutions and Services in Zambia. Get In touch on info@infyenterprise.com or WhatsApp 260950046478",
         "header_custom": "",
         "footer_custom": "",
@@ -360,7 +360,7 @@
               "size": 250
             }
           },
-          "title": "Infy Enterprises",
+          "title": "Infy Tech Sys Solutions,",
           "text": "<b><i>Technology Solutions Above and Beyond Infinity.</i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://infyenterprise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -797,7 +797,7 @@
             "paddingBottom": 1,
             "bgColor": "#2969b0"
           },
-          "text": "<p><b>Choose Infy Enterprises as your tech solutions partner, and let us take care of your web hosting, database hosting, email servers, web design, and development, as well as software development needs. Contact us today to discuss how we can help your business thrive in the digital world.</b></p>"
+          "text": "<p><b>Choose Infy Tech Sys Solutions, as your tech solutions partner, and let us take care of your web hosting, database hosting, email servers, web design, and development, as well as software development needs. Contact us today to discuss how we can help your business thrive in the digital world.</b></p>"
         },
         {
           "_inherit": "contacts3",
@@ -1648,7 +1648,7 @@
             }
           },
           "title": "Web Hosting",
-          "text": "<b>Here at Infy Tech Sys Enterprises, we offer reliable and high-performance web hosting solutions tailored to meet your specific needs. Whether you're a small business owner, a startup, or a large enterprise, our robust hosting infrastructure ensures that your website remains accessible and runs smoothly. With our state-of-the-art servers, advanced security measures, and 24/7 monitoring, you can trust us to keep your website online and secure.</b><br>",
+          "text": "<b>Here at Infy Tech Sys Solutions,, we offer reliable and high-performance web hosting solutions tailored to meet your specific needs. Whether you're a small business owner, a startup, or a large enterprise, our robust hosting infrastructure ensures that your website remains accessible and runs smoothly. With our state-of-the-art servers, advanced security measures, and 24/7 monitoring, you can trust us to keep your website online and secure.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Prices List</a>"
         },
         {

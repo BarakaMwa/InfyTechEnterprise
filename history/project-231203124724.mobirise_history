@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Infy Tech Enterprises",
-    "currentPage": "index.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise3",
       "title": "Infy Tech Enterprise 3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 185,
+    "uniqCompNum": 188,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -181,7 +181,10 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@mobisite",
+    "publishFtpPath": "public_html"
   },
   "pages": {
     "index.html": {
@@ -2734,7 +2737,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2761,6 +2764,199 @@
           "title": "<a href=\"https://www.zbecks.net/\" target=\"_blank\">Zbecks Online Services</a>",
           "text": "<b>Connecting Businesses to the World. We are an online service provider inspired by systematic online transactions. We have different systems that people will use on our platform.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.zbecks.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-55",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0",
+            "showMeta": false
+          },
+          "title": "Web Sites/Applications",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "color": "#2969b0"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            },
+            "B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box5-56",
+          "_params": {
+            "imageSize": "55",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/324722022_3456986781243900_5532074422800362100_n-1400x933.jpg",
+              "link": "https://www.zbecks.net/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<a href=\"https://www.facebook.com/St.Leticiaschool/\" target=\"_blank\">Saint Leticia Boarding School</a>",
+          "text": "In Ndalama Village of Central Province Zambia the New Secondary School St. Leticia brings Community Development &amp; Empowerment through Education.<br><br>Here at Infy Tech Sys Solutions and Rakkah Tech were honoured",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.zbecks.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-57",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_inherit": "contacts3",

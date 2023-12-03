@@ -1,7 +1,7 @@
 Welcome to our Tech Solutions Service Page!
 
 Web Hosting:
-At Infy Tech Sys Enterprises, we offer reliable and high-performance web hosting solutions tailored to meet your specific needs. Whether you're a small business owner, a startup, or a large enterprise, our robust hosting infrastructure ensures that your website remains accessible and runs smoothly. With our state-of-the-art servers, advanced security measures, and 24/7 monitoring, you can trust us to keep your website online and secure.
+At Infy Tech Sys Solutions,, we offer reliable and high-performance web hosting solutions tailored to meet your specific needs. Whether you're a small business owner, a startup, or a large enterprise, our robust hosting infrastructure ensures that your website remains accessible and runs smoothly. With our state-of-the-art servers, advanced security measures, and 24/7 monitoring, you can trust us to keep your website online and secure.
 
 Database Hosting:
 Our comprehensive database hosting services provide you with a secure and efficient platform to store and manage your valuable data. We offer scalable and flexible hosting solutions that can handle your growing data needs. Whether you require MySQL, MongoDB, or any other database management system, our expert team will ensure optimal performance and reliability.
@@ -27,4 +27,4 @@ Scalability:
 As your business grows, our services can scale accordingly to accommodate your evolving requirements. We provide flexible solutions that grow with you.
 Competitive Pricing: 
 e offer cost-effective solutions without compromising on quality. Our pricing plans are designed to suit businesses of all sizes, ensuring affordability and value for money.
-Choose Infy Enterprises as your tech solutions partner, and let us take care of your web hosting, database hosting, email servers, web design, and development, as well as software development needs. Contact us today to discuss how we can help your business thrive in the digital world.
+Choose Infy Tech Sys Solutions, as your tech solutions partner, and let us take care of your web hosting, database hosting, email servers, web design, and development, as well as software development needs. Contact us today to discuss how we can help your business thrive in the digital world.
