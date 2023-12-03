@@ -824,6 +824,9 @@
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "color": "#2969b0"
+            },
+            "SPAN": {
+              "color": "#2969b0"
             }
           },
           "_tags": [
@@ -883,7 +886,7 @@
               "size": 0
             }
           },
-          "text3": "<b>Munali Chudliegh, Lusaka, Zambia</b>",
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
@@ -2943,7 +2946,7 @@
             }
           },
           "title": "<a href=\"https://www.facebook.com/St.Leticiaschool/\" target=\"_blank\">Saint Leticia Boarding School</a>",
-          "text": "<b>In Ndalama Village of Central Province Zambia the New Secondary School St. Leticia brings Community Development &amp; Empowerment through Education.<br><br>In a bid to foster technological advancement and empower the next generation, Afriactron Technologies, Rakkah Tech, and Infy Tech Sys Solution collaborated on a comprehensive maintenance project for the computer lab at Ndalama Village Secondary School. With a commitment to enhancing the learning environment, the three technology firms undertook the maintenance of over 30 computer lab desktops and eight staff computers, ensuring optimal functionality and a seamless learning experience for both pupils and teachers.</b>",
+          "text": "In Ndalama Village of Central Province Zambia the New Secondary School St. Leticia brings Community Development &amp; Empowerment through Education.<br><br>Here at Infy Tech Sys Solutions and Rakkah Tech were honoured to have patterned with&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.zbecks.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
         },
         {
@@ -3078,8 +3081,7 @@
             },
             "B": {
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#2969b0"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_tags": [
@@ -3139,7 +3141,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "<b>Munali Chudliegh, Lusaka, Zambia</b>",
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
           "media3": {
             "iconFont": {
               "active": true,
