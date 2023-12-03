@@ -181,7 +181,9 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/User/OneDrive/Documents"
   },
   "pages": {
     "index.html": {
