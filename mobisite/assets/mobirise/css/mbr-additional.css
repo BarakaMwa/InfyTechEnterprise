@@ -716,6 +716,10 @@ h6,
 #content8-4s P {
   text-align: left;
 }
+#testimonials1-59 .mbr-section-title {
+  color: #2969b0;
+  text-align: left;
+}
 #contacts5-i p,
 #contacts5-i .list-group-text,
 #contacts5-i .form-control-label {
@@ -1004,6 +1008,7 @@ h6,
 
 
 
+
 #msg-box8-n .mbr-section-title,
 #msg-box8-n p {
   color: #fff;
@@ -1099,6 +1104,29 @@ h6,
   color: #2969b0;
 }
 #msg-box5-2u B {
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-55 .mbr-section-title,
+#header3-55 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-55 H3 {
+  text-align: right;
+  color: #ffffff;
+}
+#header3-55 .mbr-section-title {
+  text-align: left;
+  font-size: 24px;
+}
+#msg-box5-56 H3 {
+  text-align: left;
+  color: #2969b0;
+}
+#msg-box5-56 P {
+  text-align: left;
+  color: #2969b0;
+}
+#msg-box5-56 B {
   font-family: 'Montserrat', sans-serif;
 }
 #contacts5-i p,
