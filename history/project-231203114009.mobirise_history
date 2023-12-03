@@ -1,0 +1,4374 @@
+{
+  "settings": {
+    "name": "Infy Tech Sys Solutions ",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Infy Tech Enterprise 3",
+      "styling": {
+        "primaryColor": "#2b0680",
+        "secondaryColor": "#2969b0",
+        "successColor": "#3d8eb9",
+        "infoColor": "#41a85f",
+        "warningColor": "#f7da64",
+        "dangerColor": "#b8312f",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Rubik",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#232323",
+        "#8c8c8c"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 185,
+    "versionPublish": "5.2.0",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [
+      {
+        "name": "Open Sans",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+        "css": "'Open Sans', sans-serif"
+      },
+      {
+        "name": "Roboto",
+        "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+        "css": "'Roboto', sans-serif"
+      },
+      {
+        "name": "Lato",
+        "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+        "css": "'Lato', sans-serif"
+      },
+      {
+        "name": "Oswald",
+        "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+        "css": "'Oswald', sans-serif"
+      },
+      {
+        "name": "Roboto Condensed",
+        "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+        "css": "'Roboto Condensed', sans-serif"
+      },
+      {
+        "name": "Slabo 27px",
+        "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+        "css": "'Slabo 27px', serif"
+      },
+      {
+        "name": "Lora",
+        "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+        "css": "'Lora', serif"
+      },
+      {
+        "name": "Source Sans Pro",
+        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+        "css": "'Source Sans Pro', sans-serif"
+      },
+      {
+        "name": "PT Sans",
+        "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+        "css": "'PT Sans', sans-serif"
+      },
+      {
+        "name": "Open Sans Condensed",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+        "css": "'Open Sans Condensed', sans-serif"
+      },
+      {
+        "name": "Raleway",
+        "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+        "css": "'Raleway', sans-serif"
+      },
+      {
+        "name": "Droid Sans",
+        "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+        "css": "'Droid Sans', sans-serif"
+      },
+      {
+        "name": "Montserrat",
+        "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+        "css": "'Montserrat', sans-serif"
+      },
+      {
+        "name": "Ubuntu",
+        "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+        "css": "'Ubuntu', sans-serif"
+      },
+      {
+        "name": "Droid Serif",
+        "url": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+        "css": "'Droid Serif', serif"
+      },
+      {
+        "name": "Roboto Slab",
+        "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+        "css": "'Roboto Slab', serif"
+      },
+      {
+        "name": "Merriweather",
+        "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+        "css": "'Merriweather', serif"
+      },
+      {
+        "name": "PT Sans Narrow",
+        "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+        "css": "'PT Sans Narrow', sans-serif"
+      },
+      {
+        "name": "Arimo",
+        "url": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+        "css": "'Arimo', sans-serif"
+      },
+      {
+        "name": "Noto Sans",
+        "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+        "css": "'Noto Sans', sans-serif"
+      },
+      {
+        "name": "Bitter",
+        "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+        "css": "'Bitter', serif"
+      },
+      {
+        "name": "Titillium Web",
+        "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+        "css": "'Titillium Web', sans-serif"
+      },
+      {
+        "name": "Indie Flower",
+        "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+        "css": "'Indie Flower', cursive"
+      },
+      {
+        "name": "PT Serif",
+        "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+        "css": "'PT Serif', serif"
+      },
+      {
+        "name": "Yanone Kaffeesatz",
+        "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+        "css": "'Yanone Kaffeesatz', sans-serif"
+      },
+      {
+        "name": "Oxygen",
+        "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+        "css": "'Oxygen', sans-serif"
+      },
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
+    "imageResize": true,
+    "favicon": false,
+    "mbrsiteDomain": "5lujtujiap",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "cookiesAlert": false,
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/User/OneDrive/Documents"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Infy Tech Sys Solutions, Zambia | Home",
+        "meta_descr": "Welcome to our Tech website! We're a team of passionate tech experts who are dedicated to providing you with the best web hosting, database hosting, email servers, web design, and development solutions available. We Offer the Cheapest technology solutions and Services in Zambia. Get In touch on info@infyenterprise.com or on WhatsApp at 260950046478",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/900px-logo-1400x1400.png"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#7e9b9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#7e9b9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#7e9b9f"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#7e9b9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b0680!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#7e9b9f",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "height": 128,
+              "alt": "Infy Tech Sys Solutions  Logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://infyenterprise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy <br>Enterprises</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "48px"
+            },
+            ".mbr-section-text": {
+              "text-align": "left"
+            },
+            ".mbr-section-text B": {
+              "font-size": "20px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header2-2",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "55",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pngwing.com6-596x465.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Infy Tech Sys Solutions,",
+          "text": "<b><i>Technology Solutions Above and Beyond Infinity.</i></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://infyenterprise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-x",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Here to offer you",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2969b0"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#2969b0"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "features1-y",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "columnsColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kindpng-1-600x439.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Web Site<br> Hosting",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Infy Tech Sys Solutions  has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"services.html#msg-box5-t\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kindpng-21839741-1-600x423.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Database Hosting",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Infy Tech Sys Solutions  makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"services.html#msg-box5-u\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/email-png-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Email Services",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Infy Tech Sys Solutions  makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"services.html#msg-box5-v\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pngtree-digital-marketing-concept-with-people-putting-content-images-to-the-web-png-image-7516358-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Web Design and Development",
+          "subtitle4": "Infy Tech Sys Solutions  gives you the freedom to develop",
+          "caption4": "Infy Tech Sys Solutions  gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"services.html#msg-box5-15\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kindpng-600x363.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "<br>Development",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "features1-10",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pc-whale-splash-600x450.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Graphic Design<br> and<br>Video Editing",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Infy Tech Sys Solutions  has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"services.html#msg-box5-1j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kindpng-600x363.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Mobile<br> Application <br>and <br>Software<br> Development",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Infy Tech Sys Solutions  makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"services.html#msg-box5-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hardware-software-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Computer Hardware <br>and<br>Software Maintenance",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Infy Tech Sys Solutions  makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"services-price-list.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/qazbybsise-500x500.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Search Engine\n<div>Optimization\n</div><div>Management</div>",
+          "subtitle4": "Infy Tech Sys Solutions  gives you the freedom to develop",
+          "caption4": "Infy Tech Sys Solutions  gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"services-price-list.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/qazbybsise-500x500.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            "h3, p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box6-w",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "61",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.1"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Welcome to <br>Tech Solutions<br>By Infy<br>Enterprises",
+          "text": "<b>When it comes to Web Solutions we got you covered.<br></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://infyenterprise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-z",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Get In Touch Today",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_sourceTheme": "mobirise3",
+          "_styles": {
+            "DIV": {
+              "color": "#3d8eb9"
+            },
+            "I": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content2-12",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b><i>\"Many a false move is made by standing still\" - Fortune Cookie</i></b></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_sourceTheme": "mobirise3",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-14",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "text": "<p><b>Choose Infy Tech Sys Solutions, as your tech solutions partner, and let us take care of your web hosting, database hosting, email servers, web design, and development, as well as software development needs. Contact us today to discuss how we can help your business thrive in the digital world.</b></p>"
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "P": {
+              "color": "#2969b0"
+            },
+            "H4": {
+              "color": "#553982"
+            },
+            "STRONG": {
+              "color": "#553982"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "contacts5-i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>For more details feel free to get in touch.</b>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text2": "<b><a href=\"tel:+260 976503727\">+260 976503727</a> or <a href=\"tel:+260 950046478\">+260 950046478</a></b>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "mail",
+              "family": "socicon",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text4": "<a href=\"mailto:info@infyenterprise.com\"><b>info@infyenterprise.com</b></a>",
+          "title1": "Site Map",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html#top\">Home</a></li><li><a class=\"text-primary\" href=\"about-us.html#msg-box8-6\">About Us</a></li><li><a class=\"text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li><a class=\"text-primary\" href=\"projects.html#msg-box8-n\">Projects</a></li><li><a href=\"contact.html\">Contact Us</a></li>",
+          "text6": "<strong>Contacts</strong><br><b>Email:<a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">&nbsp;</a>info@infyenterprise.com<br>Cell: <a href=\"tel:+260 976503727\">+260 976503727</a><br>Cell: <a href=\"tel:+260 950046478\">+260 950046478</a></b><br><b>WhatsApp: <a href=\"https://wa.me/260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>Telegram</b>: <b><a href=\"tg://resolve?domain=+260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>SMS: <a href=\"sms:+260976503727\" class=\"text-primary\">+260 950046478</a></b><br><br><br><strong>Address</strong><br><b>To Be Announced</b>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@infyenterprise.com",
+            "alerts": {
+              "success": "Thanks for Contacting Us"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        }
+      ]
+    },
+    "about-us.html": {
+      "settings": {
+        "title": "About Us | Infy Tech Sys Solutions, Zambia",
+        "meta_descr": "Welcome to Infy Tech Sys Solutions, Zambia - Your Partner in Success!\n\nAt Infy Tech Sys Solutions, Zambia, we are committed to providing exceptional solutions and services to help our clients thrive in today's dynamic business landscape. With a passion for excellence and a drive to innovate, we have established ourselves as a leading player in the industry.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": "2",
+        "meta_image": "@PROJECT_PATH@/assets/images/900px_logo-1400x1400.png"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#7e9b9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#7e9b9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#7e9b9f"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#7e9b9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b0680!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "ext_menu-3",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#7e9b9f",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "height": 128,
+              "alt": "Infy Tech Sys Solutions  Logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://infyenterprise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy <br>Enterprises</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "60px"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box8-6",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/9rwvo4g613w7gz8fpxv1-1-2000x1100.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": 0.5
+          },
+          "title": "About Us",
+          "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available.</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "B": {
+              "color": "#2969b0",
+              "font-size": "20px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-f",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/group-of-5-prog-0-3-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>We're a Freelance Tech Solutions agency, who is dedicated to providing you with the best web hosting, database hosting, email services, web design, logo design, poster design, and software development solutions available.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://infyenterprise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content6-g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "text1": "<p><b>We think that technology ought to be cost-effective, dependable, and simple to use. To aid companies of all sizes in their online success, we have developed a range of services.</b></p><p><b><br></b></p><p><b>Our web hosting solutions are scalable, quick, and secure. No matter how much traffic you get, we make sure your website is constantly up and operating by utilizing the most recent infrastructure and technology.</b></p>",
+          "text2": "<p><b>We offer a variety of solutions suited to your requirements for companies who want database hosting. Our database hosting services are created to be adaptable, dependable, and scalable so you can concentrate on what's important: expanding your company.</b></p><p><b><br></b></p><p><b>Our email servers are made to be simple to use and have strong features that assist you in communicating with your team and clients. We offer alternatives for shared and dedicated email servers so you may select the one that best suits your company.</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content2-j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "text": "<blockquote><font face=\"Roboto, sans-serif\"><b>We take great delight in producing attractive, useful websites that are enhanced for both user experience and search engine visibility.</b></font></blockquote>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "color": "#2969b0",
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Prompt Response:",
+          "caption": "<p><b>At Infy Tech Sys Solutions, Zambia, we understand that timely assistance is crucial. Our customer support team is on standby to respond to your queries and messages with utmost efficiency. Whether you have questions about our products, need technical support, or seek information on our services, we aim to provide you with comprehensive and timely responses, allowing you to make informed decisions.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-4t",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Privacy and Security:",
+          "caption": "<p><b>Infy Tech Sys Solutions, Zambia takes your privacy and security seriously. Rest assured that any information you share with us through this page will be treated with the utmost confidentiality. We adhere to strict data protection practices, ensuring that your personal information remains secure and is used only for the purpose of addressing your inquiries and providing support.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-4s",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "P": {
+              "color": "#2969b0"
+            },
+            "H4": {
+              "color": "#553982"
+            },
+            "STRONG": {
+              "color": "#553982"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "contacts5-i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>For more details feel free to get in touch.</b>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text2": "<b><a href=\"tel:+260 976503727\">+260 976503727</a> or <a href=\"tel:+260 950046478\">+260 950046478</a></b>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "Infy Tech Enterprise2",
+              "linkInNewWindow": false
+            }
+          },
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "mail",
+              "size": 0,
+              "family": "socicon",
+              "linkInNewWindow": false
+            }
+          },
+          "text4": "<a href=\"mailto:info@infyenterprise.com\"><b>info@infyenterprise.com</b></a>",
+          "title1": "Site Map",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html#top\">Home</a></li><li><a class=\"text-primary\" href=\"about-us.html#msg-box8-6\">About Us</a></li><li><a class=\"text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li><a class=\"text-primary\" href=\"projects.html#msg-box8-n\">Projects</a></li><li><a href=\"contact.html\">Contact Us</a></li>",
+          "text6": "<strong>Contacts</strong><br><b>Email:<a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">&nbsp;</a>info@infyenterprise.com<br>Cell: <a href=\"tel:+260 976503727\">+260 976503727</a><br>Cell: <a href=\"tel:+260 950046478\">+260 950046478</a></b><br><b>WhatsApp: <a href=\"https://wa.me/260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>Telegram</b>: <b><a href=\"tg://resolve?domain=+260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>SMS: <a href=\"sms:+260976503727\" class=\"text-primary\">+260 950046478</a></b><br><br><br><strong>Address</strong><br><b>To Be Announced</b>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@infyenterprise.com",
+            "alerts": {
+              "success": "Thanks for Contacting Us"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        }
+      ]
+    },
+    "services.html": {
+      "settings": {
+        "title": "Services | Infy Tech Sys Solutions, Zambia",
+        "meta_descr": "Welcome to the Services Page of Infy Tech Sys Solutions, Zambia!\n\nAt Infy Tech Sys Solutions,, we are dedicated to providing top-notch solutions to meet your business needs. Our comprehensive range of services is tailored to help you succeed and grow in today's competitive market. Whether you are a startup, a small business, or a large enterprise, we have the expertise and experience to deliver exceptional results. Explore our diverse service offerings below:",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": "3",
+        "meta_image": "@PROJECT_PATH@/assets/images/900px_logo-1400x1400.png"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#7e9b9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#7e9b9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#7e9b9f"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#7e9b9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b0680!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "ext_menu-7",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#7e9b9f",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "height": 128,
+              "alt": "Infy Tech Sys Solutions  Logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://infyenterprise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy <br>Enterprises</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "60px"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box8-p",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/technology-solutions-above-and-beyond-infinity-2000x1106.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Services",
+          "text": "<p><b><i>Our Tech Solutions Services.</i></b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_sourceTheme": "mobirise3",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-25",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9"
+          },
+          "text": "<p><b>At Infy Tech Sys Solutions,, we are dedicated to providing top-notch solutions to meet your business needs. Our comprehensive range of services is tailored to help you succeed and grow in today's competitive market. Whether you are a startup, a small business, or a large enterprise, we have the expertise and experience to deliver exceptional results. Explore our diverse service offerings below:</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "color": "#2969b0",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-t",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "40",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/23910-1-cloud-computing-transparent-600x433.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Web Hosting",
+          "text": "<b>Here at Infy Tech Sys Solutions,, we offer reliable and high-performance web hosting solutions tailored to meet your specific needs. Whether you're a small business owner, a startup, or a large enterprise, our robust hosting infrastructure ensures that your website remains accessible and runs smoothly. With our state-of-the-art servers, advanced security measures, and 24/7 monitoring, you can trust us to keep your website online and secure.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Prices List</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2969b0",
+              "font-size": "30px",
+              "text-align": "left"
+            },
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#2969b0",
+              "text-align": "left"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-15",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "36",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pngwing.com4-1400x814.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Web Design and Development",
+          "text": "<b>Make a lasting impression with our professional web design and development services. Our experienced team of designers and developers will work closely with you to create a visually appealing and user-friendly website that aligns with your brand identity and business goals. From responsive design to intuitive navigation, we focus on delivering a seamless browsing experience for your visitors.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"services-price-list.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-u",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "37",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/database-png-300x300.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Database Hosting",
+          "text": "<b>Our comprehensive database hosting services provide you with a secure and efficient platform to store and manage your valuable data. We offer scalable and flexible hosting solutions that can handle your growing data needs. Whether you require MySQL, MongoDB, or any other database management system, our expert team will ensure optimal performance and reliability.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"services-price-list.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "color": "#2969b0",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-v",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "34",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mail-600x600.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Email Services",
+          "text": "<b>Communicate effectively and professionally with our secure and customizable email server solutions. We understand the importance of reliable email services for businesses, which is why we offer robust email servers that ensure seamless communication and enhanced productivity. Our solutions include spam filtering, encryption, and mobile access, providing you with a complete email management system.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"services-price-list.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-16",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pngwing-600x604.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Mobile and Software<br>Application Development",
+          "text": "<b>Empower your business with custom software solutions designed to streamline your operations and boost productivity. Our skilled software development team specializes in creating tailored applications and systems that address your unique requirements. From concept to deployment, we ensure a collaborative and iterative approach to deliver high-quality software that aligns perfectly with your business processes.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"services-price-list.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-1j",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pc-whale-transparent-600x300.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Graphic Design",
+          "text": "<b>Make a lasting impression with visually captivating designs. Our graphic design team combines creativity and expertise to deliver stunning visuals that align with your brand identity. Whether you need a logo, marketing materials, or engaging social media graphics, we've got you covered.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"services-price-list.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "color": "#2969b0",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-22",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "38",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hardware-software-600x600.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Computer Hardware and Software Maintenance",
+          "text": "<b>Ensure your systems are running smoothly with our PC hardware and software maintenance services. Our technicians can assist with troubleshooting, upgrades, installations, and general maintenance to keep your computers and software optimized for performance and security.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#2969b0"
+            },
+            "H3": {
+              "text-align": "left",
+              "color": "#2969b0",
+              "font-size": "20px"
+            },
+            "B": {
+              "color": "#2969b0"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-2z",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "33",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "windows",
+              "family": "socicon",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#2969b0"
+            }
+          },
+          "title": "These Include are going at 50 Kwacha Each",
+          "text": "<b>Anti Virus </b><font color=\"#2969b0\"><b>Installation</b></font><b>&nbsp;/ Updates / Scanning</b><br><b>Office Installation / Update / Activation</b><br><b>Hard Drive Replacements (Plus Cost Of Hard Drive)</b><br><b>Machine Blowing</b><br><b>Operating System </b><font color=\"#2969b0\"><b>Installation</b></font><b>&nbsp;/ Update / Activation</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://infyenterprise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-23",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/seo-2-700x800.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Search Engine Optimization (SEO)",
+          "text": "<b>Boost your online visibility and drive organic traffic to your website with our search engine optimization services. Our SEO experts employ proven strategies to improve your website's search engine rankings, increase its visibility in search results, and attract more potential customers to your business.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-11",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "Why Us?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_sourceTheme": "mobirise3",
+          "_styles": {
+            "DIV": {
+              "color": "#2969b0"
+            },
+            "B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "content2-24",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>At Infy&nbsp;</b><b style=\"font-size: 1.09rem;\">Enterprises, we are committed to delivering exceptional results and ensuring customer satisfaction. Contact us today to discuss your specific requirements, and let us help you harness the power of technology to achieve your goals.</b></blockquote>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "H4": {
+              "color": "#2969b0"
+            },
+            "P": {
+              "color": "#2969b0"
+            }
+          },
+          "_name": "features7",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "features7-s",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "setting3",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "Expertise",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Our team possesses extensive knowledge and expertise in the tech industry, enabling us to deliver exceptional solutions that meet your exact needs.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "Infy Tech Enterprise2",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "Reliability",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "We understand the criticality of your online presence and data, which is why we offer robust infrastructure, regular backups, and proactive monitoring to ensure maximum uptime and data security.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "Infy Tech Enterprise2",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Scalability",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "As your business grows, our services can scale accordingly to accommodate your evolving requirements. We provide flexible solutions that grow with you.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "Competitive Pricing",
+          "subtitle4": "Infy Tech Sys Solutions  gives you the freedom to develop",
+          "caption4": "We offer cost-effective solutions without compromising on quality. Our pricing plans are designed to suit businesses of all sizes, ensuring affordability and value for money.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "Infy Tech Enterprise2",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title5": "Customer Support",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "We value our clients and provide dedicated customer support to address any queries or issues promptly. Our friendly and knowledgeable team is always ready to assist you.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://infyenterprise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "P": {
+              "color": "#2969b0"
+            },
+            "H4": {
+              "color": "#553982"
+            },
+            "STRONG": {
+              "color": "#553982"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "contacts5-i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>For more details feel free to get in touch.</b>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text2": "<b><a href=\"tel:+260 976503727\">+260 976503727</a> or <a href=\"tel:+260 950046478\">+260 950046478</a></b>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "Infy Tech Enterprise2",
+              "linkInNewWindow": false
+            }
+          },
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "mail",
+              "size": 0,
+              "family": "socicon",
+              "linkInNewWindow": false
+            }
+          },
+          "text4": "<a href=\"mailto:info@infyenterprise.com\"><b>info@infyenterprise.com</b></a>",
+          "title1": "Site Map",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html#top\">Home</a></li><li><a class=\"text-primary\" href=\"about-us.html#msg-box8-6\">About Us</a></li><li><a class=\"text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li><a class=\"text-primary\" href=\"projects.html#msg-box8-n\">Projects</a></li><li><a href=\"contact.html\">Contact Us</a></li>",
+          "text6": "<strong>Contacts</strong><br><b>Email:<a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">&nbsp;</a>info@infyenterprise.com<br>Cell: <a href=\"tel:+260 976503727\">+260 976503727</a><br>Cell: <a href=\"tel:+260 950046478\">+260 950046478</a></b><br><b>WhatsApp: <a href=\"https://wa.me/260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>Telegram</b>: <b><a href=\"tg://resolve?domain=+260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>SMS: <a href=\"sms:+260976503727\" class=\"text-primary\">+260 950046478</a></b><br><br><br><strong>Address</strong><br><b>To Be Announced</b>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "baraka.mwangamba@gmail.com",
+            "alerts": {
+              "success": "Thanks for Contacting Us"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        }
+      ]
+    },
+    "projects.html": {
+      "settings": {
+        "title": "Projects | Infy Tech Sys Solutions, Zambia",
+        "meta_descr": "Welcome to the Projects page of Infy Tech Sys Solutions, Zambia! Here, we proudly showcase our diverse range of innovative projects that reflect our commitment to excellence, sustainability, and positive impact on communities.\n\nAt Infy Tech Sys Solutions, Zambia, we believe in pushing boundaries and delivering exceptional solutions across various sectors. Our projects span industries such as technology, infrastructure, renewable energy, healthcare, education, and more. Each endeavor is crafted with precision, driven by our passion for creating a better tomorrow.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": "4",
+        "meta_image": "@PROJECT_PATH@/assets/images/900px_logo-1400x1400.png"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "60px"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box8-n",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/project-header-2000x1500.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": 0.5
+          },
+          "title": "Projects",
+          "text": "<p><b>Here at Infy Tech Sys Solutions,, we take immense pride in the diverse range of technology projects we have successfully delivered to our clients. Our team of skilled professionals works diligently to bring your ideas to life and create impactful solutions tailored to your unique requirements. Explore some of our featured projects below:</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#7e9b9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#7e9b9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#7e9b9f"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#7e9b9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b0680!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "ext_menu-9",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#7e9b9f",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "height": 128,
+              "alt": "Infy Tech Sys Solutions  Logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://infyenterprise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy <br>Enterprises</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-17",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Web Sites/Applications",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "color": "#2969b0"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            },
+            "B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box5-2u",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "55",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ticket-logo-1400x642.png",
+              "link": "https://www.zbecks.net/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<a href=\"https://www.zbecks.net/\" target=\"_blank\">Zbecks Online Services</a>",
+          "text": "<b>Connecting Businesses to the World. We are an online service provider inspired by systematic online transactions. We have different systems that people will use on our platform.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.zbecks.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "P": {
+              "color": "#2969b0"
+            },
+            "H4": {
+              "color": "#553982"
+            },
+            "STRONG": {
+              "color": "#553982"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "contacts5-i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>For more details feel free to get in touch.</b>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text2": "<b><a href=\"tel:+260 976503727\">+260 976503727</a> or <a href=\"tel:+260 950046478\">+260 950046478</a></b>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "Infy Tech Enterprise2",
+              "linkInNewWindow": false
+            }
+          },
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "mail",
+              "size": 0,
+              "family": "socicon",
+              "linkInNewWindow": false
+            }
+          },
+          "text4": "<a href=\"mailto:info@infyenterprise.com\"><b>info@infyenterprise.com</b></a>",
+          "title1": "Site Map",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html#top\">Home</a></li><li><a class=\"text-primary\" href=\"about-us.html#msg-box8-6\">About Us</a></li><li><a class=\"text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li><a class=\"text-primary\" href=\"projects.html#msg-box8-n\">Projects</a></li><li><a href=\"contact.html\">Contact Us</a></li>",
+          "text6": "<strong>Contacts</strong><br><b>Email:<a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">&nbsp;</a>info@infyenterprise.com<br>Cell: <a href=\"tel:+260 976503727\">+260 976503727</a><br>Cell: <a href=\"tel:+260 950046478\">+260 950046478</a></b><br><b>WhatsApp: <a href=\"https://wa.me/260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>Telegram</b>: <b><a href=\"tg://resolve?domain=+260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>SMS: <a href=\"sms:+260976503727\" class=\"text-primary\">+260 950046478</a></b><br><br><br><strong>Address</strong><br><b>To Be Announced</b>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "baraka.mwangamba@gmail.com",
+            "alerts": {
+              "success": "Thanks for Contacting Us"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        }
+      ]
+    },
+    "services-price-list.html": {
+      "settings": {
+        "title": "Service Prices | Infy Tech Sys Solutions, Zambia",
+        "meta_descr": "Welcome to the Pricing Page of Infy Tech Sys Solutions, Zambia!\n\nAt Infy Tech Sys Solutions, Zambia, we pride ourselves on offering innovative solutions to meet the diverse needs of our valued customers. Our Pricing Page is designed to provide you with transparent and flexible options, ensuring you have access to top-notch products and services tailored to your specific requirements.\n\nExplore our Pricing Plans:\nWe offer a range of carefully curated pricing plans, each designed to cater to businesses of all sizes. Whether you are a startup, a growing enterprise, or an established industry leader, we have a plan that suits your unique needs. Our plans come with detailed features and benefits, making it easy for you to choose the one that aligns perfectly with your business goals.\n\nCustomizable Solutions:\nWe understand that every business is unique, and one-size-fits-all solutions may not always work. That's why we offer the flexibility to customize our pricing plans to match your exact requirements. We believe in a customer-centric approach, and our team of experts is always ready to assist you in creating a personalized plan that maximizes the value for your investment.\n\nTransparent Pricing:\nAt Infy Tech Sys Solutions, Zambia, transparency is one of our core values. We believe in building trust with our customers by providing clear and straightforward pricing information. There are no hidden fees or surprises—what you see is what you get. Our transparent pricing ensures you can make informed decisions, confidently knowing that you are getting the best value for your money.\n\nCompetitive Advantage:\nWith our competitive pricing, you can expect cost-effective solutions without compromising on quality. We regularly analyze market trends and competitor offerings to ensure that our prices remain competitive and fair. Infy Tech Sys Solutions, Zambia strives to be your reliable partner, and our pricing reflects our commitment to delivering exceptional value.\n\nEasy Sign-up and Billing Process:\nGetting started with Infy Tech Sys Solutions, Zambia is hassle-free. Our user-friendly sign-up process allows you to subscribe to your chosen plan swiftly. Additionally, our streamlined billing process ensures that you receive accurate and timely invoices, enabling you to manage your expenses efficiently.\n\n24/7 Customer Support:\nWe take pride in our top-notch customer support team, available 24/7 to address any questions or concerns you may have. Our dedicated support staff is committed to ensuring a smooth experience for our customers, guaranteeing that your journey with Infy Tech Sys Solutions, Zambia is nothing short of exceptional.\n\nTake the next step towards unlocking the full potential of your business with Infy Tech Sys Solutions, Zambia's competitive and customizable pricing plans. Reach out to our sales team to learn more or sign up today! We look forward to empowering your business to thrive in the digital landscape.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": "5",
+        "meta_image": "@PROJECT_PATH@/assets/images/900px_logo-1400x1400.png"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "60px"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box8-30",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/et5athtrpf4cbjgpbnf4-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Service Prices",
+          "text": "<p><b>We're a Freelance Tech agency, who are dedicated to providing you with the best web hosting, database hosting, email services, web design, and development solutions available. At affordable rates.</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#efefef"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-price-value": {
+              "color": "#ffffff"
+            },
+            ".mbr-price-figure": {
+              "color": "#ffffff"
+            },
+            ".mbr-price-term": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-list .list-group-item": {
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "pricing-table1-35",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Email Hosting Services",
+          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
+          "label1": "HOT!",
+          "title1": "Small Standard Park",
+          "subtitle1": "<b>Students and Small Businesses</b>",
+          "currency1": "<b>K</b>",
+          "price1": "<b>440</b>",
+          "period1": "/<b>yr</b>",
+          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At K500/yr</b>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>Unlimited Accounts</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "label2": "HOT!",
+          "title2": "Medium Business Pack",
+          "subtitle2": "<b>Medium Sized Businesses</b>",
+          "currency2": "K",
+          "price2": "<b>740</b>",
+          "period2": "/2yrs",
+          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable&nbsp;At K800/2yrs</b>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>Unlimited Accounts</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "label3": "HOT!",
+          "title3": "Large Premium Pack",
+          "subtitle3": "<b>For Growing Needs</b>",
+          "currency3": "<b>K</b>",
+          "price3": "<b>840</b>",
+          "period3": "/3yrs",
+          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At K1000/3yrs</b>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Email Domain Registration</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>Unlimited Accounts</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "label4": "HOT!",
+          "title4": "Four Years",
+          "subtitle4": "Description",
+          "currency4": "K",
+          "price4": "700",
+          "period4": "/yr",
+          "description4": "More Value For Your Money<br>In it for the Long Haul",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-label": {
+              "font-size": "9px"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-list .list-group-item": {
+              "color": "#00a885"
+            },
+            ".mbr-price-figure": {
+              "color": "#ffffff"
+            },
+            ".mbr-price-value": {
+              "color": "#ffffff"
+            },
+            ".mbr-price-term": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "pricing-table2-34",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-primary",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Web Hosting Prices",
+          "subtitle": "Lowest Hosting Prices For Best Value",
+          "label1": "HOT!",
+          "title1": "STANDARD",
+          "subtitle1": "<b>Web Site Development</b>",
+          "currency1": "<b>K</b>",
+          "price1": "<b>3k</b>",
+          "period1": "<b>/yr.</b>",
+          "description1": "<b>Hosting and Domain Renewable at </b><br><b>K 1k/yr </b><br><b>Includes Maintenance</b><b><br></b>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>&nbsp;One year hosting</b></li><li class=\"list-group-item\"><b>Free 50 emails</b></li><li class=\"list-group-item\"><b>Maximum 5 pages</b></li><li class=\"list-group-item\"><b>&nbsp;domain registration &amp; SEO</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "label2": "HOT!",
+          "title2": "BUSINESS",
+          "subtitle2": "<b>Integrated User Management</b>",
+          "currency2": "<b>K</b>",
+          "price2": "<b>5k</b>",
+          "period2": "<b>/yr.</b>",
+          "description2": "<b>Hosting and Domain Renewable at <br>K 1k/yr<br>Includes Maintenance</b><br>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Free 100 emails</b></li><li class=\"list-group-item\"><b>User Dashboard</b></li><li class=\"list-group-item\"><b>15 GB bandwidth</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "label3": "HOT!",
+          "title3": "PREMIUM",
+          "subtitle3": "<b>Task and User Management</b>",
+          "currency3": "<b>K</b>",
+          "price3": "<b>9k</b>",
+          "period3": "<b>/yr.</b>",
+          "description3": "<b>Hosting&nbsp;and Domain Renewable at <br>K 2k/yr<br>Includes Maintenance</b><br>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>User MIS integration</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Dashboards</b></li><li class=\"list-group-item\"><b>Entity &amp; Task Management</b></li><li class=\"list-group-item\"><b>UNLIMITED EMAILS</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "label4": "HOT!",
+          "title4": "New Feature",
+          "subtitle4": "<b>Features Not In Initial&nbsp;Scope</b>",
+          "currency4": "<b>K</b>",
+          "price4": "<b>500</b>",
+          "period4": "<b>/feat.</b>",
+          "description4": "<b>Development Of Extra feature<br>Website Or Management<br> System</b>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Feature Dashboard&nbsp;</b></li><li class=\"list-group-item\"><b>Feature Management</b></li><li class=\"list-group-item\"><b>Payment Feature</b></li><li class=\"list-group-item\"><b>Process Development</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#7e9b9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#7e9b9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#7e9b9f"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#7e9b9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b0680!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "ext_menu-31",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#7e9b9f",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "height": 128,
+              "alt": "Infy Tech Sys Solutions  Logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://infyenterprise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy <br>Enterprises</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#efefef"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-price-value": {
+              "color": "#ffffff"
+            },
+            ".mbr-price-figure": {
+              "color": "#ffffff"
+            },
+            ".mbr-price-term": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-list .list-group-item": {
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "pricing-table1-36",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Database Hosting Services",
+          "subtitle": "<b>Pricing table with four columns and solid color background.</b>",
+          "label1": "HOT!",
+          "title1": "Small Standard Park",
+          "subtitle1": "<b>Students and Small Businesses</b>",
+          "currency1": "<b>K</b>",
+          "price1": "<b>340</b>",
+          "period1": "",
+          "description1": "<b>Once Of and<br> Short Term</b><br><b>Renewable At 400/yr</b>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Database Account</b></li><li class=\"list-group-item\"><b>One Year Hosting</b></li><li class=\"list-group-item\"><b>1 Database</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "label2": "HOT!",
+          "title2": "Medium Business Pack",
+          "subtitle2": "<b>Medium Sized Businesses</b>",
+          "currency2": "K",
+          "price2": "<b>540</b>",
+          "period2": "/2yrs",
+          "description2": "<b>Great For Websites <br>with User Data</b><br><b>Renewable At 600/2yrs</b>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 10 Accounts</b></li><li class=\"list-group-item\"><b>Two Years Hosting</b></li><li class=\"list-group-item\"><b>10 Databases</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "label3": "HOT!",
+          "title3": "Large Premium Pack",
+          "subtitle3": "<b>For Growing Needs</b>",
+          "currency3": "<b>K</b>",
+          "price3": "<b>640</b>",
+          "period3": "/3yrs",
+          "description3": "<b>This Package Best</b><br><b>Suited for your Growing Business</b><br><b>Renewable At 900/3yrs</b>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Maximum 50 Accounts</b></li><li class=\"list-group-item\"><b>Three Years Hosting</b></li><li class=\"list-group-item\"><b>50 Databases</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Get Quotation</a>",
+          "label4": "HOT!",
+          "title4": "Four Years",
+          "subtitle4": "Description",
+          "currency4": "K",
+          "price4": "700",
+          "period4": "/yr",
+          "description4": "More Value For Your Money<br>In it for the Long Haul",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Domain Name Registration and Set Up</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://infyenterprise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-40",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Promotions:",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_sourceTheme": "mobirise3",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px",
+              "color": "#2969b0"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "msg-box5-3z",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/website-hosting-addvert-proposal-1400x892.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Web Site <br>Promotion<br>(15/8/2023 - 30/11/2023)",
+          "text": "<b>For a limited time Website Prices are reduced.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.infyenterprise.com/\">MORE</a>"
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "P": {
+              "color": "#2969b0"
+            },
+            "H4": {
+              "color": "#553982"
+            },
+            "STRONG": {
+              "color": "#553982"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "contacts5-32",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>For more details feel free to get in touch.</b>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text2": "<b><a href=\"tel:+260 976503727\">+260 976503727</a> or <a href=\"tel:+260 950046478\">+260 950046478</a></b>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "Infy Tech Enterprise2",
+              "linkInNewWindow": false
+            }
+          },
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "mail",
+              "size": 0,
+              "family": "socicon",
+              "linkInNewWindow": false
+            }
+          },
+          "text4": "<a href=\"mailto:info@infyenterprise.com\"><b>info@infyenterprise.com</b></a>",
+          "title1": "Site Map",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html#top\">Home</a></li><li><a class=\"text-primary\" href=\"about-us.html#msg-box8-6\">About Us</a></li><li><a class=\"text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li><a class=\"text-primary\" href=\"projects.html#msg-box8-n\">Projects</a></li><li><a href=\"contact.html\">Contact Us</a></li>",
+          "text6": "<strong>Contacts</strong><br><b>Email:<a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">&nbsp;</a>info@infyenterprise.com<br>Cell: <a href=\"tel:+260 976503727\">+260 976503727</a><br>Cell: <a href=\"tel:+260 950046478\">+260 950046478</a></b><br><b>WhatsApp: <a href=\"https://wa.me/260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>Telegram</b>: <b><a href=\"tg://resolve?domain=+260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>SMS: <a href=\"sms:+260976503727\" class=\"text-primary\">+260 950046478</a></b><br><br><br><strong>Address</strong><br><b>To Be Announced</b>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@infyenterprise.com",
+            "alerts": {
+              "success": "Thanks for Contacting Us"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "Contact Us | Infy Tech Sys Solutions, Zambia",
+        "meta_descr": "Welcome to the Contact Us page of Infy Tech Sys Solutions, Zambia!\n\nAt Infy Tech Sys Solutions, Zambia, we value every interaction with our customers and stakeholders. This Contact Us page is your gateway to connect with us directly, whether you have inquiries, feedback, or require assistance with any of our products or services. Our dedicated team is here to ensure your experience with us is smooth, informative, and rewarding.\n\nContact Options:\nWe offer multiple ways for you to get in touch with us, catering to your preferred communication style. You can reach us through our convenient contact form, where you can provide specific details about your inquiry or feedback. Additionally, you'll find our email address and phone number for direct communication with our support team. Whichever method you choose, rest assured that we are committed to responding promptly and addressing your needs effectively.\n\nPrompt Response:\nAt Infy Tech Sys Solutions, Zambia, we understand that timely assistance is crucial. Our customer support team is on standby to respond to your queries and messages with utmost efficiency. Whether you have questions about our products, need technical support, or seek information on our services, we aim to provide you with comprehensive and timely responses, allowing you to make informed decisions.\n\nExpert Assistance:\nOur team of knowledgeable and friendly professionals is dedicated to helping you find solutions that best suit your requirements. Whether you are a new customer seeking information about our offerings or an existing client with specific needs, our experts will guide you through the process and ensure you have a satisfying experience with Infy Tech Sys Solutions, Zambia.\n\nFeedback and Suggestions:\nYour feedback is invaluable to us as it helps us improve and better serve you. We encourage you to share your thoughts, suggestions, and experiences with us through this platform. By actively listening to our customers, we can continuously enhance our products, services, and overall customer experience to meet and exceed your expectations.\n\nPrivacy and Security:\nInfy Tech Sys Solutions, Zambia takes your privacy and security seriously. Rest assured that any information you share with us through this page will be treated with the utmost confidentiality. We adhere to strict data protection practices, ensuring that your personal information remains secure and is used only for the purpose of addressing your inquiries and providing support.\n\nCollaborate with Us:\nIf you are interested in exploring potential partnerships, collaborations, or business opportunities with Infy Tech Sys Solutions, Zambia, this page is an ideal starting point. Get in touch with our business development team to discuss possibilities and synergies that could lead to mutual growth and success.\n\nWe look forward to hearing from you and assisting you in any way we can. Your satisfaction is our priority, and we are excited to be a part of your journey towards achieving your business goals. Contact us today, and let's embark on this meaningful collaboration together!",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": "6",
+        "meta_image": "@PROJECT_PATH@/assets/images/900px_logo-1400x1400.png"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "48px"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box8-47",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/chart-graph-business-finance-e32ee24807945ae9a6f2003739b691fd-2000x1046.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Contact Us",
+          "text": "<p><b>At Infytech Enterprises Zambia, we value every interaction with our customers and stakeholders. This Contact Us page is your gateway to connect with us directly, whether you have inquiries, feedback, or require assistance with any of our products or services. Our dedicated team is here to ensure your experience with us is smooth, informative, and rewarding.</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#2b0680"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "form1-4f",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#2b0680",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Email Us",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "info@infyenterprise.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#3d8eb9"
+            },
+            "H4": {
+              "color": "#2969b0"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "features6-4r",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title1": "Prompt Response:",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<b>At Infy Tech Sys Solutions, Zambia, we understand that timely assistance is crucial. Our customer support team is on standby to respond to your queries and messages with utmost efficiency. Whether you have questions about our products, need technical support, or seek information on our services, we aim to provide you with comprehensive and timely responses, allowing you to make informed decisions.<br></b><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title2": "Get In Touch Today:",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>We offer multiple ways for you to get in touch with us, catering to your preferred communication style. You can reach us through our convenient contact form, where you can provide specific details about your inquiry or feedback. Additionally, you'll find our email address and phone number for direct communication with our support team. Whichever method you choose, rest assured that we are committed to responding promptly and addressing your needs effectively.<br></b><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "refresh",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title3": "Feedback and Suggestions:",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<b>Your feedback is invaluable to us as it helps us improve and better serve you. We encourage you to share your thoughts, suggestions, and experiences with us through this platform. By actively listening to our customers, we can continuously enhance our products, services, and overall customer experience to meet and exceed your expectations.</b><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title4": "Expert Assistance:",
+          "subtitle4": "Infy Tech Enterprise gives you the freedom to develop",
+          "caption4": "<b>Our team of knowledgeable and friendly professionals is dedicated to helping you find solutions that best suit your requirements. Whether you are a new customer seeking information about our offerings or an existing client with specific needs, our experts will guide you through the process and ensure you have a satisfying experience with Infy Tech Sys Solutions, Zambia.</b>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "setting2",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title5": "Collaborate with Us:",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "<b>If you are interested in exploring potential partnerships, collaborations, or business opportunities with Infy Tech Sys Solutions, Zambia, this page is an ideal starting point. Get in touch with our business development team to discuss possibilities and synergies that could lead to mutual growth and success.</b>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "lock",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "#2969b0",
+              "newWindow": false
+            }
+          },
+          "title6": "Privacy and Security:",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "<b>Infy Tech Sys Solutions, Zambia takes your privacy and security seriously. Rest assured that any information you share with us through this page will be treated with the utmost confidentiality. We adhere to strict data protection practices, ensuring that your personal information remains secure and is used only for the purpose of addressing your inquiries and providing support.</b>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#2969b0"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content2-4i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>We look forward to hearing from you and assisting you in any way we can. Your satisfaction is our priority, and we are excited to be a part of your journey towards achieving your business goals. Contact us today, and let's embark on this meaningful collaboration together.</blockquote>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".card-subtitle B": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "features7",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "features7-4q",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "whatsapp",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.infyenterprise.com/",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title1": "WhatsApp",
+          "subtitle1": "<b><a href=\"https://wa.me/260950046478\" class=\"text-primary\">+260950046478</a></b>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Infy Tech Enterprise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "telegram",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.infyenterprise.com/",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "TeleGram",
+          "subtitle2": "<b><a href=\"tg://resolve?domain=+260950046478\" class=\"text-primary\">+260950046478</a></b>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Infy Tech Enterprise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.facebook.com/profile.php?id=100088560471365",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Facebook",
+          "subtitle3": "<b><a href=\"https://www.facebook.com/profile.php?id=100088560471365\" class=\"text-primary\">Follow</a></b>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Infy Tech Enterprise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "mail",
+              "family": "socicon",
+              "active": true,
+              "link": "mailto:info@infyenterprise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title4": "Email",
+          "subtitle4": "<b><a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">info@infyenterprise.com</a></b>",
+          "caption4": "Infy Tech Enterprise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "wechat",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.infyenterprise.com/",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title5": "SMS",
+          "subtitle5": "<b><a href=\"sms:+260976503727\" class=\"text-primary\">+260976503727</a></b>",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "link": "https://www.infyenterprise.com/",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title6": "Call<br>",
+          "subtitle6": "<b><a href=\"tel:+260976503727\" class=\"text-primary\">+260976503727</a></b>",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#7e9b9f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#7e9b9f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#7e9b9f"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#7e9b9f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b0680!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "ext_menu-4a",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#7e9b9f",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "height": 128,
+              "alt": "Infy Tech Sys Solutions  Logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://infyenterprise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy <br>Enterprises</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-4c",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "title": "Promotions:",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_sourceTheme": "mobirise3",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px",
+              "color": "#2969b0"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "msg-box5-4d",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/website-hosting-addvert-proposal-1400x892.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Web Site <br>Promotion<br>(15/8/2023 - 30/11/2023)",
+          "text": "<b>For a limited time Website Prices are reduced.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.infyenterprise.com/\">MORE</a>"
+        },
+        {
+          "alias": "facebook-feed/components",
+          "_isSecondary": true,
+          "typeCompatible": "!isAMP",
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".fb-page, span, iframe": {
+              "width": "(@width * 1px)",
+              "height": "(@height * 1px)"
+            },
+            "blockquote": {
+              "display": "none"
+            },
+            ".fb-page": {
+              "background-color": "#1877f2",
+              "border-radius": "4px",
+              "background-size": "contain",
+              "background-repeat": "no-repeat",
+              "color": "#fff",
+              "background-image": "url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 262 266.895'><path id='path3087' fill='%23fff' d='M182.409,262.307v-99.803h33.499l5.016-38.895h-38.515V98.777c0-11.261,3.127-18.935,19.275-18.935 l20.596-0.009V45.045c-3.562-0.474-15.788-1.533-30.012-1.533c-29.695,0-50.025,18.126-50.025,51.413v28.684h-33.585v38.895h33.585 v99.803H182.409z'></path></svg>\")"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title B": {
+              "font-size": "36px"
+            }
+          },
+          "_name": "facebook-page",
+          "_sourceTheme": "mobirise3",
+          "_customHTML": "<section class=\"facebook-page\" plugins=\"facebook-page-plugin\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"width\" title=\"Width\" step=\"10\" min=\"180\" max=\"500\" value=\"500\">\n        <input type=\"range\" name=\"height\" title=\"Height\" step=\"50\" min=\"70\" max=\"1000\" value=\"1000\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" name=\"showTitle\" title=\"Title\" checked>\n        <input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\">\n        <input type=\"checkbox\" name=\"showText\" title=\"Text\">\n        <header>Feed</header>\n        <input type=\"text\" name=\"url\" title=\"Facebook Page\" value=\"https://www.facebook.com/profile.php?id=100088560471365\">\n        <input type=\"checkbox\" name=\"cover\" title=\"Cover\" checked>\n        <input type=\"checkbox\" name=\"smallheader\" title=\"Small Header\">\n        <input type=\"checkbox\" name=\"ctabtn\" title=\"Call To Action\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#2969b0\">\n    </mbr-parameters>\n    <div class=\"container\">\n        <div class=\"mbr-section-head\" mbr-if=\"showTitle || showSubtitle\">\n            <h4 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>Our Facebook Page</b></h4>\n            <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Enter you Facebook Page URL in Block\n                Parameters</h5>\n            <p class=\"mbr-text mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Facebook Page Feed Text</p>\n        </div>\n        <div class=\"row justify-content-center mt-4\">\n            <iframe src=\"https://www.facebook.com/plugins/page.php?href={{url}}&tabs=timeline,events,messages&width={{width}}&height={{height}}&small_header={{smallheader}}&adapt_container_width=true&hide_cover={{!cover}}&hide_cta={{ctabtn}}&appId=2773163886047820\" width=\"340\" height=\"500\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n        </div>\n    </div>\n</section>",
+          "_cid": "tM9VdU9PXr",
+          "_anchor": "facebook-page-4u",
+          "_protectedParams": [],
+          "_params": {}
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "P": {
+              "color": "#2969b0"
+            },
+            "H4": {
+              "color": "#553982"
+            },
+            "STRONG": {
+              "color": "#553982"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "contacts5-4e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/900px-logo-128x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>For more details feel free to get in touch.</b>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "Infy Tech EnterpriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text2": "<b><a href=\"tel:+260 976503727\">+260 976503727</a> or <a href=\"tel:+260 950046478\">+260 950046478</a></b>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "Infy Tech Enterprise2",
+              "linkInNewWindow": false
+            }
+          },
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "mail",
+              "size": 0,
+              "family": "socicon",
+              "linkInNewWindow": false
+            }
+          },
+          "text4": "<a href=\"mailto:info@infyenterprise.com\"><b>info@infyenterprise.com</b></a>",
+          "title1": "Site Map",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html#top\">Home</a></li><li><a class=\"text-primary\" href=\"about-us.html#msg-box8-6\">About Us</a></li><li><a class=\"text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li><a class=\"text-primary\" href=\"projects.html#msg-box8-n\">Projects</a></li><li><a href=\"contact.html\">Contact Us</a></li>",
+          "text6": "<strong>Contacts</strong><br><b>Email:<a href=\"mailto:info@infyenterprise.com\" class=\"text-primary\">&nbsp;</a>info@infyenterprise.com<br>Cell: <a href=\"tel:+260 976503727\">+260 976503727</a><br>Cell: <a href=\"tel:+260 950046478\">+260 950046478</a></b><br><b>WhatsApp: <a href=\"https://wa.me/260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>Telegram</b>: <b><a href=\"tg://resolve?domain=+260 950046478\" class=\"text-primary\">+260 950046478</a></b><br><b>SMS: <a href=\"sms:+260976503727\" class=\"text-primary\">+260 950046478</a></b><br><br><br><strong>Address</strong><br><b>To Be Announced</b>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@infyenterprise.com",
+            "alerts": {
+              "success": "Thanks for Contacting Us"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        }
+      ]
+    }
+  }
+}
