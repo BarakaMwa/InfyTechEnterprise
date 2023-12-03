@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Infy Tech Enterprises",
-    "currentPage": "about-us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Infy Tech Enterprise 3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 190,
+    "uniqCompNum": 188,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -181,7 +181,10 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@mobisite",
+    "publishFtpPath": "public_html"
   },
   "pages": {
     "index.html": {
@@ -866,8 +869,8 @@
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
+              "name": "mobile2",
+              "family": "Infy Tech EnterpriseIcons",
               "active": true,
               "size": 0
             }
@@ -883,7 +886,7 @@
               "size": 0
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "<b>Munali Chudleigh, Lusaka , Zambia</b>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
@@ -1271,95 +1274,6 @@
           "caption": "<p><b>Infy Tech Sys Solutions, Zambia takes your privacy and security seriously. Rest assured that any information you share with us through this page will be treated with the utmost confidentiality. We adhere to strict data protection practices, ensuring that your personal information remains secure and is used only for the purpose of addressing your inquiries and providing support.</b></p>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#2969b0",
-              "text-align": "left"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<p>LinkedIn</p><p>Programmer, Database System Admin and Mobile App Developer</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/1579507534250-1-160x160.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "BARAKA MWANG'AMBA",
-              "authorBio": "CEO/Founder, <br>BSC Computer Science,<br>Sofware Developer BCX, CBU-IBIC<br>Projects ZRA (Tax Online 2), ZQAMIS, ERBMIS<br>"
-            },
-            {
-              "text": "<p>LinkedIn</p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Design and Technology Expert, Sales Assistant DAPP</span></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/undule-160x160.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "UNDULE MWANG'AMBA",
-              "authorBio": "CTO, <br>Bsc Education Technnlogy Studies,<br>Data Analyst Impact Enterprise Projects,<br>Lecturer King George College<br>"
-            },
-            {
-              "text": "<p>LinkedIn</p><p>Experienced Data Specialist, ICT Services. Sales and Marketing</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/1668543167870-160x160.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "CHARLES AMULIKE",
-              "authorBio": "CMO (CONSULTANT),<br>CEO-AFRIACTRON TECHNOLOGIES,<br>ExpressCredit Direct Sales Representative,<br>FNB Zambia Multi Skilled Consultant Sales &amp; Service&nbsp;<br>&nbsp;<br>"
-            }
-          ],
-          "_anchor": "testimonials1-59",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
-          },
-          "title": "OUR TEAM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
-        },
-        {
           "_inherit": "contacts3",
           "_styles": {
             "p, .list-group-text, .form-control-label": {
@@ -1453,7 +1367,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2563,7 +2477,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2644,23 +2558,23 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box8-n",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "4",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/project-header-2000x1500.jpeg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#2969b0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "Projects",
           "text": "<p><b>Here at Infy Tech Sys Solutions,, we take immense pride in the diverse range of technology projects we have successfully delivered to our clients. Our team of skilled professionals works diligently to bring your ideas to life and create impactful solutions tailored to your unique requirements. Explore some of our featured projects below:</b></p>",
@@ -2723,17 +2637,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-9",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2775,10 +2689,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-17",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Web Sites/Applications",
           "meta": "By John Smith posted July 20, 2016"
@@ -2805,25 +2719,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box5-2u",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "55",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2871,12 +2785,12 @@
           "_name": "header3",
           "_anchor": "header3-55",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
-          "title": "Computer Hardware&nbsp;<span style=\"line-height: 1.1;\">and&nbsp;</span><span style=\"line-height: 1.1;\">Software Maintenance</span>",
+          "title": "Web Sites/Applications",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -2900,31 +2814,31 @@
           },
           "_anchor": "msg-box5-56",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "55",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/324722022-3456986781243900-5532074422800362100-n-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/324722022_3456986781243900_5532074422800362100_n-1400x933.jpg",
               "link": "https://www.zbecks.net/",
               "alt": "",
               "title": "",
@@ -2943,7 +2857,7 @@
             }
           },
           "title": "<a href=\"https://www.facebook.com/St.Leticiaschool/\" target=\"_blank\">Saint Leticia Boarding School</a>",
-          "text": "In Ndalama Village of Central Province Zambia the New Secondary School St. Leticia brings Community Development &amp; Empowerment through Education.<br><br>Here at Infy Tech Sys Solutions and Rakkah Tech were honoured to have patterned with&nbsp;",
+          "text": "In Ndalama Village of Central Province Zambia the New Secondary School St. Leticia brings Community Development &amp; Empowerment through Education.<br><br>Here at Infy Tech Sys Solutions and Rakkah Tech were honoured",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.zbecks.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Site</a>"
         },
         {
@@ -2952,8 +2866,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -2961,7 +2882,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2971,7 +2892,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2981,7 +2902,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3027,18 +2948,11 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-57",
           "articleLayout": false,
@@ -3091,13 +3005,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -3138,7 +3052,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
           "media3": {
             "iconFont": {
               "active": true,
@@ -3826,7 +3740,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
           "media3": {
             "iconFont": {
               "active": true,
@@ -4607,7 +4521,7 @@
               "linkInNewWindow": false
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "Munali Chudliegh, Lusaka, Zambia",
           "media3": {
             "iconFont": {
               "active": true,
