@@ -1412,7 +1412,7 @@
     "services.html": {
       "settings": {
         "title": "Services | Infy Enterprises Zambia",
-        "meta_descr": "Welcome to the Services Page of Infy Enterprises Zambia!\n\nAt Infy Enterprises, we are dedicated to providing top-notch solutions to meet your business needs. Our comprehensive range of services is tailored to help you succeed and grow in today's competitive market. Whether you are a startup, a small business, or a large enterprise, we have the expertise and experience to deliver exceptional results. Explore our diverse service offerings below:",
+        "meta_descr": "Welcome to the Services Page of Infy Enterprises Zambia!\n\nAt Infy Tech Sys Enterprises, we are dedicated to providing top-notch solutions to meet your business needs. Our comprehensive range of services is tailored to help you succeed and grow in today's competitive market. Whether you are a startup, a small business, or a large enterprise, we have the expertise and experience to deliver exceptional results. Explore our diverse service offerings below:",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1570,7 +1570,7 @@
             "paddingBottom": 1,
             "bgColor": "#3d8eb9"
           },
-          "text": "<p><b>At Infy Enterprises, we are dedicated to providing top-notch solutions to meet your business needs. Our comprehensive range of services is tailored to help you succeed and grow in today's competitive market. Whether you are a startup, a small business, or a large enterprise, we have the expertise and experience to deliver exceptional results. Explore our diverse service offerings below:</b></p>"
+          "text": "<p><b>At Infy Tech Sys Enterprises, we are dedicated to providing top-notch solutions to meet your business needs. Our comprehensive range of services is tailored to help you succeed and grow in today's competitive market. Whether you are a startup, a small business, or a large enterprise, we have the expertise and experience to deliver exceptional results. Explore our diverse service offerings below:</b></p>"
         },
         {
           "_tags": [
@@ -1638,7 +1638,7 @@
             }
           },
           "title": "Web Hosting",
-          "text": "<b>Here at Infy Enterprises, we offer reliable and high-performance web hosting solutions tailored to meet your specific needs. Whether you're a small business owner, a startup, or a large enterprise, our robust hosting infrastructure ensures that your website remains accessible and runs smoothly. With our state-of-the-art servers, advanced security measures, and 24/7 monitoring, you can trust us to keep your website online and secure.</b><br>",
+          "text": "<b>Here at Infy Tech Sys Enterprises, we offer reliable and high-performance web hosting solutions tailored to meet your specific needs. Whether you're a small business owner, a startup, or a large enterprise, our robust hosting infrastructure ensures that your website remains accessible and runs smoothly. With our state-of-the-art servers, advanced security measures, and 24/7 monitoring, you can trust us to keep your website online and secure.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Prices List</a>"
         },
         {
@@ -2572,7 +2572,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Projects",
-          "text": "<p><b>Here at Infy Enterprises, we take immense pride in the diverse range of technology projects we have successfully delivered to our clients. Our team of skilled professionals works diligently to bring your ideas to life and create impactful solutions tailored to your unique requirements. Explore some of our featured projects below:</b></p>",
+          "text": "<p><b>Here at Infy Tech Sys Enterprises, we take immense pride in the diverse range of technology projects we have successfully delivered to our clients. Our team of skilled professionals works diligently to bring your ideas to life and create impactful solutions tailored to your unique requirements. Explore some of our featured projects below:</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://infyenterprise.com\">SEE ALL TEMPLATES</a>"
         },
         {
