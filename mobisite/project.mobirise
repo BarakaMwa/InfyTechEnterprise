@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Infy Tech Sys Solutions",
-    "currentPage": "st-leticia-project.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise3",
       "title": "Infy Tech Sys Solution 3",
@@ -2911,7 +2911,7 @@
           },
           "_anchor": "msg-box5-56",
           "_params": {
-            "imageSize": "43",
+            "imageSize": "56",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -2977,68 +2977,79 @@
                 "active": false
               },
               {
+                "alt": "",
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.36-dc4ac583.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-9ecaedb2-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-9ecaedb2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
+                "alt": "",
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.41-e26d8ac3-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.41-e26d8ac3-1024x768.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
               {
+                "alt": "",
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dffbe2a5-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dffbe2a5-1024x768.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
+                "alt": "",
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-2c7b9ac9-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-2c7b9ac9-1024x768.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
+                "alt": "",
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-d49318cd-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-d49318cd-1024x768.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
+                "alt": "",
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dfabea08-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dfabea08-1024x768.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
+                "alt": "",
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-ff6899b3-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-ff6899b3-1024x768.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
