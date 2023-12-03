@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Infy Tech Sys Solutions",
-    "currentPage": "contact.html",
+    "currentPage": "st-leticia-project.html",
     "theme": {
       "name": "mobirise3",
       "title": "Infy Tech Sys Solution 3",
@@ -27,7 +27,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 200,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -168,12 +168,12 @@
       }
     ],
     "imageResize": true,
-    "favicon": "",
+    "favicon": false,
     "mbrsiteDomain": "5lujtujiap",
-    "robotsSwitcher": "on",
-    "sitemapSwitcher": "on",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://www.infyenterprise.com/",
+    "siteUrl": false,
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
@@ -181,12 +181,10 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": false,
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
-    "publishFtpPath": "public_html",
-    "noImageResize": "",
-    "google-analytics": ""
+    "publishPath": "@PROJECT_PATH@mobisite",
+    "publishFtpPath": "public_html"
   },
   "pages": {
     "index.html": {
@@ -257,17 +255,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -285,7 +283,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy TechSys<br>Enterprises</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span style=\"font-weight: normal;\">Infy TechSys<br>Enterprises</span></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
         },
         {
@@ -310,24 +308,24 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header2-2",
           "_params": {
-            "imageSize": "55",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "55",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -376,10 +374,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-x",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Here to offer you",
           "meta": "By John Smith posted July 20, 2016"
@@ -400,27 +398,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-y",
           "_params": {
-            "columnsColor": "#2969b0",
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true
+            "showButtons": true,
+            "columnsColor": "#2969b0",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -534,27 +532,27 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "features1-10",
           "_params": {
-            "columnsColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true
+            "showButtons": true,
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -675,25 +673,25 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box6-w",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "61",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/azqxwsedvrtgbthyhyjjumuj-2000x1250.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
             "overlayColor": "#ffffff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
@@ -741,10 +739,10 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-z",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2969b0",
-            "showMeta": false
+            "bgColor": "#2969b0"
           },
           "title": "Get In Touch Today",
           "meta": "By John Smith posted July 20, 2016"
@@ -838,13 +836,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
@@ -1032,7 +1030,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy TechSys<br>Enterprises</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span style=\"font-weight: normal;\">Infy TechSys<br>Enterprises</span></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
         },
         {
@@ -1606,7 +1604,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy TechSys<br>Enterprises</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span style=\"font-weight: normal;\">Infy TechSys<br>Enterprises</span></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
         },
         {
@@ -2765,7 +2763,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy TechSys<br>Enterprises</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span style=\"font-weight: normal;\">Infy TechSys<br>Enterprises</span></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
         },
         {
@@ -3557,7 +3555,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy TechSys<br>Enterprises</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span style=\"font-weight: normal;\">Infy TechSys<br>Enterprises</span></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
         },
         {
@@ -4403,7 +4401,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy TechSys<br>Enterprises</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span style=\"font-weight: normal;\">Infy TechSys<br>Enterprises</span></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
         },
         {
@@ -4741,17 +4739,17 @@
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-5a",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -4769,8 +4767,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy TechSys<br>Enterprises</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
+          "brand": "<a class=\"navbar-caption text-white text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Infy TechSys<br>Enterprises</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"about-us.html#msg-box8-6\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"services.html#msg-box8-p\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"projects.html#msg-box8-n\">Projects<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"contact.html#msg-box8-m\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://wa.me/260950046478\">WhatsApp: +260950046478</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"mailto:info@infyenterprise.com\">Email Us</a></li>"
         },
         {
           "_styles": {
@@ -4792,23 +4790,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-5c",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": "5",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/324722022_3456986781243900_5532074422800362100_n-1400x933.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "The St. Leticia Project",
           "text": "<p><b>In Ndalama Village of Central Province Zambia the New Secondary School St. Leticia brings Community Development &amp; Empowerment through Education.</b></p>",
@@ -4833,25 +4831,25 @@
           },
           "_anchor": "msg-box5-5f",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "63",
             "paddingTop": "1",
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -5051,13 +5049,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/grunge-paint-background-2000x1200.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "logo": {
             "image": {
