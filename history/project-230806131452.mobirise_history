@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
-      "title": "Infy Tech Enterprise 3",
+      "title": "Infy Tech Sys Solution 3",
       "styling": {
         "primaryColor": "#2b0680",
         "secondaryColor": "#2969b0",
@@ -866,7 +866,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
               "name": "phone",
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "active": true,
               "size": 0
             }
@@ -877,7 +877,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
               "name": "map-pin",
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "active": true,
               "size": 0
             }
@@ -1346,7 +1346,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "phone",
               "size": 0,
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "linkInNewWindow": false
             }
           },
@@ -1357,7 +1357,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "linkInNewWindow": false
             }
           },
@@ -2298,7 +2298,7 @@
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "like",
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "active": true,
               "link": "#",
               "size": 0,
@@ -2315,7 +2315,7 @@
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "growing-chart",
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "active": true,
               "link": "#",
               "size": 0,
@@ -2349,7 +2349,7 @@
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "users",
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "active": true,
               "link": "#",
               "size": 0,
@@ -2456,7 +2456,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "phone",
               "size": 0,
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "linkInNewWindow": false
             }
           },
@@ -2467,7 +2467,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "linkInNewWindow": false
             }
           },
@@ -2838,7 +2838,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "phone",
               "size": 0,
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "linkInNewWindow": false
             }
           },
@@ -2849,7 +2849,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "linkInNewWindow": false
             }
           },
@@ -3526,7 +3526,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "phone",
               "size": 0,
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "linkInNewWindow": false
             }
           },
@@ -3537,7 +3537,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "linkInNewWindow": false
             }
           },
@@ -3740,7 +3740,7 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "delivery",
-              "family": "Infy Tech EnterpriseIcons",
+              "family": "Infy Tech Sys SolutionIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3757,7 +3757,7 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "touch",
-              "family": "Infy Tech EnterpriseIcons",
+              "family": "Infy Tech Sys SolutionIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3774,7 +3774,7 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "refresh",
-              "family": "Infy Tech EnterpriseIcons",
+              "family": "Infy Tech Sys SolutionIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3791,7 +3791,7 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "setting",
-              "family": "Infy Tech EnterpriseIcons",
+              "family": "Infy Tech Sys SolutionIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3800,7 +3800,7 @@
             }
           },
           "title4": "Expert Assistance:",
-          "subtitle4": "Infy Tech Enterprise gives you the freedom to develop",
+          "subtitle4": "Infy Tech Sys Solution gives you the freedom to develop",
           "caption4": "<b>Our team of knowledgeable and friendly professionals is dedicated to helping you find solutions that best suit your requirements. Whether you are a new customer seeking information about our offerings or an existing client with specific needs, our experts will guide you through the process and ensure you have a satisfying experience with Infy Tech Sys Solutions, Zambia.</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -3808,7 +3808,7 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "setting2",
-              "family": "Infy Tech EnterpriseIcons",
+              "family": "Infy Tech Sys SolutionIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3825,7 +3825,7 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "lock",
-              "family": "Infy Tech EnterpriseIcons",
+              "family": "Infy Tech Sys SolutionIcons",
               "active": true,
               "link": "#",
               "size": 0,
@@ -3921,7 +3921,7 @@
           },
           "title1": "WhatsApp",
           "subtitle1": "<b>+260950046478</b>",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Infy Tech Enterprise has been equipped to develop websites using this framework.",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Infy Tech Sys Solution has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -3937,7 +3937,7 @@
           },
           "title2": "TeleGram",
           "subtitle2": "<b>+260950046478</b>",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Infy Tech Enterprise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Infy Tech Sys Solution makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -3953,7 +3953,7 @@
           },
           "title3": "Facebook",
           "subtitle3": "<b><a href=\"https://www.facebook.com/profile.php?id=100088560471365\">Follow</a></b>",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Infy Tech Enterprise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Infy Tech Sys Solution makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -3969,7 +3969,7 @@
           },
           "title4": "Email",
           "subtitle4": "<b>info@infyenterprise.com</b>",
-          "caption4": "Infy Tech Enterprise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Infy Tech Sys Solution gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.infyenterprise.com/\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -3992,7 +3992,7 @@
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "touch",
-              "family": "Infy Tech EnterpriseIcons",
+              "family": "Infy Tech Sys SolutionIcons",
               "active": true,
               "link": "https://www.infyenterprise.com/",
               "size": 0,
@@ -4264,7 +4264,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "phone",
               "size": 0,
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "linkInNewWindow": false
             }
           },
@@ -4275,7 +4275,7 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "Infy Tech Enterprise2",
+              "family": "Infy Tech Sys Solution2",
               "linkInNewWindow": false
             }
           },
