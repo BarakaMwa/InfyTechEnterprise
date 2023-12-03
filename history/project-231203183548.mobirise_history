@@ -2973,7 +2973,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -3029,7 +3029,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 0,
