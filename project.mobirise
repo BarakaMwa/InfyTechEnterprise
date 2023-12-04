@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Infy Tech Sys Solutions",
-    "currentPage": "projects.html",
+    "currentPage": "about-us.html",
     "theme": {
       "name": "mobirise3",
       "title": "Infy Tech Sys Solution 3",
@@ -182,6 +182,9 @@
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": "",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "publishFtpPath": "public_html",
     "noImageResize": "",
     "google-analytics": ""
   },
@@ -1289,7 +1292,7 @@
               "text": "<p>LinkedIn</p><p>Programmer, Database System Admin and Mobile App Developer</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/1579507534250-1-160x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/1579507534250%20(1)-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -2935,7 +2938,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/324722022-3456986781243900-5532074422800362100-n-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/324722022_3456986781243900_5532074422800362100_n-1400x933.jpg",
               "link": "https://www.zbecks.net/",
               "alt": "",
               "title": "",
@@ -2972,7 +2975,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-9ecaedb2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.40_9ecaedb2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2983,7 +2986,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-9ecaedb2-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-9ecaedb2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.40_9ecaedb2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2994,7 +2997,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.41-e26d8ac3-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.41-e26d8ac3-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.41_e26d8ac3-1024x768.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -3005,7 +3008,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dffbe2a5-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dffbe2a5-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.40_dffbe2a5-1024x768.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3016,7 +3019,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-2c7b9ac9-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-2c7b9ac9-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.38_2c7b9ac9-1024x768.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3027,7 +3030,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-d49318cd-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-d49318cd-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.38_d49318cd-1024x768.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3038,7 +3041,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dfabea08-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-dfabea08-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.40_dfabea08-1024x768.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3049,7 +3052,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-ff6899b3-1024x768-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.38-ff6899b3-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.38_ff6899b3-1024x768.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -4530,7 +4533,7 @@
             "shortName": "",
             "socialDisqus": false
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         },
@@ -4831,7 +4834,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/324722022-3456986781243900-5532074422800362100-n-1400x933.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/324722022_3456986781243900_5532074422800362100_n-1400x933.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4892,7 +4895,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-11-08-at-19.33.40-9ecaedb2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-11-08%20at%2019.33.40_9ecaedb2.jpg",
               "link": "",
               "alt": "",
               "title": "",
