@@ -769,6 +769,7 @@ h6,
 
 
 
+
 #ext_menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -943,6 +944,18 @@ h6,
 #msg-box5-23 P {
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
+}
+#msg-box5-5m H3 {
+  color: #ffffff;
+  font-size: 30px;
+  text-align: left;
+}
+#msg-box5-5m P {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+}
+#msg-box5-5m B {
+  text-align: left;
 }
 #header3-11 .mbr-section-title,
 #header3-11 .mbr-section-subtitle {
