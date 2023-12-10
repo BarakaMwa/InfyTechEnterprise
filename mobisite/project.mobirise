@@ -2317,7 +2317,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -2343,7 +2343,7 @@
           },
           "title": "ICT Equipment Supply and Mobile Devices Retail",
           "text": "<b>We facilitate the procurement of top-notch ICT equipment and mobile devices for businesses. Our retail and supply services ensured clients had access to cutting-edge technology to support their operations</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">Price List</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://wa.me/c/260950046478\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View Our Catalogue</a>"
         },
         {
           "_styles": {
